@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.DS_Store
+.env*
+!.env.example
+DataBase/cache
+DataBase/Football
+DataBase/FormulaOne/archive
+DataBase/FormulaOne/src
+tmp
+npm-debug.log*

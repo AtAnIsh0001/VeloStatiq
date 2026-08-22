@@ -1,0 +1,28 @@
+{
+  "competition": "UEFA Champions League",
+  "season": "2026/27",
+  "updatedAt": "2026-08-22",
+  "source": "UEFA.com",
+  "sourceUrl": "https://www.uefa.com/uefachampionsleague/accesslist/",
+  "format": {
+    "leaguePhaseTeams": 36,
+    "automaticQualifiers": 29,
+    "playoffQualifiers": 7,
+    "leaguePhaseMatchesPerTeam": 8
+  },
+  "milestones": [
+    { "label": "Play-off second legs", "date": "25–26 August 2026" },
+    { "label": "League phase draw", "date": "27 August 2026" },
+    { "label": "League phase begins", "date": "8 September 2026" },
+    { "label": "Final · Estadio Metropolitano, Madrid", "date": "5 June 2027" }
+  ],
+  "upcoming": [
+    { "id": "ucl-2026-sabah-hbs", "date": "2026-08-25", "publishedTime": "18:45 CET", "home": "Sabah", "away": "Hapoel Beer-Sheva", "path": "Champions path" },
+    { "id": "ucl-2026-lask-celtic", "date": "2026-08-25", "publishedTime": "21:00 CET", "home": "LASK", "away": "Celtic", "path": "Champions path" },
+    { "id": "ucl-2026-bodo-nec", "date": "2026-08-25", "publishedTime": "21:00 CET", "home": "Bodø/Glimt", "away": "N.E.C.", "path": "League path" },
+    { "id": "ucl-2026-aek-levski", "date": "2026-08-26", "publishedTime": "21:00 CET", "home": "AEK Athens", "away": "Levski Sofia", "path": "Champions path" },
+    { "id": "ucl-2026-viking-dinamo", "date": "2026-08-26", "publishedTime": "21:00 CET", "home": "Viking", "away": "GNK Dinamo", "path": "Champions path" },
+    { "id": "ucl-2026-celje-slovan", "date": "2026-08-26", "publishedTime": "21:00 CET", "home": "Celje", "away": "Slovan Bratislava", "path": "Champions path" },
+    { "id": "ucl-2026-lyon-fenerbahce", "date": "2026-08-26", "publishedTime": "21:00 CET", "home": "Lyon", "away": "Fenerbahçe", "path": "League path" }
+  ]
+}

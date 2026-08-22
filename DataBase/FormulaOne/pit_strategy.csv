@@ -1,0 +1,1389 @@
+Season,RaceName,Country,Driver,Team,LapNumber,Stint,Compound,TyreLife,PitInTime,Position,position_before_pit,position_3laps_after_pit,positions_gained,undercut_successful,strategy_outcome
+2021,Abu Dhabi,Abu Dhabi,ALO,Alpine,36.0,1.0,HARD,37.0,7026.384,4.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,BOT,Mercedes,30.0,1.0,MEDIUM,35.0,6450.752,4.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,GAS,AlphaTauri,36.0,1.0,HARD,36.0,7027.35,5.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,GAS,AlphaTauri,54.0,2.0,MEDIUM,21.0,8696.738,6.0,5.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,GIO,Alfa Romeo Racing,17.0,1.0,MEDIUM,17.0,5300.811,12.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,HAM,Mercedes,14.0,1.0,MEDIUM,17.0,4985.036,1.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,LAT,Williams,28.0,1.0,MEDIUM,28.0,6318.551,16.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,LEC,Ferrari,15.0,1.0,SOFT,18.0,5108.752,8.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,LEC,Ferrari,35.0,2.0,HARD,20.0,6924.615,9.0,8.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,MSC,Haas F1 Team,10.0,1.0,SOFT,10.0,4675.97,19.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,MSC,Haas F1 Team,52.0,2.0,HARD,42.0,8562.644,15.0,19.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,NOR,McLaren,17.0,1.0,SOFT,20.0,5285.092,5.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,NOR,McLaren,48.0,2.0,HARD,31.0,8106.969,6.0,5.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,OCO,Alpine,15.0,1.0,SOFT,18.0,5114.099,10.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,21.0,1.0,SOFT,24.0,5635.684,3.0,,3.0,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,36.0,2.0,HARD,15.0,7001.179,3.0,3.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,53.0,3.0,HARD,17.0,8529.875,3.0,3.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,55.0,4.0,SOFT,5.0,8793.514,3.0,3.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,RAI,Alfa Romeo Racing,21.0,1.0,MEDIUM,21.0,5669.994,13.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,RAI,Alfa Romeo Racing,25.0,2.0,HARD,4.0,6104.655,19.0,13.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,RIC,McLaren,18.0,1.0,SOFT,21.0,5387.666,9.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,RIC,McLaren,52.0,2.0,HARD,34.0,8498.666,11.0,9.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,SAI,Ferrari,19.0,1.0,SOFT,22.0,5459.433,4.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,STR,Aston Martin,21.0,1.0,MEDIUM,21.0,5665.91,11.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,STR,Aston Martin,52.0,2.0,HARD,31.0,8515.92,14.0,11.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,TSU,AlphaTauri,23.0,1.0,MEDIUM,27.0,5825.775,4.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,TSU,AlphaTauri,53.0,2.0,HARD,30.0,8582.376,6.0,4.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,VER,Red Bull Racing,13.0,1.0,SOFT,16.0,4903.157,2.0,,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,VER,Red Bull Racing,36.0,2.0,HARD,23.0,6966.936,2.0,2.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,VER,Red Bull Racing,53.0,3.0,HARD,17.0,8497.624,2.0,2.0,,,,Unknown
+2021,Abu Dhabi,Abu Dhabi,VET,Aston Martin,23.0,1.0,MEDIUM,23.0,5843.727,10.0,,,,,Unknown
+2021,Austria,Austria,ALO,Alpine,32.0,1.0,MEDIUM,32.0,6101.452,11.0,,,,,Unknown
+2021,Austria,Austria,BOT,Mercedes,30.0,1.0,MEDIUM,33.0,5922.092,4.0,,,,,Unknown
+2021,Austria,Austria,GAS,AlphaTauri,13.0,1.0,SOFT,16.0,4745.067,5.0,,,,,Unknown
+2021,Austria,Austria,GAS,AlphaTauri,45.0,2.0,HARD,32.0,7009.237,9.0,5.0,,,,Unknown
+2021,Austria,Austria,GIO,Alfa Romeo Racing,1.0,1.0,MEDIUM,1.0,3822.894,12.0,,,,,Unknown
+2021,Austria,Austria,GIO,Alfa Romeo Racing,29.0,2.0,HARD,28.0,5898.952,17.0,12.0,,,,Unknown
+2021,Austria,Austria,HAM,Mercedes,31.0,1.0,MEDIUM,34.0,5986.03,2.0,,,,,Unknown
+2021,Austria,Austria,HAM,Mercedes,53.0,2.0,HARD,22.0,7533.537,4.0,2.0,,,,Unknown
+2021,Austria,Austria,LAT,Williams,33.0,1.0,MEDIUM,33.0,6182.401,14.0,,,,,Unknown
+2021,Austria,Austria,LEC,Ferrari,34.0,1.0,MEDIUM,37.0,6227.934,6.0,,,,,Unknown
+2021,Austria,Austria,MAZ,Haas F1 Team,27.0,1.0,MEDIUM,27.0,5775.507,19.0,,,,,Unknown
+2021,Austria,Austria,MAZ,Haas F1 Team,45.0,2.0,HARD,18.0,7078.815,19.0,19.0,,,,Unknown
+2021,Austria,Austria,MSC,Haas F1 Team,34.0,1.0,MEDIUM,34.0,6267.351,16.0,,,,,Unknown
+2021,Austria,Austria,NOR,McLaren,30.0,1.0,MEDIUM,33.0,5920.273,3.0,,,,,Unknown
+2021,Austria,Austria,PER,Red Bull Racing,32.0,1.0,MEDIUM,35.0,6088.436,7.0,,,,,Unknown
+2021,Austria,Austria,RAI,Alfa Romeo Racing,37.0,1.0,HARD,37.0,6451.007,9.0,,,,,Unknown
+2021,Austria,Austria,RIC,McLaren,29.0,1.0,MEDIUM,29.0,5875.732,7.0,,,,,Unknown
+2021,Austria,Austria,RUS,Williams,30.0,1.0,MEDIUM,33.0,5957.103,10.0,,,,,Unknown
+2021,Austria,Austria,SAI,Ferrari,48.0,1.0,HARD,48.0,7208.02,5.0,,,,,Unknown
+2021,Austria,Austria,STR,Aston Martin,14.0,1.0,SOFT,17.0,4820.75,9.0,,,,,Unknown
+2021,Austria,Austria,STR,Aston Martin,46.0,2.0,HARD,32.0,7100.169,15.0,9.0,,,,Unknown
+2021,Austria,Austria,TSU,AlphaTauri,12.0,1.0,SOFT,15.0,4676.159,10.0,,,,,Unknown
+2021,Austria,Austria,TSU,AlphaTauri,51.0,2.0,HARD,39.0,7437.419,9.0,10.0,,,,Unknown
+2021,Austria,Austria,VER,Red Bull Racing,32.0,1.0,MEDIUM,35.0,6043.035,1.0,,,,,Unknown
+2021,Austria,Austria,VER,Red Bull Racing,60.0,2.0,HARD,28.0,7983.809,1.0,1.0,,,,Unknown
+2021,Austria,Austria,VET,Aston Martin,17.0,1.0,SOFT,20.0,5034.869,9.0,,,,,Unknown
+2021,Austria,Austria,VET,Aston Martin,49.0,2.0,HARD,32.0,7300.456,10.0,9.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,ALO,Alpine,7.0,1.0,SOFT,10.0,2815.89,11.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,ALO,Alpine,47.0,3.0,SOFT,15.0,7444.301,10.0,11.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,BOT,Mercedes,11.0,1.0,SOFT,15.0,3249.364,6.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,BOT,Mercedes,47.0,2.0,HARD,36.0,7448.434,13.0,6.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,GAS,AlphaTauri,11.0,1.0,SOFT,16.0,3236.378,4.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,GAS,AlphaTauri,47.0,2.0,HARD,36.0,7426.043,4.0,4.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,GIO,Alfa Romeo Racing,2.0,1.0,SOFT,2.0,2276.858,18.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,GIO,Alfa Romeo Racing,47.0,3.0,HARD,13.0,7447.7,12.0,18.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,HAM,Mercedes,11.0,1.0,SOFT,15.0,3230.882,3.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,HAM,Mercedes,47.0,2.0,HARD,36.0,7420.041,2.0,3.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,LAT,Williams,9.0,1.0,MEDIUM,9.0,3048.113,13.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,LEC,Ferrari,9.0,1.0,SOFT,12.0,3021.848,6.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,LEC,Ferrari,47.0,2.0,HARD,38.0,7428.561,5.0,6.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,MAZ,Haas F1 Team,9.0,1.0,SOFT,9.0,3058.923,17.0,,17.0,,,Unknown
+2021,Azerbaijan,Azerbaijan,MAZ,Haas F1 Team,34.0,2.0,HARD,25.0,6061.767,18.0,17.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,MAZ,Haas F1 Team,44.0,3.0,SOFT,12.0,7177.531,18.0,18.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,MAZ,Haas F1 Team,46.0,4.0,SOFT,7.0,7458.843,17.0,18.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,MSC,Haas F1 Team,8.0,1.0,SOFT,8.0,2940.848,16.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,MSC,Haas F1 Team,44.0,3.0,SOFT,12.0,7116.078,17.0,16.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,NOR,McLaren,7.0,1.0,SOFT,10.0,2817.18,12.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,NOR,McLaren,47.0,2.0,HARD,40.0,7433.97,7.0,12.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,OCO,Alpine,3.0,1.0,SOFT,3.0,2400.233,18.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,PER,Red Bull Racing,13.0,1.0,SOFT,16.0,3446.235,1.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,PER,Red Bull Racing,47.0,2.0,HARD,34.0,7419.425,1.0,1.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,RAI,Alfa Romeo Racing,13.0,1.0,MEDIUM,13.0,3479.764,10.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,RAI,Alfa Romeo Racing,47.0,2.0,HARD,34.0,7445.716,11.0,10.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,RIC,McLaren,11.0,1.0,SOFT,11.0,3252.511,8.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,RIC,McLaren,47.0,2.0,HARD,36.0,7441.926,9.0,8.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,RUS,Williams,1.0,1.0,MEDIUM,1.0,2167.663,20.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,RUS,Williams,47.0,3.0,HARD,13.0,7449.015,14.0,20.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,SAI,Ferrari,10.0,1.0,SOFT,13.0,3132.067,5.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,SAI,Ferrari,47.0,2.0,HARD,37.0,7436.453,8.0,5.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,TSU,AlphaTauri,9.0,1.0,SOFT,15.0,3029.177,9.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,TSU,AlphaTauri,47.0,2.0,HARD,38.0,7431.228,6.0,9.0,,,,Unknown
+2021,Azerbaijan,Azerbaijan,VER,Red Bull Racing,12.0,1.0,SOFT,13.0,3338.279,2.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,VET,Aston Martin,18.0,1.0,SOFT,18.0,3993.91,2.0,,,,,Unknown
+2021,Azerbaijan,Azerbaijan,VET,Aston Martin,47.0,2.0,HARD,29.0,7422.84,3.0,2.0,,,,Unknown
+2021,Bahrain,Bahrain,ALO,Alpine,11.0,1.0,SOFT,14.0,3452.56,9.0,,,,,Unknown
+2021,Bahrain,Bahrain,ALO,Alpine,29.0,2.0,MEDIUM,18.0,5234.206,12.0,9.0,,,,Unknown
+2021,Bahrain,Bahrain,ALO,Alpine,32.0,3.0,HARD,3.0,5550.161,16.0,12.0,,,,Unknown
+2021,Bahrain,Bahrain,BOT,Mercedes,16.0,1.0,MEDIUM,19.0,3924.696,2.0,,,,,Unknown
+2021,Bahrain,Bahrain,BOT,Mercedes,30.0,2.0,HARD,14.0,5279.311,2.0,2.0,,,,Unknown
+2021,Bahrain,Bahrain,BOT,Mercedes,54.0,3.0,HARD,24.0,7581.738,3.0,2.0,,,,Unknown
+2021,Bahrain,Bahrain,GAS,AlphaTauri,4.0,1.0,MEDIUM,7.0,2774.801,18.0,,16.0,,,Unknown
+2021,Bahrain,Bahrain,GAS,AlphaTauri,19.0,2.0,HARD,15.0,4278.062,18.0,18.0,,,,Unknown
+2021,Bahrain,Bahrain,GAS,AlphaTauri,39.0,3.0,MEDIUM,23.0,6236.395,16.0,18.0,,,,Unknown
+2021,Bahrain,Bahrain,GAS,AlphaTauri,52.0,4.0,HARD,13.0,7490.34,16.0,16.0,,,,Unknown
+2021,Bahrain,Bahrain,GIO,Alfa Romeo Racing,12.0,1.0,MEDIUM,12.0,3555.082,11.0,,,,,Unknown
+2021,Bahrain,Bahrain,GIO,Alfa Romeo Racing,30.0,2.0,HARD,18.0,5335.899,11.0,11.0,,,,Unknown
+2021,Bahrain,Bahrain,HAM,Mercedes,13.0,1.0,MEDIUM,16.0,3629.611,2.0,,,,,Unknown
+2021,Bahrain,Bahrain,HAM,Mercedes,28.0,2.0,HARD,15.0,5081.24,2.0,2.0,,,,Unknown
+2021,Bahrain,Bahrain,LAT,Williams,14.0,1.0,SOFT,14.0,3764.704,13.0,,,,,Unknown
+2021,Bahrain,Bahrain,LAT,Williams,32.0,2.0,MEDIUM,18.0,5553.032,17.0,13.0,,,,Unknown
+2021,Bahrain,Bahrain,LAT,Williams,51.0,3.0,MEDIUM,19.0,7458.972,18.0,17.0,,,,Unknown
+2021,Bahrain,Bahrain,LEC,Ferrari,12.0,1.0,SOFT,15.0,3546.889,6.0,,,,,Unknown
+2021,Bahrain,Bahrain,LEC,Ferrari,32.0,2.0,MEDIUM,20.0,5500.633,5.0,6.0,,,,Unknown
+2021,Bahrain,Bahrain,MSC,Haas F1 Team,14.0,1.0,MEDIUM,14.0,3778.451,17.0,,,,,Unknown
+2021,Bahrain,Bahrain,MSC,Haas F1 Team,33.0,2.0,MEDIUM,19.0,5667.423,17.0,17.0,,,,Unknown
+2021,Bahrain,Bahrain,NOR,McLaren,12.0,1.0,SOFT,15.0,3545.532,5.0,,,,,Unknown
+2021,Bahrain,Bahrain,NOR,McLaren,33.0,2.0,MEDIUM,21.0,5591.987,3.0,5.0,,,,Unknown
+2021,Bahrain,Bahrain,OCO,Alpine,13.0,1.0,SOFT,13.0,3655.991,9.0,,,,,Unknown
+2021,Bahrain,Bahrain,OCO,Alpine,31.0,2.0,MEDIUM,18.0,5429.744,10.0,9.0,,,,Unknown
+2021,Bahrain,Bahrain,PER,Red Bull Racing,2.0,1.0,MEDIUM,5.0,2517.867,19.0,,,,,Unknown
+2021,Bahrain,Bahrain,PER,Red Bull Racing,19.0,2.0,MEDIUM,20.0,4235.674,4.0,19.0,,,,Unknown
+2021,Bahrain,Bahrain,PER,Red Bull Racing,38.0,3.0,HARD,19.0,6080.638,4.0,4.0,,,,Unknown
+2021,Bahrain,Bahrain,RAI,Alfa Romeo Racing,13.0,1.0,MEDIUM,13.0,3652.633,7.0,,,,,Unknown
+2021,Bahrain,Bahrain,RAI,Alfa Romeo Racing,29.0,2.0,HARD,16.0,5226.76,9.0,7.0,,,,Unknown
+2021,Bahrain,Bahrain,RIC,McLaren,13.0,1.0,SOFT,16.0,3645.671,4.0,,,,,Unknown
+2021,Bahrain,Bahrain,RIC,McLaren,32.0,2.0,MEDIUM,19.0,5505.358,7.0,4.0,,,,Unknown
+2021,Bahrain,Bahrain,RUS,Williams,13.0,1.0,SOFT,13.0,3662.699,12.0,,,,,Unknown
+2021,Bahrain,Bahrain,RUS,Williams,36.0,2.0,MEDIUM,23.0,5928.507,13.0,12.0,,,,Unknown
+2021,Bahrain,Bahrain,SAI,Ferrari,15.0,1.0,SOFT,18.0,3844.526,5.0,,,,,Unknown
+2021,Bahrain,Bahrain,SAI,Ferrari,37.0,2.0,MEDIUM,22.0,5994.069,6.0,5.0,,,,Unknown
+2021,Bahrain,Bahrain,STR,Aston Martin,12.0,1.0,SOFT,15.0,3549.889,8.0,,,,,Unknown
+2021,Bahrain,Bahrain,STR,Aston Martin,28.0,2.0,MEDIUM,16.0,5124.368,9.0,8.0,,,,Unknown
+2021,Bahrain,Bahrain,TSU,AlphaTauri,15.0,1.0,MEDIUM,18.0,3853.137,7.0,,,,,Unknown
+2021,Bahrain,Bahrain,TSU,AlphaTauri,33.0,2.0,HARD,18.0,5616.906,8.0,7.0,,,,Unknown
+2021,Bahrain,Bahrain,VER,Red Bull Racing,17.0,1.0,MEDIUM,20.0,4015.22,1.0,,,,,Unknown
+2021,Bahrain,Bahrain,VER,Red Bull Racing,39.0,2.0,MEDIUM,22.0,6133.427,1.0,1.0,,,,Unknown
+2021,Bahrain,Bahrain,VET,Aston Martin,24.0,1.0,MEDIUM,24.0,4749.201,14.0,,,,,Unknown
+2021,Britain,Great Britain,ALO,Alpine,24.0,2.0,MEDIUM,23.0,8291.006,6.0,,,,,Unknown
+2021,Britain,Great Britain,BOT,Mercedes,22.0,2.0,MEDIUM,20.0,8082.696,3.0,,,,,Unknown
+2021,Britain,Great Britain,GAS,AlphaTauri,28.0,2.0,MEDIUM,28.0,8669.526,6.0,,,,,Unknown
+2021,Britain,Great Britain,GAS,AlphaTauri,46.0,3.0,HARD,18.0,10360.646,9.0,6.0,,,,Unknown
+2021,Britain,Great Britain,GIO,Alfa Romeo Racing,23.0,2.0,MEDIUM,21.0,8211.843,10.0,,,,,Unknown
+2021,Britain,Great Britain,HAM,Mercedes,27.0,2.0,MEDIUM,25.0,8538.096,2.0,,,,,Unknown
+2021,Britain,Great Britain,LAT,Williams,19.0,2.0,MEDIUM,17.0,7841.403,13.0,,,,,Unknown
+2021,Britain,Great Britain,LEC,Ferrari,29.0,2.0,MEDIUM,27.0,8718.822,1.0,,,,,Unknown
+2021,Britain,Great Britain,MAZ,Haas F1 Team,25.0,2.0,MEDIUM,26.0,8437.954,18.0,,,,,Unknown
+2021,Britain,Great Britain,MSC,Haas F1 Team,24.0,2.0,MEDIUM,23.0,8341.07,18.0,,,,,Unknown
+2021,Britain,Great Britain,NOR,McLaren,21.0,2.0,MEDIUM,21.0,7988.315,3.0,,,,,Unknown
+2021,Britain,Great Britain,OCO,Alpine,19.0,2.0,MEDIUM,17.0,7830.645,9.0,,,,,Unknown
+2021,Britain,Great Britain,PER,Red Bull Racing,18.0,2.0,HARD,18.0,7740.622,11.0,,,,,Unknown
+2021,Britain,Great Britain,PER,Red Bull Racing,38.0,3.0,MEDIUM,20.0,9618.017,8.0,11.0,,,,Unknown
+2021,Britain,Great Britain,PER,Red Bull Racing,48.0,4.0,MEDIUM,10.0,10554.363,10.0,8.0,,,,Unknown
+2021,Britain,Great Britain,RAI,Alfa Romeo Racing,18.0,2.0,MEDIUM,16.0,7739.496,10.0,,,,,Unknown
+2021,Britain,Great Britain,RIC,McLaren,20.0,2.0,MEDIUM,20.0,7908.824,5.0,,,,,Unknown
+2021,Britain,Great Britain,RUS,Williams,18.0,2.0,MEDIUM,16.0,7744.163,14.0,,,,,Unknown
+2021,Britain,Great Britain,SAI,Ferrari,28.0,2.0,MEDIUM,26.0,8647.108,2.0,,,,,Unknown
+2021,Britain,Great Britain,STR,Aston Martin,23.0,2.0,MEDIUM,23.0,8199.412,7.0,,,,,Unknown
+2021,Britain,Great Britain,TSU,AlphaTauri,30.0,2.0,MEDIUM,30.0,8862.931,7.0,,,,,Unknown
+2021,Britain,Great Britain,VET,Aston Martin,18.0,2.0,MEDIUM,21.0,7748.83,17.0,,,,,Unknown
+2021,Britain,Great Britain,VET,Aston Martin,40.0,3.0,HARD,24.0,9832.008,17.0,17.0,,,,Unknown
+2021,Emilia Romagna,Italy,ALO,Alpine,28.0,1.0,INTERMEDIATE,28.0,4878.812,12.0,,,,,Unknown
+2021,Emilia Romagna,Italy,ALO,Alpine,32.0,2.0,MEDIUM,4.0,5317.45,12.0,12.0,,,,Unknown
+2021,Emilia Romagna,Italy,BOT,Mercedes,28.0,1.0,INTERMEDIATE,28.0,4846.655,6.0,,,,,Unknown
+2021,Emilia Romagna,Italy,GAS,AlphaTauri,14.0,1.0,WET,14.0,3610.679,17.0,,,,,Unknown
+2021,Emilia Romagna,Italy,GAS,AlphaTauri,26.0,2.0,INTERMEDIATE,12.0,4725.618,16.0,17.0,,,,Unknown
+2021,Emilia Romagna,Italy,GAS,AlphaTauri,32.0,3.0,MEDIUM,6.0,5358.556,14.0,16.0,,,,Unknown
+2021,Emilia Romagna,Italy,GIO,Alfa Romeo Racing,27.0,1.0,INTERMEDIATE,27.0,4772.408,10.0,,,,,Unknown
+2021,Emilia Romagna,Italy,GIO,Alfa Romeo Racing,32.0,2.0,MEDIUM,5.0,5306.634,11.0,10.0,,,,Unknown
+2021,Emilia Romagna,Italy,GIO,Alfa Romeo Racing,40.0,4.0,MEDIUM,13.0,7573.969,12.0,11.0,,,,Unknown
+2021,Emilia Romagna,Italy,HAM,Mercedes,28.0,1.0,INTERMEDIATE,28.0,4767.715,1.0,,,,,Unknown
+2021,Emilia Romagna,Italy,LEC,Ferrari,28.0,1.0,INTERMEDIATE,28.0,4784.152,2.0,,,,,Unknown
+2021,Emilia Romagna,Italy,LEC,Ferrari,33.0,2.0,MEDIUM,5.0,5308.896,2.0,2.0,,,,Unknown
+2021,Emilia Romagna,Italy,MAZ,Haas F1 Team,12.0,1.0,WET,12.0,3440.446,18.0,,,,,Unknown
+2021,Emilia Romagna,Italy,MAZ,Haas F1 Team,23.0,2.0,INTERMEDIATE,11.0,4520.373,19.0,18.0,,,,Unknown
+2021,Emilia Romagna,Italy,MAZ,Haas F1 Team,31.0,3.0,SOFT,11.0,5338.423,17.0,19.0,,,,Unknown
+2021,Emilia Romagna,Italy,MSC,Haas F1 Team,5.0,1.0,WET,5.0,2712.244,19.0,,,,,Unknown
+2021,Emilia Romagna,Italy,MSC,Haas F1 Team,21.0,2.0,INTERMEDIATE,16.0,4284.543,18.0,19.0,,,,Unknown
+2021,Emilia Romagna,Italy,MSC,Haas F1 Team,31.0,3.0,SOFT,13.0,5300.908,16.0,18.0,,,,Unknown
+2021,Emilia Romagna,Italy,NOR,McLaren,28.0,1.0,INTERMEDIATE,28.0,4811.399,5.0,,,,,Unknown
+2021,Emilia Romagna,Italy,NOR,McLaren,33.0,2.0,MEDIUM,5.0,5346.624,3.0,5.0,,,,Unknown
+2021,Emilia Romagna,Italy,OCO,Alpine,1.0,1.0,WET,1.0,2116.95,14.0,,13.0,,,Unknown
+2021,Emilia Romagna,Italy,OCO,Alpine,27.0,2.0,INTERMEDIATE,26.0,4782.796,12.0,14.0,,,,Unknown
+2021,Emilia Romagna,Italy,OCO,Alpine,31.0,3.0,MEDIUM,4.0,5183.677,12.0,12.0,,,,Unknown
+2021,Emilia Romagna,Italy,OCO,Alpine,32.0,4.0,SOFT,3.0,5328.344,13.0,12.0,,,,Unknown
+2021,Emilia Romagna,Italy,PER,Red Bull Racing,28.0,1.0,INTERMEDIATE,28.0,4798.896,4.0,,,,,Unknown
+2021,Emilia Romagna,Italy,PER,Red Bull Racing,33.0,2.0,MEDIUM,5.0,5351.663,4.0,4.0,,,,Unknown
+2021,Emilia Romagna,Italy,RAI,Alfa Romeo Racing,26.0,1.0,INTERMEDIATE,26.0,4675.376,11.0,,,,,Unknown
+2021,Emilia Romagna,Italy,RAI,Alfa Romeo Racing,32.0,2.0,MEDIUM,6.0,5296.865,8.0,11.0,,,,Unknown
+2021,Emilia Romagna,Italy,RIC,McLaren,27.0,1.0,INTERMEDIATE,27.0,4737.991,7.0,,,,,Unknown
+2021,Emilia Romagna,Italy,RIC,McLaren,33.0,2.0,MEDIUM,6.0,5366.051,6.0,7.0,,,,Unknown
+2021,Emilia Romagna,Italy,RUS,Williams,26.0,1.0,INTERMEDIATE,26.0,4674.198,10.0,,,,,Unknown
+2021,Emilia Romagna,Italy,SAI,Ferrari,27.0,1.0,INTERMEDIATE,27.0,4732.113,6.0,,,,,Unknown
+2021,Emilia Romagna,Italy,SAI,Ferrari,33.0,2.0,MEDIUM,6.0,5355.151,5.0,6.0,,,,Unknown
+2021,Emilia Romagna,Italy,STR,Aston Martin,27.0,1.0,INTERMEDIATE,27.0,4756.421,9.0,,,,,Unknown
+2021,Emilia Romagna,Italy,STR,Aston Martin,32.0,2.0,MEDIUM,5.0,5294.191,7.0,9.0,,,,Unknown
+2021,Emilia Romagna,Italy,TSU,AlphaTauri,25.0,1.0,INTERMEDIATE,25.0,4599.754,13.0,,,,,Unknown
+2021,Emilia Romagna,Italy,TSU,AlphaTauri,32.0,2.0,MEDIUM,7.0,5304.596,10.0,13.0,,,,Unknown
+2021,Emilia Romagna,Italy,VER,Red Bull Racing,27.0,1.0,INTERMEDIATE,27.0,4680.076,2.0,,,,,Unknown
+2021,Emilia Romagna,Italy,VER,Red Bull Racing,33.0,2.0,MEDIUM,6.0,5292.328,1.0,2.0,,,,Unknown
+2021,Emilia Romagna,Italy,VET,Aston Martin,3.0,1.0,INTERMEDIATE,3.0,2410.348,18.0,,15.0,,,Unknown
+2021,Emilia Romagna,Italy,VET,Aston Martin,20.0,2.0,INTERMEDIATE,17.0,4151.436,16.0,18.0,14.0,4.0,True,Strong Gain
+2021,Emilia Romagna,Italy,VET,Aston Martin,22.0,3.0,MEDIUM,2.0,4372.911,17.0,16.0,,,,Unknown
+2021,Emilia Romagna,Italy,VET,Aston Martin,32.0,4.0,MEDIUM,12.0,5361.592,15.0,17.0,,,,Unknown
+2021,Emilia Romagna,Italy,VET,Aston Martin,61.0,6.0,SOFT,29.0,9270.539,14.0,15.0,,,,Unknown
+2021,France,France,ALO,Alpine,18.0,1.0,MEDIUM,21.0,3830.287,15.0,,,,,Unknown
+2021,France,France,BOT,Mercedes,17.0,1.0,MEDIUM,20.0,3695.047,4.0,,,,,Unknown
+2021,France,France,GAS,AlphaTauri,17.0,1.0,MEDIUM,22.0,3722.358,15.0,,,,,Unknown
+2021,France,France,GIO,Alfa Romeo Racing,28.0,1.0,HARD,28.0,4848.73,18.0,,,,,Unknown
+2021,France,France,HAM,Mercedes,19.0,1.0,MEDIUM,22.0,3887.421,2.0,,,,,Unknown
+2021,France,France,LAT,Williams,18.0,1.0,MEDIUM,18.0,3842.09,19.0,,,,,Unknown
+2021,France,France,LEC,Ferrari,14.0,1.0,MEDIUM,17.0,3420.271,18.0,,,,,Unknown
+2021,France,France,LEC,Ferrari,38.0,2.0,HARD,24.0,5849.388,16.0,18.0,,,,Unknown
+2021,France,France,MAZ,Haas F1 Team,31.0,1.0,HARD,31.0,5178.026,20.0,,,,,Unknown
+2021,France,France,MSC,Haas F1 Team,15.0,1.0,MEDIUM,15.0,3551.648,20.0,,,,,Unknown
+2021,France,France,NOR,McLaren,24.0,1.0,MEDIUM,29.0,4424.961,13.0,,,,,Unknown
+2021,France,France,OCO,Alpine,28.0,1.0,HARD,28.0,4847.614,16.0,,,,,Unknown
+2021,France,France,PER,Red Bull Racing,24.0,1.0,MEDIUM,27.0,4395.208,4.0,,,,,Unknown
+2021,France,France,RAI,Alfa Romeo Racing,33.0,1.0,HARD,33.0,5359.15,18.0,,,,,Unknown
+2021,France,France,RIC,McLaren,16.0,1.0,MEDIUM,21.0,3621.704,16.0,,,,,Unknown
+2021,France,France,RUS,Williams,17.0,1.0,MEDIUM,17.0,3737.921,19.0,,,,,Unknown
+2021,France,France,SAI,Ferrari,17.0,1.0,MEDIUM,20.0,3720.621,13.0,,,,,Unknown
+2021,France,France,STR,Aston Martin,34.0,1.0,HARD,34.0,5438.35,13.0,,,,,Unknown
+2021,France,France,TSU,AlphaTauri,15.0,1.0,MEDIUM,15.0,3532.502,19.0,,,,,Unknown
+2021,France,France,VER,Red Bull Racing,18.0,1.0,MEDIUM,21.0,3791.373,3.0,,,,,Unknown
+2021,France,France,VER,Red Bull Racing,32.0,2.0,HARD,14.0,5181.189,4.0,3.0,,,,Unknown
+2021,France,France,VET,Aston Martin,37.0,1.0,HARD,37.0,5730.164,11.0,,,,,Unknown
+2021,Hungary,Hungary,ALO,Alpine,39.0,3.0,MEDIUM,36.0,8675.892,1.0,,,,,Unknown
+2021,Hungary,Hungary,GAS,AlphaTauri,30.0,3.0,MEDIUM,27.0,7944.857,5.0,,,,,Unknown
+2021,Hungary,Hungary,GAS,AlphaTauri,68.0,4.0,HARD,38.0,11097.217,6.0,5.0,,,,Unknown
+2021,Hungary,Hungary,GIO,Alfa Romeo Racing,1.0,1.0,MEDIUM,1.0,3893.872,16.0,,,,,Unknown
+2021,Hungary,Hungary,GIO,Alfa Romeo Racing,11.0,4.0,MEDIUM,9.0,6353.47,14.0,16.0,,,,Unknown
+2021,Hungary,Hungary,GIO,Alfa Romeo Racing,33.0,5.0,MEDIUM,31.0,8232.809,14.0,14.0,,,,Unknown
+2021,Hungary,Hungary,HAM,Mercedes,4.0,2.0,INTERMEDIATE,2.0,5735.047,1.0,,,,,Unknown
+2021,Hungary,Hungary,HAM,Mercedes,19.0,3.0,MEDIUM,18.0,7029.103,11.0,1.0,,,,Unknown
+2021,Hungary,Hungary,HAM,Mercedes,47.0,4.0,HARD,28.0,9341.969,4.0,11.0,,,,Unknown
+2021,Hungary,Hungary,LAT,Williams,23.0,3.0,MEDIUM,20.0,7350.309,4.0,,,,,Unknown
+2021,Hungary,Hungary,MAZ,Haas F1 Team,1.0,1.0,INTERMEDIATE,1.0,3869.136,13.0,,,,,Unknown
+2021,Hungary,Hungary,MSC,Haas F1 Team,34.0,3.0,MEDIUM,31.0,8314.877,13.0,,,,,Unknown
+2021,Hungary,Hungary,NOR,McLaren,1.0,1.0,INTERMEDIATE,1.0,3875.352,15.0,,,,,Unknown
+2021,Hungary,Hungary,OCO,Alpine,37.0,3.0,MEDIUM,34.0,8495.113,1.0,,,,,Unknown
+2021,Hungary,Hungary,RAI,Alfa Romeo Racing,15.0,3.0,MEDIUM,12.0,6687.392,9.0,,,,,Unknown
+2021,Hungary,Hungary,RAI,Alfa Romeo Racing,53.0,4.0,HARD,38.0,9897.493,12.0,9.0,,,,Unknown
+2021,Hungary,Hungary,RIC,McLaren,20.0,3.0,MEDIUM,17.0,7110.243,8.0,,,,,Unknown
+2021,Hungary,Hungary,RUS,Williams,21.0,3.0,MEDIUM,18.0,7192.96,7.0,,,,,Unknown
+2021,Hungary,Hungary,SAI,Ferrari,32.0,3.0,MEDIUM,29.0,8092.648,3.0,,,,,Unknown
+2021,Hungary,Hungary,TSU,AlphaTauri,22.0,3.0,MEDIUM,19.0,7268.053,5.0,,,,,Unknown
+2021,Hungary,Hungary,VER,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,3861.951,9.0,,,,,Unknown
+2021,Hungary,Hungary,VER,Red Bull Racing,20.0,4.0,MEDIUM,17.0,7111.693,10.0,9.0,,,,Unknown
+2021,Hungary,Hungary,VER,Red Bull Racing,40.0,5.0,HARD,20.0,8810.701,11.0,10.0,,,,Unknown
+2021,Hungary,Hungary,VET,Aston Martin,36.0,3.0,MEDIUM,33.0,8414.751,2.0,,,,,Unknown
+2021,Italy,Italy,ALO,Alpine,25.0,1.0,MEDIUM,25.0,5952.86,10.0,,,,,Unknown
+2021,Italy,Italy,BOT,Mercedes,26.0,1.0,HARD,26.0,6049.225,5.0,,,,,Unknown
+2021,Italy,Italy,GAS,AlphaTauri,3.0,1.0,HARD,3.0,4051.414,18.0,,,,,Unknown
+2021,Italy,Italy,GIO,Alfa Romeo Racing,1.0,1.0,MEDIUM,1.0,3860.235,19.0,,,,,Unknown
+2021,Italy,Italy,GIO,Alfa Romeo Racing,25.0,2.0,HARD,24.0,5994.414,16.0,19.0,,,,Unknown
+2021,Italy,Italy,HAM,Mercedes,25.0,1.0,HARD,25.0,5923.257,1.0,,,,,Unknown
+2021,Italy,Italy,KUB,Alfa Romeo Racing,26.0,1.0,HARD,26.0,6079.798,9.0,,,,,Unknown
+2021,Italy,Italy,LAT,Williams,23.0,1.0,MEDIUM,23.0,5780.928,12.0,,,,,Unknown
+2021,Italy,Italy,LEC,Ferrari,26.0,1.0,MEDIUM,26.0,6029.227,1.0,,,,,Unknown
+2021,Italy,Italy,MAZ,Haas F1 Team,24.0,1.0,MEDIUM,24.0,5900.849,17.0,,,,,Unknown
+2021,Italy,Italy,MAZ,Haas F1 Team,28.0,2.0,SOFT,7.0,6372.163,16.0,17.0,,,,Unknown
+2021,Italy,Italy,MAZ,Haas F1 Team,39.0,3.0,HARD,11.0,7464.688,16.0,16.0,,,,Unknown
+2021,Italy,Italy,MSC,Haas F1 Team,23.0,1.0,MEDIUM,23.0,5808.642,17.0,,,,,Unknown
+2021,Italy,Italy,NOR,McLaren,24.0,1.0,MEDIUM,24.0,5837.918,3.0,,,,,Unknown
+2021,Italy,Italy,OCO,Alpine,26.0,1.0,MEDIUM,26.0,6068.822,7.0,,,,,Unknown
+2021,Italy,Italy,PER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,6033.698,2.0,,,,,Unknown
+2021,Italy,Italy,RIC,McLaren,22.0,1.0,MEDIUM,22.0,5657.595,2.0,,,,,Unknown
+2021,Italy,Italy,RUS,Williams,26.0,1.0,MEDIUM,26.0,6072.143,8.0,,,,,Unknown
+2021,Italy,Italy,SAI,Ferrari,26.0,1.0,MEDIUM,26.0,6047.197,4.0,,,,,Unknown
+2021,Italy,Italy,STR,Aston Martin,25.0,1.0,MEDIUM,27.0,5948.505,9.0,,,,,Unknown
+2021,Italy,Italy,VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,5745.54,2.0,,,,,Unknown
+2021,Italy,Italy,VET,Aston Martin,22.0,1.0,MEDIUM,24.0,5695.848,14.0,,,,,Unknown
+2021,Italy,Italy,VET,Aston Martin,26.0,2.0,HARD,6.0,6100.772,13.0,14.0,,,,Unknown
+2021,Mexico City,Mexico,ALO,Alpine,39.0,1.0,MEDIUM,39.0,7122.609,7.0,,,,,Unknown
+2021,Mexico City,Mexico,BOT,Mercedes,1.0,1.0,MEDIUM,6.0,3855.038,18.0,,15.0,,,Unknown
+2021,Mexico City,Mexico,BOT,Mercedes,40.0,2.0,HARD,39.0,7229.854,11.0,18.0,,,,Unknown
+2021,Mexico City,Mexico,BOT,Mercedes,63.0,3.0,MEDIUM,23.0,9136.382,13.0,11.0,,,,Unknown
+2021,Mexico City,Mexico,BOT,Mercedes,67.0,4.0,SOFT,7.0,9485.927,15.0,13.0,,,,Unknown
+2021,Mexico City,Mexico,GAS,AlphaTauri,31.0,1.0,MEDIUM,34.0,6439.113,4.0,,,,,Unknown
+2021,Mexico City,Mexico,GIO,Alfa Romeo Racing,16.0,1.0,MEDIUM,20.0,5219.425,8.0,,,,,Unknown
+2021,Mexico City,Mexico,HAM,Mercedes,29.0,1.0,MEDIUM,32.0,6256.484,3.0,,,,,Unknown
+2021,Mexico City,Mexico,LAT,Williams,11.0,1.0,MEDIUM,11.0,4821.888,18.0,,,,,Unknown
+2021,Mexico City,Mexico,LAT,Williams,49.0,2.0,HARD,38.0,8038.587,17.0,18.0,,,,Unknown
+2021,Mexico City,Mexico,LEC,Ferrari,30.0,1.0,MEDIUM,35.0,6360.648,6.0,,,,,Unknown
+2021,Mexico City,Mexico,MAZ,Haas F1 Team,13.0,1.0,MEDIUM,13.0,4990.1,16.0,,,,,Unknown
+2021,Mexico City,Mexico,MAZ,Haas F1 Team,58.0,2.0,HARD,45.0,8841.608,18.0,16.0,,,,Unknown
+2021,Mexico City,Mexico,NOR,McLaren,44.0,1.0,MEDIUM,47.0,7537.775,8.0,,,,,Unknown
+2021,Mexico City,Mexico,OCO,Alpine,14.0,1.0,SOFT,14.0,5069.303,13.0,,,,,Unknown
+2021,Mexico City,Mexico,PER,Red Bull Racing,40.0,1.0,MEDIUM,43.0,7153.877,2.0,,,,,Unknown
+2021,Mexico City,Mexico,RAI,Alfa Romeo Racing,32.0,1.0,MEDIUM,35.0,6541.748,7.0,,,,,Unknown
+2021,Mexico City,Mexico,RIC,McLaren,1.0,1.0,MEDIUM,4.0,3850.599,16.0,,,,,Unknown
+2021,Mexico City,Mexico,RIC,McLaren,38.0,2.0,HARD,37.0,7066.542,12.0,16.0,,,,Unknown
+2021,Mexico City,Mexico,RUS,Williams,15.0,1.0,MEDIUM,15.0,5150.961,12.0,,,,,Unknown
+2021,Mexico City,Mexico,SAI,Ferrari,42.0,1.0,MEDIUM,47.0,7344.966,4.0,,,,,Unknown
+2021,Mexico City,Mexico,STR,Aston Martin,12.0,1.0,MEDIUM,14.0,4904.888,17.0,,,,,Unknown
+2021,Mexico City,Mexico,STR,Aston Martin,34.0,2.0,HARD,22.0,6756.338,16.0,17.0,,,,Unknown
+2021,Mexico City,Mexico,VER,Red Bull Racing,33.0,1.0,MEDIUM,36.0,6572.659,1.0,,,,,Unknown
+2021,Mexico City,Mexico,VET,Aston Martin,33.0,1.0,MEDIUM,36.0,6621.298,6.0,,,,,Unknown
+2021,Monaco,Monaco,ALO,Alpine,45.0,1.0,MEDIUM,45.0,5494.693,13.0,,,,,Unknown
+2021,Monaco,Monaco,GAS,AlphaTauri,30.0,1.0,SOFT,36.0,4283.122,7.0,,,,,Unknown
+2021,Monaco,Monaco,GIO,Alfa Romeo Racing,33.0,1.0,SOFT,38.0,4542.535,12.0,,,,,Unknown
+2021,Monaco,Monaco,HAM,Mercedes,29.0,1.0,SOFT,33.0,4207.703,8.0,,,,,Unknown
+2021,Monaco,Monaco,HAM,Mercedes,67.0,2.0,HARD,38.0,7127.992,7.0,8.0,,,,Unknown
+2021,Monaco,Monaco,LAT,Williams,43.0,1.0,MEDIUM,43.0,5363.882,16.0,,,,,Unknown
+2021,Monaco,Monaco,MAZ,Haas F1 Team,34.0,1.0,SOFT,34.0,4705.575,17.0,,,,,Unknown
+2021,Monaco,Monaco,MSC,Haas F1 Team,37.0,1.0,SOFT,37.0,4963.663,18.0,,,,,Unknown
+2021,Monaco,Monaco,NOR,McLaren,30.0,1.0,SOFT,35.0,4281.265,6.0,,,,,Unknown
+2021,Monaco,Monaco,OCO,Alpine,37.0,1.0,SOFT,37.0,4848.031,10.0,,,,,Unknown
+2021,Monaco,Monaco,PER,Red Bull Racing,35.0,1.0,SOFT,40.0,4663.911,4.0,,,,,Unknown
+2021,Monaco,Monaco,RAI,Alfa Romeo Racing,43.0,1.0,MEDIUM,43.0,5321.532,11.0,,,,,Unknown
+2021,Monaco,Monaco,RIC,McLaren,36.0,1.0,MEDIUM,36.0,4792.275,13.0,,,,,Unknown
+2021,Monaco,Monaco,RUS,Williams,31.0,1.0,MEDIUM,31.0,4426.871,16.0,,,,,Unknown
+2021,Monaco,Monaco,SAI,Ferrari,32.0,1.0,SOFT,38.0,4427.767,3.0,,,,,Unknown
+2021,Monaco,Monaco,STR,Aston Martin,58.0,1.0,HARD,58.0,6448.637,8.0,,,,,Unknown
+2021,Monaco,Monaco,TSU,AlphaTauri,64.0,1.0,HARD,64.0,6969.006,16.0,,,,,Unknown
+2021,Monaco,Monaco,VER,Red Bull Racing,34.0,1.0,SOFT,39.0,4570.012,1.0,,,,,Unknown
+2021,Monaco,Monaco,VET,Aston Martin,31.0,1.0,SOFT,36.0,4362.271,5.0,,,,,Unknown
+2021,Netherlands,Netherlands,ALO,Alpine,33.0,1.0,SOFT,36.0,6281.413,6.0,,,,,Unknown
+2021,Netherlands,Netherlands,BOT,Mercedes,31.0,1.0,SOFT,35.0,6085.185,3.0,,,,,Unknown
+2021,Netherlands,Netherlands,BOT,Mercedes,67.0,2.0,MEDIUM,36.0,8796.19,3.0,3.0,,,,Unknown
+2021,Netherlands,Netherlands,GAS,AlphaTauri,24.0,1.0,SOFT,27.0,5571.368,5.0,,,,,Unknown
+2021,Netherlands,Netherlands,GIO,Alfa Romeo Racing,27.0,1.0,SOFT,30.0,5834.485,10.0,,,,,Unknown
+2021,Netherlands,Netherlands,GIO,Alfa Romeo Racing,33.0,2.0,MEDIUM,6.0,6317.929,14.0,10.0,,,,Unknown
+2021,Netherlands,Netherlands,HAM,Mercedes,20.0,1.0,SOFT,24.0,5239.304,2.0,,,,,Unknown
+2021,Netherlands,Netherlands,HAM,Mercedes,39.0,2.0,MEDIUM,19.0,6680.178,2.0,2.0,,,,Unknown
+2021,Netherlands,Netherlands,HAM,Mercedes,70.0,3.0,MEDIUM,36.0,8989.858,2.0,2.0,,,,Unknown
+2021,Netherlands,Netherlands,KUB,Alfa Romeo Racing,40.0,1.0,MEDIUM,40.0,6869.784,18.0,,,,,Unknown
+2021,Netherlands,Netherlands,LAT,Williams,23.0,1.0,MEDIUM,23.0,5540.039,17.0,,,,,Unknown
+2021,Netherlands,Netherlands,LEC,Ferrari,34.0,1.0,SOFT,37.0,6340.087,4.0,,,,,Unknown
+2021,Netherlands,Netherlands,MAZ,Haas F1 Team,33.0,1.0,MEDIUM,33.0,6335.97,19.0,,,,,Unknown
+2021,Netherlands,Netherlands,MAZ,Haas F1 Team,41.0,2.0,HARD,8.0,6974.403,19.0,19.0,,,,Unknown
+2021,Netherlands,Netherlands,MSC,Haas F1 Team,4.0,1.0,SOFT,4.0,4062.811,20.0,,,,,Unknown
+2021,Netherlands,Netherlands,MSC,Haas F1 Team,30.0,2.0,HARD,26.0,6159.468,20.0,20.0,,,,Unknown
+2021,Netherlands,Netherlands,NOR,McLaren,42.0,1.0,MEDIUM,42.0,6986.59,8.0,,,,,Unknown
+2021,Netherlands,Netherlands,OCO,Alpine,31.0,1.0,SOFT,34.0,6133.152,8.0,,,,,Unknown
+2021,Netherlands,Netherlands,PER,Red Bull Racing,8.0,1.0,HARD,8.0,4372.819,19.0,,,,,Unknown
+2021,Netherlands,Netherlands,PER,Red Bull Racing,47.0,2.0,MEDIUM,39.0,7371.811,9.0,19.0,,,,Unknown
+2021,Netherlands,Netherlands,RIC,McLaren,30.0,1.0,SOFT,33.0,6061.984,9.0,,,,,Unknown
+2021,Netherlands,Netherlands,RUS,Williams,27.0,1.0,MEDIUM,27.0,5835.599,11.0,,,,,Unknown
+2021,Netherlands,Netherlands,RUS,Williams,68.0,2.0,HARD,41.0,8998.257,13.0,11.0,,,,Unknown
+2021,Netherlands,Netherlands,RUS,Williams,69.0,3.0,SOFT,1.0,9118.196,17.0,13.0,,,,Unknown
+2021,Netherlands,Netherlands,SAI,Ferrari,31.0,1.0,SOFT,34.0,6119.161,5.0,,,,,Unknown
+2021,Netherlands,Netherlands,STR,Aston Martin,27.0,1.0,SOFT,27.0,5837.932,14.0,,,,,Unknown
+2021,Netherlands,Netherlands,TSU,AlphaTauri,31.0,1.0,SOFT,31.0,6151.357,11.0,,,,,Unknown
+2021,Netherlands,Netherlands,TSU,AlphaTauri,48.0,2.0,MEDIUM,17.0,7484.057,16.0,11.0,,,,Unknown
+2021,Netherlands,Netherlands,VER,Red Bull Racing,21.0,1.0,SOFT,24.0,5311.219,1.0,,,,,Unknown
+2021,Netherlands,Netherlands,VER,Red Bull Racing,40.0,2.0,MEDIUM,19.0,6751.067,1.0,1.0,,,,Unknown
+2021,Netherlands,Netherlands,VET,Aston Martin,10.0,1.0,SOFT,10.0,4525.416,16.0,,,,,Unknown
+2021,Netherlands,Netherlands,VET,Aston Martin,44.0,2.0,HARD,34.0,7179.897,17.0,16.0,,,,Unknown
+2021,Portugal,Portugal,ALO,Alpine,2.0,1.0,MEDIUM,2.0,2195.28,14.0,,,,,Unknown
+2021,Portugal,Portugal,ALO,Alpine,3.0,2.0,MEDIUM,3.0,2334.293,14.0,14.0,,,,Unknown
+2021,Portugal,Portugal,ALO,Alpine,40.0,3.0,MEDIUM,40.0,5558.25,6.0,14.0,,,,Unknown
+2021,Portugal,Portugal,BOT,Mercedes,2.0,1.0,MEDIUM,6.0,2171.853,1.0,,3.0,,,Unknown
+2021,Portugal,Portugal,BOT,Mercedes,3.0,2.0,MEDIUM,7.0,2314.52,1.0,1.0,,,,Unknown
+2021,Portugal,Portugal,BOT,Mercedes,36.0,3.0,MEDIUM,40.0,5188.373,2.0,1.0,,,,Unknown
+2021,Portugal,Portugal,BOT,Mercedes,63.0,4.0,HARD,28.0,7420.068,3.0,2.0,,,,Unknown
+2021,Portugal,Portugal,GAS,AlphaTauri,2.0,1.0,SOFT,6.0,2185.142,9.0,,,,,Unknown
+2021,Portugal,Portugal,GAS,AlphaTauri,3.0,2.0,SOFT,7.0,2326.409,9.0,9.0,,,,Unknown
+2021,Portugal,Portugal,GAS,AlphaTauri,24.0,3.0,SOFT,28.0,4224.008,7.0,9.0,,,,Unknown
+2021,Portugal,Portugal,GIO,Alfa Romeo Racing,2.0,1.0,MEDIUM,2.0,2190.001,12.0,,,,,Unknown
+2021,Portugal,Portugal,GIO,Alfa Romeo Racing,3.0,2.0,MEDIUM,3.0,2330.567,12.0,12.0,,,,Unknown
+2021,Portugal,Portugal,GIO,Alfa Romeo Racing,22.0,3.0,MEDIUM,22.0,4062.153,13.0,12.0,,,,Unknown
+2021,Portugal,Portugal,HAM,Mercedes,2.0,1.0,MEDIUM,6.0,2173.985,2.0,,,,,Unknown
+2021,Portugal,Portugal,HAM,Mercedes,3.0,2.0,MEDIUM,7.0,2316.661,2.0,2.0,,,,Unknown
+2021,Portugal,Portugal,HAM,Mercedes,37.0,3.0,MEDIUM,41.0,5266.497,1.0,2.0,,,,Unknown
+2021,Portugal,Portugal,LAT,Williams,2.0,1.0,MEDIUM,2.0,2199.485,17.0,,,,,Unknown
+2021,Portugal,Portugal,LAT,Williams,3.0,2.0,MEDIUM,3.0,2339.358,17.0,17.0,,,,Unknown
+2021,Portugal,Portugal,LAT,Williams,24.0,3.0,MEDIUM,24.0,4251.478,16.0,17.0,,,,Unknown
+2021,Portugal,Portugal,LEC,Ferrari,2.0,1.0,MEDIUM,7.0,2183.443,8.0,,,,,Unknown
+2021,Portugal,Portugal,LEC,Ferrari,3.0,2.0,MEDIUM,8.0,2324.361,8.0,8.0,,,,Unknown
+2021,Portugal,Portugal,LEC,Ferrari,25.0,3.0,MEDIUM,30.0,4305.058,5.0,8.0,,,,Unknown
+2021,Portugal,Portugal,MAZ,Haas F1 Team,2.0,1.0,MEDIUM,2.0,2202.929,19.0,,19.0,,,Unknown
+2021,Portugal,Portugal,MAZ,Haas F1 Team,3.0,2.0,MEDIUM,3.0,2342.264,19.0,19.0,,,,Unknown
+2021,Portugal,Portugal,MAZ,Haas F1 Team,31.0,3.0,MEDIUM,31.0,4855.258,17.0,19.0,,,,Unknown
+2021,Portugal,Portugal,MAZ,Haas F1 Team,43.0,4.0,HARD,12.0,5912.121,19.0,17.0,,,,Unknown
+2021,Portugal,Portugal,MSC,Haas F1 Team,2.0,1.0,MEDIUM,2.0,2203.877,18.0,,,,,Unknown
+2021,Portugal,Portugal,MSC,Haas F1 Team,3.0,2.0,MEDIUM,3.0,2340.458,18.0,18.0,,,,Unknown
+2021,Portugal,Portugal,MSC,Haas F1 Team,32.0,3.0,MEDIUM,32.0,4929.542,15.0,18.0,,,,Unknown
+2021,Portugal,Portugal,NOR,McLaren,2.0,1.0,SOFT,6.0,2180.265,6.0,,,,,Unknown
+2021,Portugal,Portugal,NOR,McLaren,3.0,2.0,SOFT,7.0,2320.96,6.0,6.0,,,,Unknown
+2021,Portugal,Portugal,NOR,McLaren,22.0,3.0,SOFT,26.0,4049.92,5.0,6.0,,,,Unknown
+2021,Portugal,Portugal,OCO,Alpine,2.0,1.0,SOFT,5.0,2182.119,7.0,,,,,Unknown
+2021,Portugal,Portugal,OCO,Alpine,3.0,2.0,SOFT,6.0,2322.808,7.0,7.0,,,,Unknown
+2021,Portugal,Portugal,OCO,Alpine,22.0,3.0,SOFT,25.0,4055.813,9.0,7.0,,,,Unknown
+2021,Portugal,Portugal,PER,Red Bull Racing,2.0,1.0,MEDIUM,8.0,2178.379,5.0,,,,,Unknown
+2021,Portugal,Portugal,PER,Red Bull Racing,3.0,2.0,MEDIUM,9.0,2320.164,5.0,5.0,,,,Unknown
+2021,Portugal,Portugal,PER,Red Bull Racing,51.0,3.0,MEDIUM,57.0,6438.577,4.0,5.0,,,,Unknown
+2021,Portugal,Portugal,RIC,McLaren,2.0,1.0,MEDIUM,2.0,2191.554,13.0,,,,,Unknown
+2021,Portugal,Portugal,RIC,McLaren,3.0,2.0,MEDIUM,3.0,2332.252,13.0,13.0,,,,Unknown
+2021,Portugal,Portugal,RIC,McLaren,41.0,3.0,MEDIUM,41.0,5637.117,5.0,13.0,,,,Unknown
+2021,Portugal,Portugal,RUS,Williams,2.0,1.0,MEDIUM,2.0,2188.108,11.0,,,,,Unknown
+2021,Portugal,Portugal,RUS,Williams,3.0,2.0,MEDIUM,3.0,2329.144,11.0,11.0,,,,Unknown
+2021,Portugal,Portugal,RUS,Williams,28.0,3.0,MEDIUM,28.0,4591.06,16.0,11.0,,,,Unknown
+2021,Portugal,Portugal,SAI,Ferrari,2.0,1.0,SOFT,7.0,2177.182,4.0,,,,,Unknown
+2021,Portugal,Portugal,SAI,Ferrari,3.0,2.0,SOFT,8.0,2318.764,4.0,4.0,,,,Unknown
+2021,Portugal,Portugal,SAI,Ferrari,21.0,3.0,SOFT,26.0,3968.221,7.0,4.0,,,,Unknown
+2021,Portugal,Portugal,STR,Aston Martin,2.0,1.0,SOFT,2.0,2199.941,16.0,,,,,Unknown
+2021,Portugal,Portugal,STR,Aston Martin,3.0,2.0,SOFT,3.0,2337.663,16.0,16.0,,,,Unknown
+2021,Portugal,Portugal,STR,Aston Martin,39.0,3.0,SOFT,39.0,5483.373,7.0,16.0,,,,Unknown
+2021,Portugal,Portugal,TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,2196.965,15.0,,,,,Unknown
+2021,Portugal,Portugal,TSU,AlphaTauri,3.0,2.0,MEDIUM,3.0,2336.114,15.0,15.0,,,,Unknown
+2021,Portugal,Portugal,TSU,AlphaTauri,21.0,3.0,MEDIUM,21.0,3984.264,15.0,15.0,,,,Unknown
+2021,Portugal,Portugal,VER,Red Bull Racing,2.0,1.0,MEDIUM,7.0,2174.988,3.0,,2.0,,,Unknown
+2021,Portugal,Portugal,VER,Red Bull Racing,3.0,2.0,MEDIUM,8.0,2317.831,3.0,3.0,,,,Unknown
+2021,Portugal,Portugal,VER,Red Bull Racing,35.0,3.0,MEDIUM,40.0,5107.357,3.0,3.0,,,,Unknown
+2021,Portugal,Portugal,VER,Red Bull Racing,64.0,4.0,HARD,29.0,7495.846,2.0,3.0,,,,Unknown
+2021,Portugal,Portugal,VET,Aston Martin,2.0,1.0,SOFT,5.0,2187.621,10.0,,,,,Unknown
+2021,Portugal,Portugal,VET,Aston Martin,3.0,2.0,SOFT,6.0,2328.961,10.0,10.0,,,,Unknown
+2021,Portugal,Portugal,VET,Aston Martin,22.0,3.0,SOFT,25.0,4060.672,11.0,10.0,,,,Unknown
+2021,Qatar,Qatar,ALO,Alpine,23.0,1.0,SOFT,26.0,5840.912,7.0,,,,,Unknown
+2021,Qatar,Qatar,GAS,AlphaTauri,13.0,1.0,SOFT,16.0,4957.601,17.0,,,,,Unknown
+2021,Qatar,Qatar,GAS,AlphaTauri,35.0,2.0,MEDIUM,25.0,6943.365,10.0,17.0,,,,Unknown
+2021,Qatar,Qatar,GIO,Alfa Romeo Racing,15.0,1.0,SOFT,15.0,5155.013,20.0,,,,,Unknown
+2021,Qatar,Qatar,GIO,Alfa Romeo Racing,32.0,2.0,MEDIUM,17.0,6704.158,17.0,20.0,,,,Unknown
+2021,Qatar,Qatar,HAM,Mercedes,18.0,1.0,MEDIUM,21.0,5361.595,1.0,,,,,Unknown
+2021,Qatar,Qatar,HAM,Mercedes,42.0,2.0,HARD,24.0,7478.346,1.0,1.0,,,,Unknown
+2021,Qatar,Qatar,LAT,Williams,18.0,1.0,SOFT,18.0,5432.205,19.0,,,,,Unknown
+2021,Qatar,Qatar,LEC,Ferrari,27.0,1.0,MEDIUM,27.0,6226.556,12.0,,,,,Unknown
+2021,Qatar,Qatar,MAZ,Haas F1 Team,31.0,1.0,MEDIUM,31.0,6636.893,20.0,,,,,Unknown
+2021,Qatar,Qatar,MSC,Haas F1 Team,22.0,1.0,SOFT,25.0,5799.323,20.0,,,,,Unknown
+2021,Qatar,Qatar,NOR,McLaren,25.0,1.0,SOFT,28.0,6032.643,10.0,,,,,Unknown
+2021,Qatar,Qatar,NOR,McLaren,49.0,2.0,HARD,24.0,8168.885,9.0,10.0,,,,Unknown
+2021,Qatar,Qatar,OCO,Alpine,24.0,1.0,SOFT,27.0,5947.917,12.0,,,,,Unknown
+2021,Qatar,Qatar,PER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,5489.428,11.0,,,,,Unknown
+2021,Qatar,Qatar,PER,Red Bull Racing,41.0,2.0,HARD,22.0,7456.085,6.0,11.0,,,,Unknown
+2021,Qatar,Qatar,RAI,Alfa Romeo Racing,10.0,1.0,SOFT,10.0,4695.248,19.0,,,,,Unknown
+2021,Qatar,Qatar,RAI,Alfa Romeo Racing,30.0,2.0,MEDIUM,20.0,6520.471,18.0,19.0,,,,Unknown
+2021,Qatar,Qatar,RIC,McLaren,26.0,1.0,MEDIUM,26.0,6139.682,13.0,,,,,Unknown
+2021,Qatar,Qatar,RUS,Williams,17.0,1.0,SOFT,17.0,5340.548,20.0,,,,,Unknown
+2021,Qatar,Qatar,RUS,Williams,49.0,2.0,HARD,32.0,8257.276,19.0,20.0,,,,Unknown
+2021,Qatar,Qatar,SAI,Ferrari,27.0,1.0,MEDIUM,30.0,6217.195,8.0,,,,,Unknown
+2021,Qatar,Qatar,STR,Aston Martin,23.0,1.0,MEDIUM,23.0,5860.618,13.0,,,,,Unknown
+2021,Qatar,Qatar,TSU,AlphaTauri,9.0,1.0,SOFT,12.0,4603.163,20.0,,,,,Unknown
+2021,Qatar,Qatar,TSU,AlphaTauri,34.0,2.0,MEDIUM,25.0,6869.812,13.0,20.0,,,,Unknown
+2021,Qatar,Qatar,VER,Red Bull Racing,17.0,1.0,MEDIUM,20.0,5283.444,2.0,,,,,Unknown
+2021,Qatar,Qatar,VER,Red Bull Racing,41.0,2.0,HARD,24.0,7401.286,2.0,2.0,,,,Unknown
+2021,Qatar,Qatar,VER,Red Bull Racing,55.0,3.0,MEDIUM,14.0,8640.184,2.0,2.0,,,,Unknown
+2021,Qatar,Qatar,VET,Aston Martin,26.0,1.0,SOFT,29.0,6141.241,15.0,,,,,Unknown
+2021,Russia,Russia,ALO,Alpine,36.0,1.0,HARD,36.0,7418.668,4.0,,,,,Unknown
+2021,Russia,Russia,ALO,Alpine,50.0,2.0,MEDIUM,14.0,8913.493,5.0,4.0,,,,Unknown
+2021,Russia,Russia,BOT,Mercedes,28.0,1.0,HARD,28.0,6634.25,10.0,,,,,Unknown
+2021,Russia,Russia,BOT,Mercedes,47.0,2.0,MEDIUM,19.0,8576.758,14.0,10.0,,,,Unknown
+2021,Russia,Russia,GAS,AlphaTauri,33.0,1.0,HARD,33.0,7139.5,10.0,,,,,Unknown
+2021,Russia,Russia,GIO,Alfa Romeo Racing,36.0,1.0,HARD,36.0,7465.695,16.0,,,,,Unknown
+2021,Russia,Russia,HAM,Mercedes,26.0,1.0,MEDIUM,26.0,6411.444,4.0,,,,,Unknown
+2021,Russia,Russia,HAM,Mercedes,49.0,2.0,HARD,23.0,8730.666,2.0,4.0,,,,Unknown
+2021,Russia,Russia,LAT,Williams,13.0,1.0,MEDIUM,13.0,5125.5,19.0,,,,,Unknown
+2021,Russia,Russia,LAT,Williams,47.0,2.0,HARD,34.0,8615.309,17.0,19.0,,,,Unknown
+2021,Russia,Russia,LEC,Ferrari,35.0,1.0,HARD,35.0,7325.408,5.0,,,,,Unknown
+2021,Russia,Russia,MAZ,Haas F1 Team,14.0,1.0,MEDIUM,14.0,5227.829,17.0,,,,,Unknown
+2021,Russia,Russia,MAZ,Haas F1 Team,46.0,2.0,HARD,32.0,8583.933,19.0,17.0,,,,Unknown
+2021,Russia,Russia,MSC,Haas F1 Team,20.0,1.0,MEDIUM,20.0,5854.643,17.0,,,,,Unknown
+2021,Russia,Russia,MSC,Haas F1 Team,32.0,2.0,HARD,12.0,7096.189,20.0,17.0,,,,Unknown
+2021,Russia,Russia,NOR,McLaren,28.0,1.0,MEDIUM,28.0,6602.153,1.0,,,,,Unknown
+2021,Russia,Russia,OCO,Alpine,15.0,1.0,MEDIUM,15.0,5306.206,8.0,,,,,Unknown
+2021,Russia,Russia,PER,Red Bull Racing,36.0,1.0,HARD,36.0,7410.837,1.0,,,,,Unknown
+2021,Russia,Russia,PER,Red Bull Racing,50.0,2.0,MEDIUM,14.0,8915.393,7.0,1.0,,,,Unknown
+2021,Russia,Russia,RAI,Alfa Romeo Racing,15.0,1.0,MEDIUM,15.0,5307.346,10.0,,,,,Unknown
+2021,Russia,Russia,RAI,Alfa Romeo Racing,47.0,2.0,HARD,32.0,8578.015,15.0,10.0,,,,Unknown
+2021,Russia,Russia,RIC,McLaren,22.0,1.0,MEDIUM,22.0,6009.519,6.0,,,,,Unknown
+2021,Russia,Russia,RIC,McLaren,48.0,2.0,HARD,26.0,8674.429,8.0,6.0,,,,Unknown
+2021,Russia,Russia,RUS,Williams,13.0,1.0,MEDIUM,13.0,5093.562,6.0,,,,,Unknown
+2021,Russia,Russia,RUS,Williams,47.0,2.0,HARD,34.0,8575.402,13.0,6.0,,,,Unknown
+2021,Russia,Russia,SAI,Ferrari,14.0,1.0,MEDIUM,14.0,5192.474,3.0,,,,,Unknown
+2021,Russia,Russia,SAI,Ferrari,48.0,2.0,HARD,34.0,8672.414,7.0,3.0,,,,Unknown
+2021,Russia,Russia,STR,Aston Martin,12.0,1.0,MEDIUM,12.0,4992.095,7.0,,,,,Unknown
+2021,Russia,Russia,STR,Aston Martin,48.0,2.0,HARD,36.0,8700.056,12.0,7.0,,,,Unknown
+2021,Russia,Russia,TSU,AlphaTauri,13.0,1.0,MEDIUM,13.0,5127.486,20.0,,,,,Unknown
+2021,Russia,Russia,TSU,AlphaTauri,47.0,2.0,HARD,34.0,8622.903,18.0,20.0,,,,Unknown
+2021,Russia,Russia,TSU,AlphaTauri,49.0,3.0,SOFT,2.0,8910.473,17.0,18.0,,,,Unknown
+2021,Russia,Russia,VER,Red Bull Racing,26.0,1.0,HARD,26.0,6417.48,6.0,,,,,Unknown
+2021,Russia,Russia,VER,Red Bull Racing,48.0,2.0,MEDIUM,22.0,8670.622,6.0,6.0,,,,Unknown
+2021,Russia,Russia,VET,Aston Martin,26.0,1.0,MEDIUM,26.0,6427.782,10.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,ALO,Alpine,10.0,1.0,MEDIUM,10.0,4701.808,13.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,ALO,Alpine,44.0,4.0,HARD,34.0,10807.985,13.0,13.0,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,BOT,Mercedes,10.0,1.0,MEDIUM,17.0,4671.117,3.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,HAM,Mercedes,10.0,1.0,MEDIUM,19.0,4662.299,1.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,LAT,Williams,10.0,1.0,MEDIUM,10.0,4716.709,16.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,LEC,Ferrari,10.0,1.0,MEDIUM,15.0,4674.817,4.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,NOR,McLaren,10.0,1.0,SOFT,14.0,4687.91,7.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,PER,Red Bull Racing,10.0,1.0,MEDIUM,17.0,4678.059,5.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,RAI,Alfa Romeo Racing,26.0,3.0,HARD,13.0,8967.684,15.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,RUS,Williams,9.0,1.0,MEDIUM,9.0,4585.972,17.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,STR,Aston Martin,9.0,1.0,MEDIUM,9.0,4583.683,16.0,,,,,Unknown
+2021,Saudi Arabia,Saudi Arabia,VET,Aston Martin,44.0,3.0,MEDIUM,29.0,10816.466,14.0,,,,,Unknown
+2021,Spain,Spain,ALO,Alpine,21.0,1.0,SOFT,24.0,3892.076,11.0,,,,,Unknown
+2021,Spain,Spain,ALO,Alpine,61.0,2.0,MEDIUM,40.0,7301.618,15.0,11.0,,,,Unknown
+2021,Spain,Spain,BOT,Mercedes,23.0,1.0,SOFT,26.0,4038.673,4.0,,,,,Unknown
+2021,Spain,Spain,BOT,Mercedes,53.0,2.0,MEDIUM,30.0,6533.815,3.0,4.0,,,,Unknown
+2021,Spain,Spain,GAS,AlphaTauri,18.0,1.0,SOFT,18.0,3638.062,15.0,,,,,Unknown
+2021,Spain,Spain,GAS,AlphaTauri,47.0,2.0,MEDIUM,29.0,6107.583,12.0,15.0,,,,Unknown
+2021,Spain,Spain,GIO,Alfa Romeo Racing,8.0,1.0,SOFT,8.0,2706.976,15.0,,,,,Unknown
+2021,Spain,Spain,GIO,Alfa Romeo Racing,39.0,2.0,MEDIUM,34.0,5452.395,17.0,15.0,,,,Unknown
+2021,Spain,Spain,HAM,Mercedes,28.0,1.0,SOFT,32.0,4447.343,1.0,,,,,Unknown
+2021,Spain,Spain,HAM,Mercedes,42.0,2.0,MEDIUM,14.0,5613.25,2.0,1.0,,,,Unknown
+2021,Spain,Spain,LAT,Williams,9.0,1.0,SOFT,9.0,2830.786,18.0,,,,,Unknown
+2021,Spain,Spain,LAT,Williams,27.0,2.0,MEDIUM,18.0,4413.224,12.0,18.0,,,,Unknown
+2021,Spain,Spain,LAT,Williams,50.0,3.0,MEDIUM,23.0,6379.459,16.0,12.0,,,,Unknown
+2021,Spain,Spain,LEC,Ferrari,28.0,1.0,SOFT,31.0,4460.546,3.0,,,,,Unknown
+2021,Spain,Spain,LEC,Ferrari,58.0,2.0,MEDIUM,30.0,6965.987,4.0,3.0,,,,Unknown
+2021,Spain,Spain,MAZ,Haas F1 Team,22.0,1.0,SOFT,22.0,4000.936,19.0,,,,,Unknown
+2021,Spain,Spain,MAZ,Haas F1 Team,42.0,2.0,MEDIUM,20.0,5737.331,19.0,19.0,,,,Unknown
+2021,Spain,Spain,MSC,Haas F1 Team,23.0,1.0,SOFT,23.0,4080.114,16.0,,,,,Unknown
+2021,Spain,Spain,MSC,Haas F1 Team,50.0,2.0,MEDIUM,27.0,6393.689,18.0,16.0,,,,Unknown
+2021,Spain,Spain,NOR,McLaren,23.0,1.0,SOFT,26.0,4056.087,8.0,,,,,Unknown
+2021,Spain,Spain,NOR,McLaren,51.0,2.0,MEDIUM,28.0,6429.182,9.0,8.0,,,,Unknown
+2021,Spain,Spain,OCO,Alpine,23.0,1.0,SOFT,26.0,4054.148,7.0,,,,,Unknown
+2021,Spain,Spain,PER,Red Bull Racing,27.0,1.0,SOFT,30.0,4387.036,5.0,,,,,Unknown
+2021,Spain,Spain,PER,Red Bull Racing,57.0,2.0,MEDIUM,30.0,6895.991,5.0,5.0,,,,Unknown
+2021,Spain,Spain,RAI,Alfa Romeo Racing,37.0,1.0,MEDIUM,37.0,5261.793,13.0,,,,,Unknown
+2021,Spain,Spain,RIC,McLaren,25.0,1.0,SOFT,28.0,4217.152,5.0,,,,,Unknown
+2021,Spain,Spain,RIC,McLaren,46.0,2.0,MEDIUM,21.0,5989.511,6.0,5.0,,,,Unknown
+2021,Spain,Spain,RUS,Williams,9.0,1.0,SOFT,9.0,2827.401,15.0,,,,,Unknown
+2021,Spain,Spain,RUS,Williams,28.0,2.0,MEDIUM,19.0,4492.781,9.0,15.0,,,,Unknown
+2021,Spain,Spain,SAI,Ferrari,22.0,1.0,SOFT,25.0,3970.489,9.0,,,,,Unknown
+2021,Spain,Spain,SAI,Ferrari,46.0,2.0,MEDIUM,24.0,5990.875,7.0,9.0,,,,Unknown
+2021,Spain,Spain,STR,Aston Martin,22.0,1.0,SOFT,22.0,3976.311,10.0,,,,,Unknown
+2021,Spain,Spain,STR,Aston Martin,39.0,2.0,MEDIUM,17.0,5429.184,11.0,10.0,,,,Unknown
+2021,Spain,Spain,VER,Red Bull Racing,24.0,1.0,SOFT,27.0,4112.892,2.0,,,,,Unknown
+2021,Spain,Spain,VER,Red Bull Racing,60.0,2.0,MEDIUM,36.0,7098.814,2.0,2.0,,,,Unknown
+2021,Spain,Spain,VET,Aston Martin,21.0,1.0,SOFT,21.0,3893.645,13.0,,,,,Unknown
+2021,Spain,Spain,VET,Aston Martin,38.0,2.0,MEDIUM,17.0,5348.697,13.0,13.0,,,,Unknown
+2021,São Paulo,Brazil,ALO,Alpine,7.0,1.0,MEDIUM,7.0,4312.807,11.0,,,,,Unknown
+2021,São Paulo,Brazil,ALO,Alpine,8.0,2.0,MEDIUM,8.0,4445.408,11.0,11.0,,,,Unknown
+2021,São Paulo,Brazil,ALO,Alpine,34.0,3.0,MEDIUM,34.0,6556.971,9.0,11.0,,,,Unknown
+2021,São Paulo,Brazil,BOT,Mercedes,7.0,1.0,MEDIUM,7.0,4299.036,4.0,,2.0,,,Unknown
+2021,São Paulo,Brazil,BOT,Mercedes,8.0,2.0,MEDIUM,8.0,4431.429,4.0,4.0,,,,Unknown
+2021,São Paulo,Brazil,BOT,Mercedes,30.0,3.0,MEDIUM,30.0,6221.248,1.0,4.0,,,,Unknown
+2021,São Paulo,Brazil,BOT,Mercedes,41.0,4.0,HARD,11.0,7051.325,2.0,1.0,,,,Unknown
+2021,São Paulo,Brazil,GAS,AlphaTauri,7.0,1.0,MEDIUM,7.0,4305.963,8.0,,7.0,,,Unknown
+2021,São Paulo,Brazil,GAS,AlphaTauri,8.0,2.0,MEDIUM,8.0,4439.201,8.0,8.0,,,,Unknown
+2021,São Paulo,Brazil,GAS,AlphaTauri,25.0,3.0,MEDIUM,25.0,5848.057,8.0,8.0,,,,Unknown
+2021,São Paulo,Brazil,GAS,AlphaTauri,51.0,4.0,HARD,26.0,7827.873,7.0,8.0,,,,Unknown
+2021,São Paulo,Brazil,GIO,Alfa Romeo Racing,7.0,1.0,MEDIUM,7.0,4315.821,13.0,,15.0,,,Unknown
+2021,São Paulo,Brazil,GIO,Alfa Romeo Racing,8.0,2.0,MEDIUM,8.0,4448.11,13.0,13.0,,,,Unknown
+2021,São Paulo,Brazil,GIO,Alfa Romeo Racing,29.0,3.0,MEDIUM,29.0,6171.528,13.0,13.0,,,,Unknown
+2021,São Paulo,Brazil,GIO,Alfa Romeo Racing,42.0,4.0,HARD,13.0,7189.995,15.0,13.0,,,,Unknown
+2021,São Paulo,Brazil,HAM,Mercedes,7.0,1.0,MEDIUM,7.0,4297.672,3.0,,1.0,,,Unknown
+2021,São Paulo,Brazil,HAM,Mercedes,8.0,2.0,MEDIUM,8.0,4429.545,3.0,3.0,,,,Unknown
+2021,São Paulo,Brazil,HAM,Mercedes,26.0,3.0,MEDIUM,26.0,5907.522,3.0,3.0,,,,Unknown
+2021,São Paulo,Brazil,HAM,Mercedes,43.0,4.0,HARD,17.0,7193.355,1.0,3.0,,,,Unknown
+2021,São Paulo,Brazil,LAT,Williams,7.0,1.0,MEDIUM,7.0,4319.474,16.0,,18.0,,,Unknown
+2021,São Paulo,Brazil,LAT,Williams,8.0,2.0,MEDIUM,8.0,4453.289,16.0,16.0,,,,Unknown
+2021,São Paulo,Brazil,LAT,Williams,13.0,3.0,MEDIUM,13.0,4947.475,19.0,16.0,,,,Unknown
+2021,São Paulo,Brazil,LAT,Williams,39.0,4.0,HARD,26.0,6970.822,18.0,19.0,,,,Unknown
+2021,São Paulo,Brazil,LEC,Ferrari,7.0,1.0,MEDIUM,7.0,4300.727,5.0,,6.0,,,Unknown
+2021,São Paulo,Brazil,LEC,Ferrari,8.0,2.0,MEDIUM,8.0,4433.305,5.0,5.0,,,,Unknown
+2021,São Paulo,Brazil,LEC,Ferrari,27.0,3.0,MEDIUM,27.0,5994.135,4.0,5.0,,,,Unknown
+2021,São Paulo,Brazil,LEC,Ferrari,52.0,4.0,MEDIUM,25.0,7892.804,6.0,4.0,,,,Unknown
+2021,São Paulo,Brazil,MAZ,Haas F1 Team,7.0,1.0,MEDIUM,7.0,4317.273,14.0,,,,,Unknown
+2021,São Paulo,Brazil,MAZ,Haas F1 Team,8.0,2.0,MEDIUM,8.0,4451.144,14.0,14.0,,,,Unknown
+2021,São Paulo,Brazil,MAZ,Haas F1 Team,34.0,3.0,MEDIUM,34.0,6596.211,19.0,14.0,,,,Unknown
+2021,São Paulo,Brazil,MSC,Haas F1 Team,7.0,1.0,MEDIUM,7.0,4318.274,15.0,,20.0,,,Unknown
+2021,São Paulo,Brazil,MSC,Haas F1 Team,8.0,2.0,MEDIUM,8.0,4451.904,15.0,15.0,18.0,-3.0,False,Position Lost
+2021,São Paulo,Brazil,MSC,Haas F1 Team,11.0,3.0,MEDIUM,11.0,4770.418,20.0,15.0,,,,Unknown
+2021,São Paulo,Brazil,MSC,Haas F1 Team,29.0,4.0,HARD,18.0,6234.926,20.0,20.0,,,,Unknown
+2021,São Paulo,Brazil,MSC,Haas F1 Team,61.0,5.0,MEDIUM,32.0,8710.144,18.0,20.0,,,,Unknown
+2021,São Paulo,Brazil,NOR,McLaren,1.0,1.0,MEDIUM,1.0,3830.923,20.0,,20.0,,,Unknown
+2021,São Paulo,Brazil,NOR,McLaren,6.0,2.0,HARD,5.0,4268.775,20.0,20.0,10.0,10.0,True,Strong Gain
+2021,São Paulo,Brazil,NOR,McLaren,7.0,3.0,HARD,6.0,4364.914,20.0,20.0,,,,Unknown
+2021,São Paulo,Brazil,NOR,McLaren,8.0,4.0,HARD,7.0,4461.241,20.0,20.0,,,,Unknown
+2021,São Paulo,Brazil,NOR,McLaren,37.0,5.0,HARD,36.0,6791.974,10.0,20.0,,,,Unknown
+2021,São Paulo,Brazil,OCO,Alpine,7.0,1.0,MEDIUM,7.0,4307.434,9.0,,,,,Unknown
+2021,São Paulo,Brazil,OCO,Alpine,8.0,2.0,MEDIUM,8.0,4441.128,9.0,9.0,,,,Unknown
+2021,São Paulo,Brazil,OCO,Alpine,30.0,3.0,MEDIUM,30.0,6248.505,6.0,9.0,,,,Unknown
+2021,São Paulo,Brazil,PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,4295.164,2.0,,2.0,,,Unknown
+2021,São Paulo,Brazil,PER,Red Bull Racing,8.0,2.0,MEDIUM,8.0,4428.608,2.0,2.0,4.0,-2.0,False,Position Lost
+2021,São Paulo,Brazil,PER,Red Bull Racing,28.0,3.0,MEDIUM,28.0,6061.87,2.0,2.0,,,,Unknown
+2021,São Paulo,Brazil,PER,Red Bull Racing,42.0,4.0,HARD,14.0,7129.333,2.0,2.0,,,,Unknown
+2021,São Paulo,Brazil,PER,Red Bull Racing,69.0,5.0,HARD,27.0,9126.756,4.0,2.0,,,,Unknown
+2021,São Paulo,Brazil,RAI,Alfa Romeo Racing,7.0,1.0,MEDIUM,7.0,4322.014,17.0,,12.0,,,Unknown
+2021,São Paulo,Brazil,RAI,Alfa Romeo Racing,8.0,2.0,MEDIUM,8.0,4455.626,17.0,17.0,,,,Unknown
+2021,São Paulo,Brazil,RAI,Alfa Romeo Racing,28.0,3.0,MEDIUM,28.0,6098.742,16.0,17.0,,,,Unknown
+2021,São Paulo,Brazil,RAI,Alfa Romeo Racing,52.0,4.0,HARD,24.0,7939.57,12.0,16.0,,,,Unknown
+2021,São Paulo,Brazil,RIC,McLaren,7.0,1.0,MEDIUM,7.0,4308.203,10.0,,10.0,,,Unknown
+2021,São Paulo,Brazil,RIC,McLaren,8.0,2.0,MEDIUM,8.0,4441.777,10.0,10.0,,,,Unknown
+2021,São Paulo,Brazil,RIC,McLaren,30.0,3.0,MEDIUM,30.0,6239.417,4.0,10.0,,,,Unknown
+2021,São Paulo,Brazil,RIC,McLaren,49.0,4.0,HARD,19.0,7696.292,10.0,4.0,,,,Unknown
+2021,São Paulo,Brazil,RUS,Williams,6.0,1.0,MEDIUM,6.0,4209.374,18.0,,16.0,,,Unknown
+2021,São Paulo,Brazil,RUS,Williams,7.0,2.0,HARD,1.0,4323.133,18.0,18.0,,,,Unknown
+2021,São Paulo,Brazil,RUS,Williams,8.0,3.0,HARD,2.0,4457.639,18.0,18.0,,,,Unknown
+2021,São Paulo,Brazil,RUS,Williams,41.0,4.0,HARD,35.0,7113.802,16.0,18.0,,,,Unknown
+2021,São Paulo,Brazil,SAI,Ferrari,7.0,1.0,MEDIUM,7.0,4302.575,6.0,,5.0,,,Unknown
+2021,São Paulo,Brazil,SAI,Ferrari,8.0,2.0,MEDIUM,8.0,4434.661,6.0,6.0,,,,Unknown
+2021,São Paulo,Brazil,SAI,Ferrari,26.0,3.0,MEDIUM,26.0,5920.946,6.0,6.0,,,,Unknown
+2021,São Paulo,Brazil,SAI,Ferrari,53.0,4.0,MEDIUM,27.0,7971.05,5.0,6.0,,,,Unknown
+2021,São Paulo,Brazil,STR,Aston Martin,7.0,1.0,MEDIUM,9.0,4314.485,12.0,,14.0,,,Unknown
+2021,São Paulo,Brazil,STR,Aston Martin,8.0,2.0,MEDIUM,10.0,4447.0,12.0,12.0,,,,Unknown
+2021,São Paulo,Brazil,STR,Aston Martin,22.0,3.0,MEDIUM,24.0,5632.192,15.0,12.0,,,,Unknown
+2021,São Paulo,Brazil,STR,Aston Martin,47.0,4.0,HARD,27.0,7571.12,14.0,15.0,,,,Unknown
+2021,São Paulo,Brazil,TSU,AlphaTauri,4.0,1.0,SOFT,4.0,4043.272,19.0,,19.0,,,Unknown
+2021,São Paulo,Brazil,TSU,AlphaTauri,6.0,2.0,HARD,2.0,4257.904,19.0,19.0,12.0,7.0,True,Strong Gain
+2021,São Paulo,Brazil,TSU,AlphaTauri,7.0,3.0,HARD,3.0,4354.008,19.0,19.0,,,,Unknown
+2021,São Paulo,Brazil,TSU,AlphaTauri,8.0,4.0,HARD,4.0,4459.018,19.0,19.0,,,,Unknown
+2021,São Paulo,Brazil,TSU,AlphaTauri,39.0,5.0,HARD,35.0,6953.651,12.0,19.0,,,,Unknown
+2021,São Paulo,Brazil,VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,4293.306,1.0,,2.0,,,Unknown
+2021,São Paulo,Brazil,VER,Red Bull Racing,8.0,2.0,MEDIUM,8.0,4426.989,1.0,1.0,,,,Unknown
+2021,São Paulo,Brazil,VER,Red Bull Racing,27.0,3.0,MEDIUM,27.0,5979.234,1.0,1.0,,,,Unknown
+2021,São Paulo,Brazil,VER,Red Bull Racing,40.0,4.0,HARD,13.0,6971.612,2.0,1.0,,,,Unknown
+2021,São Paulo,Brazil,VET,Aston Martin,7.0,1.0,MEDIUM,9.0,4304.177,7.0,,10.0,,,Unknown
+2021,São Paulo,Brazil,VET,Aston Martin,8.0,2.0,MEDIUM,10.0,4437.5,7.0,7.0,,,,Unknown
+2021,São Paulo,Brazil,VET,Aston Martin,28.0,3.0,MEDIUM,30.0,6083.007,8.0,7.0,,,,Unknown
+2021,São Paulo,Brazil,VET,Aston Martin,55.0,4.0,HARD,29.0,8151.47,10.0,8.0,,,,Unknown
+2021,Turkey,Turkey,ALO,Alpine,30.0,1.0,INTERMEDIATE,30.0,6643.463,16.0,,,,,Unknown
+2021,Turkey,Turkey,BOT,Mercedes,37.0,1.0,INTERMEDIATE,37.0,7220.678,1.0,,,,,Unknown
+2021,Turkey,Turkey,GAS,AlphaTauri,39.0,1.0,INTERMEDIATE,39.0,7441.529,5.0,,,,,Unknown
+2021,Turkey,Turkey,GIO,Alfa Romeo Racing,40.0,1.0,INTERMEDIATE,40.0,7582.739,10.0,,,,,Unknown
+2021,Turkey,Turkey,HAM,Mercedes,50.0,1.0,INTERMEDIATE,50.0,8479.555,3.0,,,,,Unknown
+2021,Turkey,Turkey,LAT,Williams,34.0,1.0,INTERMEDIATE,34.0,7042.715,17.0,,,,,Unknown
+2021,Turkey,Turkey,LEC,Ferrari,47.0,1.0,INTERMEDIATE,47.0,8187.683,2.0,,,,,Unknown
+2021,Turkey,Turkey,MAZ,Haas F1 Team,35.0,1.0,INTERMEDIATE,35.0,7180.679,20.0,,,,,Unknown
+2021,Turkey,Turkey,MSC,Haas F1 Team,39.0,1.0,INTERMEDIATE,39.0,7565.647,19.0,,,,,Unknown
+2021,Turkey,Turkey,NOR,McLaren,34.0,1.0,INTERMEDIATE,34.0,6981.042,7.0,,,,,Unknown
+2021,Turkey,Turkey,PER,Red Bull Racing,37.0,1.0,INTERMEDIATE,37.0,7247.737,5.0,,,,,Unknown
+2021,Turkey,Turkey,RAI,Alfa Romeo Racing,37.0,1.0,INTERMEDIATE,37.0,7310.597,13.0,,,,,Unknown
+2021,Turkey,Turkey,RIC,McLaren,21.0,1.0,INTERMEDIATE,21.0,5778.599,16.0,,,,,Unknown
+2021,Turkey,Turkey,RUS,Williams,35.0,1.0,INTERMEDIATE,35.0,7122.444,16.0,,,,,Unknown
+2021,Turkey,Turkey,SAI,Ferrari,36.0,1.0,INTERMEDIATE,36.0,7173.372,8.0,,,,,Unknown
+2021,Turkey,Turkey,STR,Aston Martin,39.0,1.0,INTERMEDIATE,39.0,7457.632,7.0,,,,,Unknown
+2021,Turkey,Turkey,TSU,AlphaTauri,35.0,1.0,INTERMEDIATE,35.0,7120.16,14.0,,,,,Unknown
+2021,Turkey,Turkey,VER,Red Bull Racing,36.0,1.0,INTERMEDIATE,36.0,7132.431,2.0,,,,,Unknown
+2021,Turkey,Turkey,VET,Aston Martin,36.0,1.0,INTERMEDIATE,36.0,7196.384,11.0,,,,,Unknown
+2021,USA,Qatar,ALO,Alpine,23.0,1.0,SOFT,26.0,5840.912,7.0,,,,,Unknown
+2021,USA,Qatar,GAS,AlphaTauri,13.0,1.0,SOFT,16.0,4957.601,17.0,,,,,Unknown
+2021,USA,Qatar,GAS,AlphaTauri,35.0,2.0,MEDIUM,25.0,6943.365,10.0,17.0,,,,Unknown
+2021,USA,Qatar,GIO,Alfa Romeo Racing,15.0,1.0,SOFT,15.0,5155.013,20.0,,,,,Unknown
+2021,USA,Qatar,GIO,Alfa Romeo Racing,32.0,2.0,MEDIUM,17.0,6704.158,17.0,20.0,,,,Unknown
+2021,USA,Qatar,HAM,Mercedes,18.0,1.0,MEDIUM,21.0,5361.595,1.0,,,,,Unknown
+2021,USA,Qatar,HAM,Mercedes,42.0,2.0,HARD,24.0,7478.346,1.0,1.0,,,,Unknown
+2021,USA,Qatar,LAT,Williams,18.0,1.0,SOFT,18.0,5432.205,19.0,,,,,Unknown
+2021,USA,Qatar,LEC,Ferrari,27.0,1.0,MEDIUM,27.0,6226.556,12.0,,,,,Unknown
+2021,USA,Qatar,MAZ,Haas F1 Team,31.0,1.0,MEDIUM,31.0,6636.893,20.0,,,,,Unknown
+2021,USA,Qatar,MSC,Haas F1 Team,22.0,1.0,SOFT,25.0,5799.323,20.0,,,,,Unknown
+2021,USA,Qatar,NOR,McLaren,25.0,1.0,SOFT,28.0,6032.643,10.0,,,,,Unknown
+2021,USA,Qatar,NOR,McLaren,49.0,2.0,HARD,24.0,8168.885,9.0,10.0,,,,Unknown
+2021,USA,Qatar,OCO,Alpine,24.0,1.0,SOFT,27.0,5947.917,12.0,,,,,Unknown
+2021,USA,Qatar,PER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,5489.428,11.0,,,,,Unknown
+2021,USA,Qatar,PER,Red Bull Racing,41.0,2.0,HARD,22.0,7456.085,6.0,11.0,,,,Unknown
+2021,USA,Qatar,RAI,Alfa Romeo Racing,10.0,1.0,SOFT,10.0,4695.248,19.0,,,,,Unknown
+2021,USA,Qatar,RAI,Alfa Romeo Racing,30.0,2.0,MEDIUM,20.0,6520.471,18.0,19.0,,,,Unknown
+2021,USA,Qatar,RIC,McLaren,26.0,1.0,MEDIUM,26.0,6139.682,13.0,,,,,Unknown
+2021,USA,Qatar,RUS,Williams,17.0,1.0,SOFT,17.0,5340.548,20.0,,,,,Unknown
+2021,USA,Qatar,RUS,Williams,49.0,2.0,HARD,32.0,8257.276,19.0,20.0,,,,Unknown
+2021,USA,Qatar,SAI,Ferrari,27.0,1.0,MEDIUM,30.0,6217.195,8.0,,,,,Unknown
+2021,USA,Qatar,STR,Aston Martin,23.0,1.0,MEDIUM,23.0,5860.618,13.0,,,,,Unknown
+2021,USA,Qatar,TSU,AlphaTauri,9.0,1.0,SOFT,12.0,4603.163,20.0,,,,,Unknown
+2021,USA,Qatar,TSU,AlphaTauri,34.0,2.0,MEDIUM,25.0,6869.812,13.0,20.0,,,,Unknown
+2021,USA,Qatar,VER,Red Bull Racing,17.0,1.0,MEDIUM,20.0,5283.444,2.0,,,,,Unknown
+2021,USA,Qatar,VER,Red Bull Racing,41.0,2.0,HARD,24.0,7401.286,2.0,2.0,,,,Unknown
+2021,USA,Qatar,VER,Red Bull Racing,55.0,3.0,MEDIUM,14.0,8640.184,2.0,2.0,,,,Unknown
+2021,USA,Qatar,VET,Aston Martin,26.0,1.0,SOFT,29.0,6141.241,15.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,ALB,Williams,12.0,1.0,MEDIUM,12.0,4852.879,16.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,ALB,Williams,35.0,2.0,HARD,23.0,6981.825,12.0,16.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,ALO,Alpine,19.0,1.0,MEDIUM,19.0,5492.556,7.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,ALO,Alpine,27.0,2.0,HARD,8.0,6242.95,10.0,7.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,BOT,Alfa Romeo,30.0,1.0,HARD,30.0,6534.202,17.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,GAS,AlphaTauri,14.0,1.0,SOFT,14.0,5043.131,17.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,HAM,Mercedes,18.0,1.0,MEDIUM,18.0,5387.393,3.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,HAM,Mercedes,55.0,2.0,HARD,37.0,8785.564,8.0,3.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,LAT,Williams,15.0,1.0,MEDIUM,15.0,5143.63,17.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,LAT,Williams,38.0,2.0,HARD,23.0,7309.488,19.0,17.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,LAT,Williams,55.0,3.0,MEDIUM,17.0,8924.922,19.0,19.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,LEC,Ferrari,21.0,1.0,MEDIUM,21.0,5649.606,1.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,MAG,Haas F1 Team,28.0,1.0,HARD,28.0,6352.982,18.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,MSC,Haas F1 Team,14.0,1.0,MEDIUM,14.0,5038.52,14.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,MSC,Haas F1 Team,34.0,2.0,HARD,20.0,6896.346,15.0,14.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,NOR,McLaren,15.0,1.0,MEDIUM,15.0,5115.754,7.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,NOR,McLaren,42.0,2.0,HARD,27.0,7596.101,6.0,7.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,OCO,Alpine,14.0,1.0,MEDIUM,14.0,5027.445,10.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,OCO,Alpine,41.0,2.0,HARD,27.0,7509.352,8.0,10.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,5099.669,3.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,33.0,2.0,HARD,18.0,6752.415,3.0,3.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,RIC,McLaren,19.0,1.0,MEDIUM,19.0,5498.238,8.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,RUS,Mercedes,15.0,1.0,MEDIUM,15.0,5107.629,5.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,RUS,Mercedes,39.0,2.0,HARD,24.0,7304.47,5.0,5.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,SAI,Ferrari,17.0,1.0,MEDIUM,17.0,5287.534,3.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,SAI,Ferrari,39.0,2.0,HARD,22.0,7301.163,3.0,3.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,STR,Aston Martin,13.0,1.0,MEDIUM,13.0,4938.961,13.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,STR,Aston Martin,40.0,2.0,HARD,28.0,7423.531,9.0,13.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,TSU,AlphaTauri,14.0,1.0,MEDIUM,14.0,5030.191,11.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,TSU,AlphaTauri,38.0,2.0,HARD,24.0,7249.269,10.0,11.0,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,5550.881,1.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,VET,Aston Martin,25.0,1.0,MEDIUM,25.0,6051.315,9.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,ZHO,Alfa Romeo,15.0,1.0,MEDIUM,15.0,5128.25,11.0,,,,,Unknown
+2022,Abu Dhabi,Abu Dhabi,ZHO,Alfa Romeo,44.0,2.0,HARD,29.0,7810.131,13.0,11.0,,,,Unknown
+2022,Australia,Australia,ALB,Williams,57.0,1.0,HARD,57.0,8974.288,9.0,,,,,Unknown
+2022,Australia,Australia,ALO,Alpine,39.0,1.0,HARD,39.0,7464.574,12.0,,,,,Unknown
+2022,Australia,Australia,ALO,Alpine,53.0,2.0,MEDIUM,14.0,8668.94,17.0,12.0,,,,Unknown
+2022,Australia,Australia,BOT,Alfa Romeo,22.0,1.0,MEDIUM,22.0,5801.378,14.0,,,,,Unknown
+2022,Australia,Australia,GAS,AlphaTauri,21.0,1.0,MEDIUM,21.0,5715.819,15.0,,,,,Unknown
+2022,Australia,Australia,HAM,Mercedes,22.0,1.0,MEDIUM,22.0,5782.978,4.0,,,,,Unknown
+2022,Australia,Australia,LAT,Williams,13.0,1.0,MEDIUM,13.0,5044.304,19.0,,,,,Unknown
+2022,Australia,Australia,LAT,Williams,23.0,2.0,HARD,11.0,5940.64,18.0,19.0,,,,Unknown
+2022,Australia,Australia,LEC,Ferrari,22.0,1.0,MEDIUM,22.0,5764.717,1.0,,,,,Unknown
+2022,Australia,Australia,MAG,Haas F1 Team,39.0,1.0,HARD,39.0,7470.896,16.0,,,,,Unknown
+2022,Australia,Australia,MSC,Haas F1 Team,14.0,1.0,MEDIUM,16.0,5123.73,18.0,,,,,Unknown
+2022,Australia,Australia,NOR,McLaren,20.0,1.0,MEDIUM,20.0,5620.643,10.0,,,,,Unknown
+2022,Australia,Australia,OCO,Alpine,17.0,1.0,MEDIUM,17.0,5371.237,17.0,,,,,Unknown
+2022,Australia,Australia,PER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,5614.237,6.0,,,,,Unknown
+2022,Australia,Australia,RIC,McLaren,21.0,1.0,MEDIUM,21.0,5707.374,9.0,,,,,Unknown
+2022,Australia,Australia,RUS,Mercedes,23.0,1.0,MEDIUM,23.0,5871.905,3.0,,,,,Unknown
+2022,Australia,Australia,STR,Aston Martin,3.0,1.0,HARD,4.0,4036.326,19.0,,,,,Unknown
+2022,Australia,Australia,STR,Aston Martin,4.0,2.0,MEDIUM,3.0,4169.558,19.0,19.0,,,,Unknown
+2022,Australia,Australia,STR,Aston Martin,23.0,3.0,HARD,19.0,5910.47,12.0,19.0,,,,Unknown
+2022,Australia,Australia,TSU,AlphaTauri,18.0,1.0,MEDIUM,18.0,5462.945,17.0,,,,,Unknown
+2022,Australia,Australia,VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,5437.751,7.0,,,,,Unknown
+2022,Australia,Australia,ZHO,Alfa Romeo,21.0,1.0,MEDIUM,21.0,5722.535,16.0,,,,,Unknown
+2022,Austria,Austria,ALB,Williams,11.0,1.0,MEDIUM,11.0,4534.383,14.0,,,,,Unknown
+2022,Austria,Austria,ALB,Williams,41.0,2.0,HARD,30.0,6708.372,10.0,14.0,,,,Unknown
+2022,Austria,Austria,ALO,Alpine,27.0,1.0,HARD,27.0,5696.507,12.0,,,,,Unknown
+2022,Austria,Austria,ALO,Alpine,57.0,2.0,HARD,30.0,7850.818,6.0,12.0,,,,Unknown
+2022,Austria,Austria,ALO,Alpine,58.0,3.0,MEDIUM,,7963.377,10.0,6.0,,,,Unknown
+2022,Austria,Austria,BOT,Alfa Romeo,6.0,1.0,MEDIUM,6.0,4178.848,19.0,,,,,Unknown
+2022,Austria,Austria,BOT,Alfa Romeo,39.0,2.0,HARD,33.0,6568.231,15.0,19.0,,,,Unknown
+2022,Austria,Austria,GAS,AlphaTauri,12.0,1.0,MEDIUM,12.0,4606.331,12.0,,,,,Unknown
+2022,Austria,Austria,GAS,AlphaTauri,40.0,2.0,HARD,28.0,6640.586,14.0,12.0,,,,Unknown
+2022,Austria,Austria,HAM,Mercedes,28.0,1.0,MEDIUM,28.0,5739.197,4.0,,,,,Unknown
+2022,Austria,Austria,HAM,Mercedes,51.0,2.0,HARD,23.0,7382.086,4.0,4.0,,,,Unknown
+2022,Austria,Austria,LAT,Williams,12.0,1.0,MEDIUM,12.0,4610.765,16.0,,,,,Unknown
+2022,Austria,Austria,LAT,Williams,35.0,2.0,HARD,23.0,6291.575,19.0,16.0,,,,Unknown
+2022,Austria,Austria,LEC,Ferrari,26.0,1.0,MEDIUM,26.0,5575.194,1.0,,,,,Unknown
+2022,Austria,Austria,LEC,Ferrari,49.0,2.0,HARD,23.0,7209.819,1.0,1.0,,,,Unknown
+2022,Austria,Austria,LEC,Ferrari,58.0,3.0,HARD,,7863.977,1.0,1.0,,,,Unknown
+2022,Austria,Austria,MAG,Haas F1 Team,15.0,1.0,MEDIUM,15.0,4815.481,7.0,,,,,Unknown
+2022,Austria,Austria,MAG,Haas F1 Team,41.0,2.0,HARD,26.0,6698.354,8.0,7.0,,,,Unknown
+2022,Austria,Austria,MSC,Haas F1 Team,16.0,1.0,MEDIUM,16.0,4888.869,6.0,,,,,Unknown
+2022,Austria,Austria,MSC,Haas F1 Team,43.0,2.0,HARD,27.0,6836.709,6.0,6.0,,,,Unknown
+2022,Austria,Austria,NOR,McLaren,14.0,1.0,MEDIUM,14.0,4745.662,8.0,,,,,Unknown
+2022,Austria,Austria,NOR,McLaren,43.0,2.0,HARD,29.0,6840.684,7.0,8.0,,,,Unknown
+2022,Austria,Austria,OCO,Alpine,16.0,1.0,MEDIUM,16.0,4884.9,5.0,,,,,Unknown
+2022,Austria,Austria,OCO,Alpine,44.0,2.0,HARD,28.0,6905.465,5.0,5.0,,,,Unknown
+2022,Austria,Austria,PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,3844.027,20.0,,,,,Unknown
+2022,Austria,Austria,PER,Red Bull Racing,24.0,2.0,HARD,23.0,5547.264,20.0,20.0,,,,Unknown
+2022,Austria,Austria,RIC,McLaren,12.0,1.0,MEDIUM,12.0,4604.736,10.0,,,,,Unknown
+2022,Austria,Austria,RIC,McLaren,44.0,2.0,HARD,32.0,6918.505,6.0,10.0,,,,Unknown
+2022,Austria,Austria,RUS,Mercedes,11.0,1.0,MEDIUM,11.0,4525.133,8.0,,,,,Unknown
+2022,Austria,Austria,RUS,Mercedes,40.0,2.0,HARD,29.0,6626.3,9.0,8.0,,,,Unknown
+2022,Austria,Austria,SAI,Ferrari,27.0,1.0,MEDIUM,27.0,5650.389,1.0,,,,,Unknown
+2022,Austria,Austria,SAI,Ferrari,50.0,2.0,HARD,23.0,7283.978,1.0,1.0,,,,Unknown
+2022,Austria,Austria,STR,Aston Martin,29.0,1.0,MEDIUM,31.0,5833.091,7.0,,,,,Unknown
+2022,Austria,Austria,STR,Aston Martin,48.0,2.0,HARD,20.0,7219.224,12.0,7.0,,,,Unknown
+2022,Austria,Austria,TSU,AlphaTauri,26.0,1.0,HARD,26.0,5622.461,13.0,,,,,Unknown
+2022,Austria,Austria,TSU,AlphaTauri,46.0,2.0,MEDIUM,20.0,7080.254,15.0,13.0,,,,Unknown
+2022,Austria,Austria,VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,4655.323,3.0,,,,,Unknown
+2022,Austria,Austria,VER,Red Bull Racing,36.0,2.0,HARD,23.0,6298.159,3.0,3.0,,,,Unknown
+2022,Austria,Austria,VER,Red Bull Racing,58.0,3.0,HARD,22.0,7869.472,2.0,3.0,,,,Unknown
+2022,Austria,Austria,VET,Aston Martin,20.0,1.0,HARD,21.0,5191.28,13.0,,,,,Unknown
+2022,Austria,Austria,VET,Aston Martin,44.0,2.0,MEDIUM,26.0,6941.732,17.0,13.0,,,,Unknown
+2022,Austria,Austria,ZHO,Alfa Romeo,24.0,1.0,HARD,24.0,5481.077,15.0,,,,,Unknown
+2022,Austria,Austria,ZHO,Alfa Romeo,46.0,2.0,HARD,22.0,7077.387,12.0,15.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,ALB,Williams,9.0,1.0,MEDIUM,9.0,4816.674,16.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,ALB,Williams,29.0,2.0,HARD,20.0,7060.23,15.0,16.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,ALO,Alpine,18.0,1.0,MEDIUM,18.0,5819.415,8.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,GAS,AlphaTauri,9.0,1.0,MEDIUM,9.0,4790.249,5.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,HAM,Mercedes,9.0,1.0,MEDIUM,9.0,4795.088,6.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,HAM,Mercedes,33.0,2.0,HARD,24.0,7490.356,5.0,6.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,LAT,Williams,3.0,1.0,MEDIUM,3.0,4131.373,20.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,LAT,Williams,17.0,2.0,MEDIUM,17.0,5763.746,19.0,20.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,LEC,Ferrari,9.0,1.0,MEDIUM,9.0,4767.292,3.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,MAG,Haas F1 Team,9.0,1.0,MEDIUM,11.0,4812.341,14.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,MSC,Haas F1 Team,9.0,1.0,HARD,9.0,4823.868,18.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,MSC,Haas F1 Team,23.0,2.0,MEDIUM,16.0,6412.292,17.0,18.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,NOR,McLaren,20.0,1.0,MEDIUM,20.0,6042.736,8.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,OCO,Alpine,33.0,1.0,HARD,33.0,7523.374,10.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,5563.69,2.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,PER,Red Bull Racing,33.0,2.0,HARD,17.0,7437.282,2.0,2.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,RIC,McLaren,33.0,1.0,HARD,33.0,7503.136,7.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,RUS,Mercedes,9.0,1.0,MEDIUM,9.0,4783.66,4.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,RUS,Mercedes,33.0,2.0,HARD,24.0,7460.125,3.0,4.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,STR,Aston Martin,30.0,1.0,HARD,31.0,7170.953,14.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,STR,Aston Martin,46.0,2.0,MEDIUM,17.0,9033.172,15.0,14.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,4797.883,8.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,TSU,AlphaTauri,38.0,2.0,HARD,29.0,8096.374,7.0,8.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,5778.25,1.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,VER,Red Bull Racing,33.0,2.0,HARD,15.0,7420.886,1.0,1.0,,,,Unknown
+2022,Azerbaijan,Azerbaijan,VET,Aston Martin,9.0,1.0,MEDIUM,10.0,4795.677,7.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,4809.398,13.0,,,,,Unknown
+2022,Azerbaijan,Azerbaijan,ZHO,Alfa Romeo,23.0,2.0,HARD,14.0,6406.19,16.0,13.0,,,,Unknown
+2022,Bahrain,Bahrain,ALB,Williams,13.0,1.0,SOFT,13.0,5087.519,14.0,,,,,Unknown
+2022,Bahrain,Bahrain,ALB,Williams,35.0,2.0,MEDIUM,22.0,7330.293,16.0,14.0,,,,Unknown
+2022,Bahrain,Bahrain,ALB,Williams,46.0,3.0,MEDIUM,13.0,8515.321,14.0,16.0,,,,Unknown
+2022,Bahrain,Bahrain,ALO,Alpine,11.0,1.0,SOFT,14.0,4871.171,11.0,,,,,Unknown
+2022,Bahrain,Bahrain,ALO,Alpine,25.0,2.0,MEDIUM,14.0,6293.55,10.0,11.0,,,,Unknown
+2022,Bahrain,Bahrain,ALO,Alpine,42.0,3.0,HARD,17.0,8006.856,12.0,10.0,,,,Unknown
+2022,Bahrain,Bahrain,BOT,Alfa Romeo,14.0,1.0,SOFT,17.0,5179.509,11.0,,,,,Unknown
+2022,Bahrain,Bahrain,BOT,Alfa Romeo,36.0,2.0,MEDIUM,22.0,7396.474,7.0,11.0,,,,Unknown
+2022,Bahrain,Bahrain,BOT,Alfa Romeo,45.0,3.0,MEDIUM,9.0,8319.972,8.0,7.0,,,,Unknown
+2022,Bahrain,Bahrain,GAS,AlphaTauri,14.0,1.0,SOFT,17.0,5169.339,7.0,,,,,Unknown
+2022,Bahrain,Bahrain,GAS,AlphaTauri,32.0,2.0,MEDIUM,18.0,6983.86,8.0,7.0,,,,Unknown
+2022,Bahrain,Bahrain,HAM,Mercedes,11.0,1.0,SOFT,13.0,4854.774,5.0,,,,,Unknown
+2022,Bahrain,Bahrain,HAM,Mercedes,27.0,2.0,HARD,17.0,6464.474,5.0,5.0,,,,Unknown
+2022,Bahrain,Bahrain,HAM,Mercedes,44.0,3.0,MEDIUM,17.0,8152.7,4.0,5.0,,,,Unknown
+2022,Bahrain,Bahrain,HUL,Aston Martin,19.0,1.0,SOFT,19.0,5711.601,17.0,,,,,Unknown
+2022,Bahrain,Bahrain,HUL,Aston Martin,37.0,2.0,SOFT,18.0,7547.615,17.0,17.0,,,,Unknown
+2022,Bahrain,Bahrain,HUL,Aston Martin,44.0,3.0,MEDIUM,7.0,8279.158,20.0,17.0,,,,Unknown
+2022,Bahrain,Bahrain,LAT,Williams,14.0,1.0,SOFT,14.0,5199.203,18.0,,,,,Unknown
+2022,Bahrain,Bahrain,LAT,Williams,32.0,2.0,SOFT,18.0,7040.263,20.0,18.0,,,,Unknown
+2022,Bahrain,Bahrain,LAT,Williams,45.0,3.0,MEDIUM,13.0,8407.866,17.0,20.0,,,,Unknown
+2022,Bahrain,Bahrain,LEC,Ferrari,15.0,1.0,SOFT,15.0,5239.419,1.0,,,,,Unknown
+2022,Bahrain,Bahrain,LEC,Ferrari,31.0,2.0,SOFT,19.0,6832.515,1.0,1.0,,,,Unknown
+2022,Bahrain,Bahrain,LEC,Ferrari,46.0,3.0,MEDIUM,15.0,8333.486,1.0,1.0,,,,Unknown
+2022,Bahrain,Bahrain,MAG,Haas F1 Team,14.0,1.0,SOFT,14.0,5168.02,6.0,,,,,Unknown
+2022,Bahrain,Bahrain,MAG,Haas F1 Team,34.0,2.0,SOFT,23.0,7179.763,6.0,6.0,,,,Unknown
+2022,Bahrain,Bahrain,MAG,Haas F1 Team,46.0,3.0,MEDIUM,12.0,8430.179,7.0,6.0,,,,Unknown
+2022,Bahrain,Bahrain,MSC,Haas F1 Team,12.0,1.0,SOFT,12.0,4989.051,17.0,,,,,Unknown
+2022,Bahrain,Bahrain,MSC,Haas F1 Team,35.0,2.0,MEDIUM,23.0,7319.058,14.0,17.0,,,,Unknown
+2022,Bahrain,Bahrain,NOR,McLaren,24.0,1.0,MEDIUM,24.0,6221.414,17.0,,,,,Unknown
+2022,Bahrain,Bahrain,NOR,McLaren,41.0,2.0,HARD,17.0,7943.749,16.0,17.0,,,,Unknown
+2022,Bahrain,Bahrain,NOR,McLaren,45.0,3.0,SOFT,4.0,8399.942,16.0,16.0,,,,Unknown
+2022,Bahrain,Bahrain,OCO,Alpine,14.0,1.0,SOFT,14.0,5171.835,8.0,,,,,Unknown
+2022,Bahrain,Bahrain,OCO,Alpine,30.0,2.0,MEDIUM,16.0,6793.145,9.0,8.0,,,,Unknown
+2022,Bahrain,Bahrain,OCO,Alpine,43.0,3.0,HARD,13.0,8098.944,9.0,9.0,,,,Unknown
+2022,Bahrain,Bahrain,PER,Red Bull Racing,15.0,1.0,SOFT,18.0,5253.086,2.0,,,,,Unknown
+2022,Bahrain,Bahrain,PER,Red Bull Racing,33.0,2.0,MEDIUM,18.0,7044.378,2.0,2.0,,,,Unknown
+2022,Bahrain,Bahrain,PER,Red Bull Racing,43.0,3.0,SOFT,13.0,8037.416,4.0,2.0,,,,Unknown
+2022,Bahrain,Bahrain,RIC,McLaren,17.0,1.0,MEDIUM,17.0,5506.578,18.0,,,,,Unknown
+2022,Bahrain,Bahrain,RIC,McLaren,33.0,2.0,SOFT,16.0,7133.818,17.0,18.0,,,,Unknown
+2022,Bahrain,Bahrain,RIC,McLaren,44.0,3.0,HARD,11.0,8261.406,17.0,17.0,,,,Unknown
+2022,Bahrain,Bahrain,RUS,Mercedes,15.0,1.0,SOFT,18.0,5259.275,3.0,,,,,Unknown
+2022,Bahrain,Bahrain,RUS,Mercedes,33.0,2.0,HARD,19.0,7066.234,5.0,3.0,,,,Unknown
+2022,Bahrain,Bahrain,RUS,Mercedes,45.0,3.0,MEDIUM,12.0,8274.024,5.0,5.0,,,,Unknown
+2022,Bahrain,Bahrain,SAI,Ferrari,14.0,1.0,SOFT,17.0,5150.867,4.0,,,,,Unknown
+2022,Bahrain,Bahrain,SAI,Ferrari,33.0,2.0,SOFT,19.0,7041.887,1.0,4.0,,,,Unknown
+2022,Bahrain,Bahrain,SAI,Ferrari,44.0,3.0,MEDIUM,11.0,8131.243,2.0,1.0,,,,Unknown
+2022,Bahrain,Bahrain,STR,Aston Martin,18.0,1.0,SOFT,18.0,5598.713,12.0,,,,,Unknown
+2022,Bahrain,Bahrain,STR,Aston Martin,38.0,2.0,SOFT,20.0,7624.987,14.0,12.0,,,,Unknown
+2022,Bahrain,Bahrain,STR,Aston Martin,45.0,3.0,MEDIUM,7.0,8372.487,14.0,14.0,,,,Unknown
+2022,Bahrain,Bahrain,TSU,AlphaTauri,15.0,1.0,SOFT,15.0,5277.709,7.0,,,,,Unknown
+2022,Bahrain,Bahrain,TSU,AlphaTauri,29.0,2.0,MEDIUM,14.0,6697.821,11.0,7.0,,,,Unknown
+2022,Bahrain,Bahrain,TSU,AlphaTauri,44.0,3.0,SOFT,15.0,8200.022,10.0,11.0,,,,Unknown
+2022,Bahrain,Bahrain,VER,Red Bull Racing,14.0,1.0,SOFT,17.0,5143.479,2.0,,13.0,,,Unknown
+2022,Bahrain,Bahrain,VER,Red Bull Racing,30.0,2.0,SOFT,16.0,6737.298,2.0,2.0,,,,Unknown
+2022,Bahrain,Bahrain,VER,Red Bull Racing,43.0,3.0,MEDIUM,13.0,8020.852,2.0,2.0,,,,Unknown
+2022,Bahrain,Bahrain,VER,Red Bull Racing,54.0,4.0,SOFT,14.0,9348.693,13.0,2.0,,,,Unknown
+2022,Bahrain,Bahrain,ZHO,Alfa Romeo,15.0,1.0,SOFT,15.0,5283.937,8.0,,,,,Unknown
+2022,Bahrain,Bahrain,ZHO,Alfa Romeo,37.0,2.0,MEDIUM,22.0,7500.732,9.0,8.0,,,,Unknown
+2022,Bahrain,Bahrain,ZHO,Alfa Romeo,45.0,3.0,MEDIUM,8.0,8325.69,9.0,9.0,,,,Unknown
+2022,Belgium,Belgium,ALB,Williams,10.0,1.0,MEDIUM,10.0,5081.502,11.0,,,,,Unknown
+2022,Belgium,Belgium,ALB,Williams,26.0,2.0,HARD,16.0,6946.581,11.0,11.0,,,,Unknown
+2022,Belgium,Belgium,ALO,Alpine,11.0,1.0,MEDIUM,11.0,5191.53,6.0,,,,,Unknown
+2022,Belgium,Belgium,ALO,Alpine,25.0,2.0,MEDIUM,14.0,6818.554,8.0,6.0,,,,Unknown
+2022,Belgium,Belgium,GAS,AlphaTauri,10.0,1.0,MEDIUM,10.0,5090.072,18.0,,,,,Unknown
+2022,Belgium,Belgium,GAS,AlphaTauri,22.0,2.0,HARD,12.0,6485.809,14.0,18.0,,,,Unknown
+2022,Belgium,Belgium,LAT,Williams,15.0,2.0,MEDIUM,13.0,5677.793,14.0,,,,,Unknown
+2022,Belgium,Belgium,LAT,Williams,34.0,3.0,HARD,19.0,7896.271,18.0,14.0,,,,Unknown
+2022,Belgium,Belgium,LEC,Ferrari,25.0,2.0,MEDIUM,22.0,6810.022,5.0,,,,,Unknown
+2022,Belgium,Belgium,LEC,Ferrari,42.0,3.0,MEDIUM,17.0,8745.177,5.0,5.0,,,,Unknown
+2022,Belgium,Belgium,MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,5205.598,16.0,,,,,Unknown
+2022,Belgium,Belgium,MAG,Haas F1 Team,27.0,2.0,HARD,16.0,7073.219,14.0,16.0,,,,Unknown
+2022,Belgium,Belgium,MSC,Haas F1 Team,14.0,1.0,MEDIUM,14.0,5563.1,16.0,,,,,Unknown
+2022,Belgium,Belgium,MSC,Haas F1 Team,30.0,2.0,HARD,16.0,7426.079,16.0,16.0,,,,Unknown
+2022,Belgium,Belgium,NOR,McLaren,13.0,1.0,MEDIUM,13.0,5434.538,11.0,,,,,Unknown
+2022,Belgium,Belgium,NOR,McLaren,29.0,2.0,HARD,16.0,7294.206,12.0,11.0,,,,Unknown
+2022,Belgium,Belgium,OCO,Alpine,12.0,1.0,MEDIUM,12.0,5315.415,10.0,,,,,Unknown
+2022,Belgium,Belgium,OCO,Alpine,32.0,2.0,HARD,20.0,7624.857,7.0,10.0,,,,Unknown
+2022,Belgium,Belgium,PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,5527.821,2.0,,,,,Unknown
+2022,Belgium,Belgium,PER,Red Bull Racing,27.0,2.0,MEDIUM,13.0,7012.646,2.0,2.0,,,,Unknown
+2022,Belgium,Belgium,RIC,McLaren,12.0,1.0,MEDIUM,12.0,5313.798,8.0,,,,,Unknown
+2022,Belgium,Belgium,RIC,McLaren,32.0,2.0,HARD,20.0,7637.276,10.0,8.0,,,,Unknown
+2022,Belgium,Belgium,RUS,Mercedes,13.0,1.0,MEDIUM,13.0,5416.013,3.0,,,,,Unknown
+2022,Belgium,Belgium,RUS,Mercedes,29.0,2.0,MEDIUM,16.0,7248.858,3.0,3.0,,,,Unknown
+2022,Belgium,Belgium,SAI,Ferrari,11.0,1.0,SOFT,13.0,5181.052,3.0,,,,,Unknown
+2022,Belgium,Belgium,SAI,Ferrari,25.0,2.0,MEDIUM,14.0,6790.184,4.0,3.0,,,,Unknown
+2022,Belgium,Belgium,STR,Aston Martin,15.0,1.0,MEDIUM,16.0,5664.3,6.0,,,,,Unknown
+2022,Belgium,Belgium,STR,Aston Martin,26.0,2.0,MEDIUM,12.0,6948.38,13.0,6.0,,,,Unknown
+2022,Belgium,Belgium,TSU,AlphaTauri,18.0,1.0,HARD,18.0,6016.185,10.0,,,,,Unknown
+2022,Belgium,Belgium,TSU,AlphaTauri,30.0,2.0,MEDIUM,12.0,7410.58,11.0,10.0,,,,Unknown
+2022,Belgium,Belgium,VER,Red Bull Racing,15.0,1.0,SOFT,15.0,5637.329,1.0,,,,,Unknown
+2022,Belgium,Belgium,VER,Red Bull Racing,30.0,2.0,MEDIUM,15.0,7338.225,1.0,1.0,,,,Unknown
+2022,Belgium,Belgium,VET,Aston Martin,14.0,1.0,MEDIUM,15.0,5540.672,4.0,,,,,Unknown
+2022,Belgium,Belgium,VET,Aston Martin,33.0,2.0,HARD,19.0,7735.584,6.0,4.0,,,,Unknown
+2022,Belgium,Belgium,ZHO,Alfa Romeo,14.0,1.0,MEDIUM,14.0,5552.252,10.0,,,,,Unknown
+2022,Belgium,Belgium,ZHO,Alfa Romeo,28.0,2.0,MEDIUM,14.0,7181.684,13.0,10.0,,,,Unknown
+2022,Britain,Great Britain,ALO,Alpine,1.0,1.0,MEDIUM,1.0,3881.372,5.0,,,,,Unknown
+2022,Britain,Great Britain,ALO,Alpine,33.0,2.0,MEDIUM,32.0,10052.228,5.0,5.0,,,,Unknown
+2022,Britain,Great Britain,ALO,Alpine,39.0,3.0,HARD,6.0,10652.467,5.0,5.0,,,,Unknown
+2022,Britain,Great Britain,BOT,Alfa Romeo,1.0,1.0,MEDIUM,1.0,3891.154,9.0,,,,,Unknown
+2022,Britain,Great Britain,BOT,Alfa Romeo,20.0,2.0,MEDIUM,19.0,8856.799,11.0,9.0,,,,Unknown
+2022,Britain,Great Britain,GAS,AlphaTauri,1.0,1.0,MEDIUM,1.0,3896.046,11.0,,,,,Unknown
+2022,Britain,Great Britain,GAS,AlphaTauri,16.0,2.0,SOFT,15.0,8473.394,13.0,11.0,,,,Unknown
+2022,Britain,Great Britain,GAS,AlphaTauri,26.0,3.0,HARD,11.0,9444.856,14.0,13.0,,,,Unknown
+2022,Britain,Great Britain,HAM,Mercedes,1.0,1.0,MEDIUM,1.0,3876.448,3.0,,,,,Unknown
+2022,Britain,Great Britain,HAM,Mercedes,33.0,2.0,MEDIUM,32.0,10014.776,1.0,3.0,,,,Unknown
+2022,Britain,Great Britain,HAM,Mercedes,39.0,3.0,HARD,6.0,10595.512,3.0,1.0,,,,Unknown
+2022,Britain,Great Britain,LAT,Williams,1.0,1.0,SOFT,1.0,3889.111,8.0,,,,,Unknown
+2022,Britain,Great Britain,LAT,Williams,19.0,2.0,SOFT,18.0,8752.668,8.0,8.0,,,,Unknown
+2022,Britain,Great Britain,LAT,Williams,39.0,3.0,MEDIUM,20.0,10704.505,11.0,8.0,,,,Unknown
+2022,Britain,Great Britain,LEC,Ferrari,1.0,1.0,MEDIUM,1.0,3877.928,4.0,,,,,Unknown
+2022,Britain,Great Britain,LEC,Ferrari,25.0,2.0,MEDIUM,24.0,9273.892,1.0,4.0,,,,Unknown
+2022,Britain,Great Britain,MAG,Haas F1 Team,1.0,1.0,SOFT,1.0,3898.332,12.0,,,,,Unknown
+2022,Britain,Great Britain,MAG,Haas F1 Team,22.0,2.0,MEDIUM,23.0,9040.946,9.0,12.0,,,,Unknown
+2022,Britain,Great Britain,MSC,Haas F1 Team,1.0,1.0,MEDIUM,3.0,3904.795,15.0,,,,,Unknown
+2022,Britain,Great Britain,MSC,Haas F1 Team,19.0,2.0,MEDIUM,18.0,8753.928,10.0,15.0,,,,Unknown
+2022,Britain,Great Britain,MSC,Haas F1 Team,39.0,3.0,HARD,20.0,10693.135,9.0,10.0,,,,Unknown
+2022,Britain,Great Britain,NOR,McLaren,1.0,1.0,MEDIUM,1.0,3886.371,7.0,,,,,Unknown
+2022,Britain,Great Britain,NOR,McLaren,34.0,2.0,MEDIUM,34.0,10143.114,4.0,7.0,,,,Unknown
+2022,Britain,Great Britain,NOR,McLaren,40.0,3.0,HARD,6.0,10776.752,5.0,4.0,,,,Unknown
+2022,Britain,Great Britain,OCO,Alpine,1.0,1.0,MEDIUM,1.0,4009.665,17.0,,,,,Unknown
+2022,Britain,Great Britain,OCO,Alpine,22.0,2.0,SOFT,21.0,9035.504,7.0,17.0,,,,Unknown
+2022,Britain,Great Britain,PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,3883.896,6.0,,,,,Unknown
+2022,Britain,Great Britain,PER,Red Bull Racing,5.0,2.0,MEDIUM,4.0,7411.519,4.0,6.0,,,,Unknown
+2022,Britain,Great Britain,PER,Red Bull Racing,39.0,3.0,MEDIUM,35.0,10628.705,4.0,4.0,,,,Unknown
+2022,Britain,Great Britain,RIC,McLaren,1.0,1.0,MEDIUM,1.0,3892.979,10.0,,13.0,,,Unknown
+2022,Britain,Great Britain,RIC,McLaren,20.0,2.0,MEDIUM,20.0,8849.52,9.0,10.0,,,,Unknown
+2022,Britain,Great Britain,RIC,McLaren,32.0,3.0,HARD,12.0,10012.339,13.0,9.0,,,,Unknown
+2022,Britain,Great Britain,RIC,McLaren,38.0,4.0,SOFT,6.0,10604.515,13.0,13.0,,,,Unknown
+2022,Britain,Great Britain,SAI,Ferrari,1.0,1.0,MEDIUM,1.0,3873.828,2.0,,,,,Unknown
+2022,Britain,Great Britain,SAI,Ferrari,20.0,2.0,MEDIUM,19.0,8808.129,1.0,2.0,,,,Unknown
+2022,Britain,Great Britain,SAI,Ferrari,39.0,3.0,HARD,19.0,10594.155,1.0,1.0,,,,Unknown
+2022,Britain,Great Britain,STR,Aston Martin,1.0,1.0,MEDIUM,3.0,3902.964,14.0,,,,,Unknown
+2022,Britain,Great Britain,STR,Aston Martin,15.0,2.0,MEDIUM,16.0,8377.996,14.0,14.0,,,,Unknown
+2022,Britain,Great Britain,STR,Aston Martin,40.0,3.0,HARD,26.0,10833.756,9.0,14.0,,,,Unknown
+2022,Britain,Great Britain,TSU,AlphaTauri,1.0,1.0,MEDIUM,1.0,3940.637,16.0,,,,,Unknown
+2022,Britain,Great Britain,TSU,AlphaTauri,18.0,2.0,SOFT,17.0,8671.514,14.0,16.0,,,,Unknown
+2022,Britain,Great Britain,TSU,AlphaTauri,38.0,3.0,HARD,21.0,10629.355,14.0,14.0,,,,Unknown
+2022,Britain,Great Britain,VER,Red Bull Racing,1.0,1.0,SOFT,1.0,3871.951,1.0,,8.0,,,Unknown
+2022,Britain,Great Britain,VER,Red Bull Racing,12.0,2.0,MEDIUM,11.0,8061.678,1.0,1.0,,,,Unknown
+2022,Britain,Great Britain,VER,Red Bull Racing,23.0,3.0,MEDIUM,11.0,9125.951,6.0,1.0,,,,Unknown
+2022,Britain,Great Britain,VER,Red Bull Racing,39.0,4.0,HARD,16.0,10690.593,8.0,6.0,,,,Unknown
+2022,Britain,Great Britain,VET,Aston Martin,1.0,1.0,SOFT,1.0,3900.687,13.0,,,,,Unknown
+2022,Britain,Great Britain,VET,Aston Martin,6.0,2.0,SOFT,5.0,7513.373,12.0,13.0,,,,Unknown
+2022,Britain,Great Britain,VET,Aston Martin,39.0,3.0,MEDIUM,35.0,10683.944,7.0,12.0,,,,Unknown
+2022,Canada,Canada,ALB,Williams,18.0,1.0,MEDIUM,18.0,5227.539,17.0,,,,,Unknown
+2022,Canada,Canada,ALB,Williams,48.0,2.0,HARD,30.0,7665.353,15.0,17.0,,,,Unknown
+2022,Canada,Canada,ALO,Alpine,28.0,1.0,MEDIUM,28.0,6027.191,6.0,,,,,Unknown
+2022,Canada,Canada,ALO,Alpine,49.0,2.0,HARD,21.0,7722.511,6.0,6.0,,,,Unknown
+2022,Canada,Canada,BOT,Alfa Romeo,49.0,1.0,HARD,49.0,7730.55,8.0,,,,,Unknown
+2022,Canada,Canada,GAS,AlphaTauri,5.0,1.0,MEDIUM,5.0,4144.6,20.0,,,,,Unknown
+2022,Canada,Canada,GAS,AlphaTauri,36.0,2.0,HARD,31.0,6696.357,17.0,20.0,,,,Unknown
+2022,Canada,Canada,HAM,Mercedes,9.0,1.0,MEDIUM,9.0,4465.193,6.0,,,,,Unknown
+2022,Canada,Canada,HAM,Mercedes,44.0,2.0,HARD,35.0,7266.926,4.0,6.0,,,,Unknown
+2022,Canada,Canada,LAT,Williams,9.0,1.0,MEDIUM,9.0,4499.436,18.0,,,,,Unknown
+2022,Canada,Canada,LAT,Williams,37.0,2.0,HARD,28.0,6802.873,18.0,18.0,,,,Unknown
+2022,Canada,Canada,LEC,Ferrari,41.0,1.0,HARD,41.0,7064.434,9.0,,,,,Unknown
+2022,Canada,Canada,MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,4293.49,20.0,,,,,Unknown
+2022,Canada,Canada,NOR,McLaren,19.0,1.0,HARD,19.0,5315.29,18.0,,,,,Unknown
+2022,Canada,Canada,NOR,McLaren,42.0,2.0,HARD,23.0,7181.484,17.0,18.0,,,,Unknown
+2022,Canada,Canada,OCO,Alpine,19.0,1.0,MEDIUM,19.0,5296.412,7.0,,,,,Unknown
+2022,Canada,Canada,OCO,Alpine,49.0,2.0,HARD,30.0,7714.475,5.0,7.0,,,,Unknown
+2022,Canada,Canada,RIC,McLaren,19.0,1.0,MEDIUM,19.0,5306.829,12.0,,,,,Unknown
+2022,Canada,Canada,RIC,McLaren,49.0,2.0,HARD,30.0,7749.281,11.0,12.0,,,,Unknown
+2022,Canada,Canada,RUS,Mercedes,19.0,1.0,MEDIUM,19.0,5284.09,5.0,,,,,Unknown
+2022,Canada,Canada,RUS,Mercedes,45.0,2.0,HARD,26.0,7350.704,4.0,5.0,,,,Unknown
+2022,Canada,Canada,SAI,Ferrari,20.0,1.0,MEDIUM,20.0,5373.779,3.0,,,,,Unknown
+2022,Canada,Canada,SAI,Ferrari,49.0,2.0,HARD,29.0,7644.719,2.0,3.0,,,,Unknown
+2022,Canada,Canada,STR,Aston Martin,47.0,1.0,HARD,47.0,7556.03,13.0,,,,,Unknown
+2022,Canada,Canada,TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,4490.577,15.0,,,,,Unknown
+2022,Canada,Canada,TSU,AlphaTauri,47.0,2.0,HARD,38.0,7561.205,15.0,15.0,,,,Unknown
+2022,Canada,Canada,VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,4455.857,3.0,,,,,Unknown
+2022,Canada,Canada,VER,Red Bull Racing,43.0,2.0,HARD,34.0,7170.251,2.0,3.0,,,,Unknown
+2022,Canada,Canada,VET,Aston Martin,5.0,1.0,MEDIUM,6.0,4142.435,19.0,,,,,Unknown
+2022,Canada,Canada,VET,Aston Martin,19.0,2.0,HARD,14.0,5325.014,14.0,19.0,,,,Unknown
+2022,Canada,Canada,ZHO,Alfa Romeo,19.0,1.0,MEDIUM,19.0,5304.862,10.0,,,,,Unknown
+2022,Canada,Canada,ZHO,Alfa Romeo,49.0,2.0,HARD,30.0,7744.571,10.0,10.0,,,,Unknown
+2022,Emilia Romagna,Italy,ALB,Williams,17.0,1.0,INTERMEDIATE,17.0,5501.637,17.0,,,,,Unknown
+2022,Emilia Romagna,Italy,ALO,Alpine,6.0,1.0,INTERMEDIATE,6.0,4463.967,19.0,,,,,Unknown
+2022,Emilia Romagna,Italy,BOT,Alfa Romeo,18.0,1.0,INTERMEDIATE,18.0,5568.07,6.0,,,,,Unknown
+2022,Emilia Romagna,Italy,GAS,AlphaTauri,17.0,1.0,INTERMEDIATE,17.0,5498.635,13.0,,,,,Unknown
+2022,Emilia Romagna,Italy,HAM,Mercedes,18.0,1.0,INTERMEDIATE,18.0,5587.932,10.0,,,,,Unknown
+2022,Emilia Romagna,Italy,LAT,Williams,18.0,1.0,INTERMEDIATE,18.0,5597.556,12.0,,,,,Unknown
+2022,Emilia Romagna,Italy,LEC,Ferrari,19.0,1.0,INTERMEDIATE,19.0,5637.26,2.0,,,,,Unknown
+2022,Emilia Romagna,Italy,LEC,Ferrari,49.0,2.0,MEDIUM,30.0,8119.436,3.0,2.0,,,,Unknown
+2022,Emilia Romagna,Italy,LEC,Ferrari,53.0,3.0,SOFT,4.0,8477.893,5.0,3.0,,,,Unknown
+2022,Emilia Romagna,Italy,MAG,Haas F1 Team,18.0,1.0,INTERMEDIATE,18.0,5577.135,7.0,,,,,Unknown
+2022,Emilia Romagna,Italy,MSC,Haas F1 Team,18.0,1.0,INTERMEDIATE,18.0,5598.878,14.0,,,,,Unknown
+2022,Emilia Romagna,Italy,MSC,Haas F1 Team,52.0,2.0,MEDIUM,36.0,8465.143,17.0,14.0,,,,Unknown
+2022,Emilia Romagna,Italy,NOR,McLaren,19.0,1.0,INTERMEDIATE,19.0,5648.025,3.0,,,,,Unknown
+2022,Emilia Romagna,Italy,OCO,Alpine,18.0,1.0,INTERMEDIATE,18.0,5588.785,11.0,,,,,Unknown
+2022,Emilia Romagna,Italy,PER,Red Bull Racing,18.0,1.0,INTERMEDIATE,18.0,5547.006,3.0,,,,,Unknown
+2022,Emilia Romagna,Italy,PER,Red Bull Racing,50.0,2.0,MEDIUM,32.0,8198.648,2.0,3.0,,,,Unknown
+2022,Emilia Romagna,Italy,RIC,McLaren,16.0,2.0,INTERMEDIATE,16.0,5415.096,18.0,,,,,Unknown
+2022,Emilia Romagna,Italy,RIC,McLaren,30.0,3.0,MEDIUM,14.0,6638.241,15.0,18.0,,,,Unknown
+2022,Emilia Romagna,Italy,RUS,Mercedes,18.0,1.0,INTERMEDIATE,18.0,5566.538,5.0,,,,,Unknown
+2022,Emilia Romagna,Italy,STR,Aston Martin,18.0,1.0,INTERMEDIATE,18.0,5587.137,9.0,,,,,Unknown
+2022,Emilia Romagna,Italy,TSU,AlphaTauri,18.0,1.0,INTERMEDIATE,18.0,5586.428,8.0,,,,,Unknown
+2022,Emilia Romagna,Italy,VER,Red Bull Racing,19.0,1.0,INTERMEDIATE,19.0,5630.145,1.0,,,,,Unknown
+2022,Emilia Romagna,Italy,VER,Red Bull Racing,51.0,2.0,MEDIUM,32.0,8264.927,1.0,1.0,,,,Unknown
+2022,Emilia Romagna,Italy,VET,Aston Martin,17.0,1.0,INTERMEDIATE,17.0,5487.204,9.0,,,,,Unknown
+2022,Emilia Romagna,Italy,ZHO,Alfa Romeo,18.0,1.0,INTERMEDIATE,18.0,5598.441,13.0,,,,,Unknown
+2022,France,France,ALB,Williams,18.0,1.0,MEDIUM,18.0,4393.723,13.0,,,,,Unknown
+2022,France,France,ALO,Alpine,18.0,1.0,MEDIUM,18.0,4367.635,5.0,,,,,Unknown
+2022,France,France,BOT,Alfa Romeo,18.0,1.0,HARD,18.0,4405.519,15.0,,,,,Unknown
+2022,France,France,BOT,Alfa Romeo,36.0,2.0,HARD,18.0,6293.926,17.0,15.0,,,,Unknown
+2022,France,France,GAS,AlphaTauri,18.0,1.0,HARD,18.0,4397.312,14.0,,,,,Unknown
+2022,France,France,HAM,Mercedes,18.0,1.0,MEDIUM,18.0,4349.58,1.0,,,,,Unknown
+2022,France,France,LAT,Williams,38.0,2.0,HARD,19.0,6517.816,17.0,,,,,Unknown
+2022,France,France,MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,3367.927,20.0,,,,,Unknown
+2022,France,France,MAG,Haas F1 Team,18.0,2.0,HARD,10.0,4417.953,17.0,20.0,,,,Unknown
+2022,France,France,MSC,Haas F1 Team,9.0,1.0,MEDIUM,9.0,3470.521,18.0,,,,,Unknown
+2022,France,France,MSC,Haas F1 Team,18.0,2.0,HARD,9.0,4428.3,19.0,18.0,,,,Unknown
+2022,France,France,NOR,McLaren,18.0,1.0,MEDIUM,18.0,4376.152,7.0,,,,,Unknown
+2022,France,France,OCO,Alpine,18.0,1.0,MEDIUM,18.0,4381.144,11.0,,,,,Unknown
+2022,France,France,PER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,4354.35,3.0,,,,,Unknown
+2022,France,France,RIC,McLaren,18.0,1.0,MEDIUM,18.0,4385.917,9.0,,,,,Unknown
+2022,France,France,RUS,Mercedes,18.0,1.0,MEDIUM,18.0,4355.42,4.0,,,,,Unknown
+2022,France,France,SAI,Ferrari,18.0,1.0,HARD,18.0,4382.9,10.0,,,,,Unknown
+2022,France,France,SAI,Ferrari,42.0,2.0,MEDIUM,24.0,6852.739,7.0,10.0,,,,Unknown
+2022,France,France,STR,Aston Martin,18.0,1.0,MEDIUM,20.0,4387.739,12.0,,,,,Unknown
+2022,France,France,TSU,AlphaTauri,11.0,1.0,MEDIUM,11.0,3683.484,19.0,,,,,Unknown
+2022,France,France,VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,4138.183,5.0,,,,,Unknown
+2022,France,France,ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,3475.896,20.0,,,,,Unknown
+2022,France,France,ZHO,Alfa Romeo,22.0,2.0,HARD,13.0,4904.994,18.0,20.0,,,,Unknown
+2022,Hungary,Hungary,ALB,Williams,2.0,1.0,SOFT,2.0,3940.038,12.0,,,,,Unknown
+2022,Hungary,Hungary,ALB,Williams,21.0,2.0,MEDIUM,19.0,5602.639,18.0,12.0,,,,Unknown
+2022,Hungary,Hungary,ALB,Williams,40.0,3.0,MEDIUM,19.0,7249.411,17.0,18.0,,,,Unknown
+2022,Hungary,Hungary,ALO,Alpine,21.0,1.0,MEDIUM,21.0,5565.896,6.0,,,,,Unknown
+2022,Hungary,Hungary,BOT,Alfa Romeo,26.0,1.0,MEDIUM,26.0,6008.3,9.0,,,,,Unknown
+2022,Hungary,Hungary,GAS,AlphaTauri,16.0,1.0,SOFT,16.0,5155.182,13.0,,,,,Unknown
+2022,Hungary,Hungary,GAS,AlphaTauri,46.0,2.0,MEDIUM,30.0,7728.066,14.0,13.0,,,,Unknown
+2022,Hungary,Hungary,HAM,Mercedes,19.0,1.0,MEDIUM,19.0,5379.61,2.0,,,,,Unknown
+2022,Hungary,Hungary,HAM,Mercedes,51.0,2.0,MEDIUM,32.0,8082.904,2.0,2.0,,,,Unknown
+2022,Hungary,Hungary,LAT,Williams,18.0,1.0,MEDIUM,18.0,5331.363,13.0,,,,,Unknown
+2022,Hungary,Hungary,LAT,Williams,39.0,2.0,MEDIUM,21.0,7151.38,17.0,13.0,,,,Unknown
+2022,Hungary,Hungary,LAT,Williams,56.0,3.0,SOFT,17.0,8622.245,19.0,17.0,,,,Unknown
+2022,Hungary,Hungary,LEC,Ferrari,21.0,1.0,MEDIUM,21.0,5536.167,1.0,,,,,Unknown
+2022,Hungary,Hungary,LEC,Ferrari,39.0,2.0,MEDIUM,18.0,7061.965,1.0,1.0,,,,Unknown
+2022,Hungary,Hungary,LEC,Ferrari,54.0,3.0,HARD,15.0,8343.011,4.0,1.0,,,,Unknown
+2022,Hungary,Hungary,MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,4284.881,12.0,,,,,Unknown
+2022,Hungary,Hungary,MAG,Haas F1 Team,35.0,2.0,HARD,29.0,6814.622,18.0,12.0,,,,Unknown
+2022,Hungary,Hungary,MAG,Haas F1 Team,67.0,3.0,MEDIUM,32.0,9575.125,16.0,18.0,,,,Unknown
+2022,Hungary,Hungary,MSC,Haas F1 Team,21.0,1.0,MEDIUM,21.0,5578.463,12.0,,,,,Unknown
+2022,Hungary,Hungary,MSC,Haas F1 Team,41.0,2.0,HARD,20.0,7321.712,16.0,12.0,,,,Unknown
+2022,Hungary,Hungary,NOR,McLaren,14.0,1.0,SOFT,17.0,4963.465,9.0,,,,,Unknown
+2022,Hungary,Hungary,NOR,McLaren,42.0,2.0,MEDIUM,28.0,7359.022,7.0,9.0,,,,Unknown
+2022,Hungary,Hungary,OCO,Alpine,23.0,1.0,MEDIUM,23.0,5735.352,6.0,,,,,Unknown
+2022,Hungary,Hungary,PER,Red Bull Racing,18.0,1.0,SOFT,18.0,5300.585,3.0,,,,,Unknown
+2022,Hungary,Hungary,PER,Red Bull Racing,42.0,2.0,MEDIUM,24.0,7343.725,6.0,3.0,,,,Unknown
+2022,Hungary,Hungary,RIC,McLaren,15.0,1.0,SOFT,17.0,5060.694,11.0,,,,,Unknown
+2022,Hungary,Hungary,RIC,McLaren,46.0,2.0,MEDIUM,31.0,7715.898,8.0,11.0,,,,Unknown
+2022,Hungary,Hungary,RUS,Mercedes,16.0,1.0,SOFT,19.0,5114.057,3.0,,,,,Unknown
+2022,Hungary,Hungary,RUS,Mercedes,39.0,2.0,MEDIUM,23.0,7067.698,3.0,3.0,,,,Unknown
+2022,Hungary,Hungary,SAI,Ferrari,17.0,1.0,MEDIUM,17.0,5199.69,2.0,,,,,Unknown
+2022,Hungary,Hungary,SAI,Ferrari,47.0,2.0,MEDIUM,30.0,7742.42,2.0,2.0,,,,Unknown
+2022,Hungary,Hungary,STR,Aston Martin,14.0,1.0,SOFT,17.0,4976.439,15.0,,,,,Unknown
+2022,Hungary,Hungary,STR,Aston Martin,46.0,2.0,MEDIUM,33.0,7716.941,9.0,15.0,,,,Unknown
+2022,Hungary,Hungary,TSU,AlphaTauri,13.0,1.0,SOFT,13.0,4893.919,17.0,,,,,Unknown
+2022,Hungary,Hungary,TSU,AlphaTauri,33.0,2.0,MEDIUM,20.0,6630.612,17.0,17.0,,,,Unknown
+2022,Hungary,Hungary,TSU,AlphaTauri,51.0,3.0,SOFT,18.0,8206.235,20.0,17.0,,,,Unknown
+2022,Hungary,Hungary,VER,Red Bull Racing,16.0,1.0,SOFT,17.0,5125.505,5.0,,,,,Unknown
+2022,Hungary,Hungary,VER,Red Bull Racing,38.0,2.0,MEDIUM,22.0,6985.456,4.0,5.0,,,,Unknown
+2022,Hungary,Hungary,VET,Aston Martin,15.0,1.0,SOFT,15.0,5063.402,13.0,,,,,Unknown
+2022,Hungary,Hungary,VET,Aston Martin,46.0,2.0,MEDIUM,32.0,7722.643,12.0,13.0,,,,Unknown
+2022,Hungary,Hungary,ZHO,Alfa Romeo,27.0,1.0,MEDIUM,27.0,6096.777,9.0,,,,,Unknown
+2022,Hungary,Hungary,ZHO,Alfa Romeo,51.0,2.0,HARD,24.0,8180.389,15.0,9.0,,,,Unknown
+2022,Italy,Italy,ALO,Alpine,31.0,1.0,MEDIUM,31.0,6496.942,8.0,,,,,Unknown
+2022,Italy,Italy,BOT,Alfa Romeo,35.0,1.0,MEDIUM,35.0,6858.801,11.0,,,,,Unknown
+2022,Italy,Italy,DEV,Williams,19.0,1.0,SOFT,19.0,5443.993,9.0,,,,,Unknown
+2022,Italy,Italy,GAS,AlphaTauri,18.0,1.0,MEDIUM,18.0,5353.394,9.0,,,,,Unknown
+2022,Italy,Italy,HAM,Mercedes,33.0,1.0,MEDIUM,33.0,6665.428,7.0,,,,,Unknown
+2022,Italy,Italy,LAT,Williams,15.0,1.0,MEDIUM,15.0,5102.773,18.0,,,,,Unknown
+2022,Italy,Italy,LAT,Williams,47.0,2.0,HARD,32.0,7956.037,15.0,18.0,,,,Unknown
+2022,Italy,Italy,LEC,Ferrari,12.0,1.0,SOFT,12.0,4801.266,2.0,,,,,Unknown
+2022,Italy,Italy,LEC,Ferrari,33.0,2.0,MEDIUM,21.0,6622.658,1.0,2.0,,,,Unknown
+2022,Italy,Italy,LEC,Ferrari,48.0,3.0,SOFT,15.0,7947.684,2.0,1.0,,,,Unknown
+2022,Italy,Italy,MAG,Haas F1 Team,24.0,1.0,MEDIUM,24.0,5900.886,14.0,,,,,Unknown
+2022,Italy,Italy,MAG,Haas F1 Team,46.0,2.0,HARD,22.0,7860.253,16.0,14.0,,,,Unknown
+2022,Italy,Italy,MSC,Haas F1 Team,33.0,1.0,MEDIUM,33.0,6681.395,9.0,,,,,Unknown
+2022,Italy,Italy,NOR,McLaren,35.0,1.0,MEDIUM,35.0,6834.328,4.0,,,,,Unknown
+2022,Italy,Italy,NOR,McLaren,47.0,2.0,SOFT,14.0,7901.653,6.0,4.0,,,,Unknown
+2022,Italy,Italy,OCO,Alpine,19.0,1.0,SOFT,19.0,5450.353,10.0,,,,,Unknown
+2022,Italy,Italy,PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,4373.086,18.0,,,,,Unknown
+2022,Italy,Italy,PER,Red Bull Racing,42.0,2.0,HARD,35.0,7441.75,5.0,18.0,,,,Unknown
+2022,Italy,Italy,RIC,McLaren,19.0,1.0,MEDIUM,19.0,5440.217,7.0,,,,,Unknown
+2022,Italy,Italy,RUS,Mercedes,23.0,1.0,SOFT,23.0,5762.995,3.0,,,,,Unknown
+2022,Italy,Italy,RUS,Mercedes,47.0,2.0,HARD,24.0,7850.842,3.0,3.0,,,,Unknown
+2022,Italy,Italy,SAI,Ferrari,30.0,1.0,MEDIUM,30.0,6388.598,4.0,,,,,Unknown
+2022,Italy,Italy,SAI,Ferrari,47.0,2.0,SOFT,17.0,7861.168,4.0,4.0,,,,Unknown
+2022,Italy,Italy,STR,Aston Martin,18.0,1.0,MEDIUM,19.0,5362.612,14.0,,,,,Unknown
+2022,Italy,Italy,STR,Aston Martin,39.0,2.0,HARD,22.0,7234.74,17.0,14.0,,,,Unknown
+2022,Italy,Italy,TSU,AlphaTauri,19.0,1.0,MEDIUM,19.0,5451.152,12.0,,,,,Unknown
+2022,Italy,Italy,TSU,AlphaTauri,47.0,2.0,HARD,29.0,7945.106,14.0,12.0,,,,Unknown
+2022,Italy,Italy,VER,Red Bull Racing,25.0,1.0,SOFT,25.0,5923.185,1.0,,,,,Unknown
+2022,Italy,Italy,VER,Red Bull Racing,48.0,2.0,MEDIUM,23.0,7924.468,1.0,1.0,,,,Unknown
+2022,Italy,Italy,ZHO,Alfa Romeo,18.0,1.0,MEDIUM,18.0,5356.905,11.0,,,,,Unknown
+2022,Japan,Japan,ALO,Alpine,8.0,2.0,WET,6.0,12508.491,1.0,,,,,Unknown
+2022,Japan,Japan,ALO,Alpine,22.0,3.0,INTERMEDIATE,14.0,14051.273,7.0,1.0,,,,Unknown
+2022,Japan,Japan,BOT,Alfa Romeo,6.0,2.0,WET,4.0,12296.442,16.0,,,,,Unknown
+2022,Japan,Japan,GAS,AlphaTauri,1.0,1.0,INTERMEDIATE,1.0,3924.564,18.0,,,,,Unknown
+2022,Japan,Japan,GAS,AlphaTauri,7.0,3.0,WET,5.0,12412.247,14.0,18.0,,,,Unknown
+2022,Japan,Japan,GAS,AlphaTauri,19.0,4.0,INTERMEDIATE,12.0,13754.025,16.0,14.0,,,,Unknown
+2022,Japan,Japan,HAM,Mercedes,7.0,2.0,WET,6.0,12396.289,6.0,,,,,Unknown
+2022,Japan,Japan,LEC,Ferrari,7.0,2.0,WET,5.0,12387.669,2.0,,,,,Unknown
+2022,Japan,Japan,MAG,Haas F1 Team,7.0,2.0,WET,5.0,12407.174,11.0,,,,,Unknown
+2022,Japan,Japan,MSC,Haas F1 Team,11.0,2.0,WET,9.0,12866.153,13.0,,,,,Unknown
+2022,Japan,Japan,NOR,McLaren,6.0,2.0,WET,4.0,12293.737,13.0,,,,,Unknown
+2022,Japan,Japan,OCO,Alpine,7.0,2.0,WET,5.0,12394.998,4.0,,,,,Unknown
+2022,Japan,Japan,PER,Red Bull Racing,7.0,2.0,WET,5.0,12392.722,3.0,,,,,Unknown
+2022,Japan,Japan,RIC,McLaren,8.0,2.0,WET,6.0,12516.827,3.0,,,,,Unknown
+2022,Japan,Japan,RUS,Mercedes,7.0,2.0,WET,5.0,12401.018,7.0,,,,,Unknown
+2022,Japan,Japan,STR,Aston Martin,7.0,2.0,WET,5.0,12408.328,13.0,,,,,Unknown
+2022,Japan,Japan,STR,Aston Martin,19.0,3.0,INTERMEDIATE,12.0,13744.548,12.0,13.0,,,,Unknown
+2022,Japan,Japan,TSU,AlphaTauri,7.0,2.0,WET,5.0,12404.988,10.0,,,,,Unknown
+2022,Japan,Japan,TSU,AlphaTauri,20.0,3.0,INTERMEDIATE,13.0,13853.489,11.0,10.0,,,,Unknown
+2022,Japan,Japan,VER,Red Bull Racing,7.0,2.0,WET,5.0,12386.364,1.0,,,,,Unknown
+2022,Japan,Japan,ZHO,Alfa Romeo,9.0,2.0,WET,7.0,12637.898,7.0,,,,,Unknown
+2022,Japan,Japan,ZHO,Alfa Romeo,18.0,3.0,INTERMEDIATE,9.0,13644.383,17.0,7.0,,,,Unknown
+2022,Mexico City,Mexico,ALB,Williams,38.0,1.0,MEDIUM,38.0,6976.731,16.0,,,,,Unknown
+2022,Mexico City,Mexico,ALO,Alpine,40.0,1.0,MEDIUM,40.0,7111.307,7.0,,,,,Unknown
+2022,Mexico City,Mexico,BOT,Alfa Romeo,39.0,1.0,MEDIUM,39.0,7029.885,8.0,,,,,Unknown
+2022,Mexico City,Mexico,GAS,AlphaTauri,40.0,1.0,MEDIUM,40.0,7142.552,14.0,,,,,Unknown
+2022,Mexico City,Mexico,HAM,Mercedes,29.0,1.0,MEDIUM,29.0,6146.788,1.0,,,,,Unknown
+2022,Mexico City,Mexico,LAT,Williams,23.0,1.0,SOFT,23.0,5714.808,19.0,,,,,Unknown
+2022,Mexico City,Mexico,LAT,Williams,52.0,2.0,HARD,29.0,8215.697,19.0,19.0,,,,Unknown
+2022,Mexico City,Mexico,LEC,Ferrari,28.0,1.0,SOFT,30.0,6094.194,6.0,,,,,Unknown
+2022,Mexico City,Mexico,MAG,Haas F1 Team,38.0,1.0,MEDIUM,38.0,6994.648,18.0,,,,,Unknown
+2022,Mexico City,Mexico,MSC,Haas F1 Team,24.0,1.0,SOFT,29.0,5798.142,18.0,,,,,Unknown
+2022,Mexico City,Mexico,NOR,McLaren,31.0,1.0,MEDIUM,31.0,6362.51,10.0,,,,,Unknown
+2022,Mexico City,Mexico,OCO,Alpine,33.0,1.0,MEDIUM,33.0,6527.728,8.0,,,,,Unknown
+2022,Mexico City,Mexico,PER,Red Bull Racing,23.0,1.0,SOFT,26.0,5651.225,4.0,,,,,Unknown
+2022,Mexico City,Mexico,RIC,McLaren,44.0,1.0,MEDIUM,44.0,7466.392,8.0,,,,,Unknown
+2022,Mexico City,Mexico,RUS,Mercedes,34.0,1.0,MEDIUM,34.0,6568.065,1.0,,,,,Unknown
+2022,Mexico City,Mexico,RUS,Mercedes,69.0,2.0,HARD,35.0,9502.534,4.0,1.0,,,,Unknown
+2022,Mexico City,Mexico,SAI,Ferrari,29.0,1.0,SOFT,32.0,6172.655,5.0,,,,,Unknown
+2022,Mexico City,Mexico,STR,Aston Martin,17.0,1.0,MEDIUM,18.0,5191.88,17.0,,,,,Unknown
+2022,Mexico City,Mexico,STR,Aston Martin,40.0,2.0,SOFT,23.0,7161.088,16.0,17.0,,,,Unknown
+2022,Mexico City,Mexico,TSU,AlphaTauri,29.0,1.0,SOFT,29.0,6196.946,12.0,,,,,Unknown
+2022,Mexico City,Mexico,TSU,AlphaTauri,50.0,2.0,MEDIUM,21.0,8005.69,16.0,12.0,,,,Unknown
+2022,Mexico City,Mexico,VER,Red Bull Racing,25.0,1.0,SOFT,28.0,5812.143,2.0,,,,,Unknown
+2022,Mexico City,Mexico,VET,Aston Martin,38.0,1.0,SOFT,38.0,6970.437,13.0,,,,,Unknown
+2022,Mexico City,Mexico,ZHO,Alfa Romeo,45.0,1.0,MEDIUM,45.0,7562.774,11.0,,,,,Unknown
+2022,Miami,United States,ALB,Williams,16.0,1.0,MEDIUM,16.0,5292.324,12.0,,,,,Unknown
+2022,Miami,United States,ALO,Alpine,15.0,1.0,MEDIUM,15.0,5183.587,9.0,,,,,Unknown
+2022,Miami,United States,BOT,Alfa Romeo,26.0,1.0,MEDIUM,26.0,6215.43,5.0,,,,,Unknown
+2022,Miami,United States,GAS,AlphaTauri,16.0,1.0,MEDIUM,16.0,5276.946,7.0,,,,,Unknown
+2022,Miami,United States,GAS,AlphaTauri,40.0,2.0,HARD,24.0,7604.273,15.0,7.0,,,,Unknown
+2022,Miami,United States,GAS,AlphaTauri,45.0,3.0,SOFT,8.0,8320.147,18.0,15.0,,,,Unknown
+2022,Miami,United States,HAM,Mercedes,22.0,1.0,MEDIUM,22.0,5844.139,6.0,,,,,Unknown
+2022,Miami,United States,LAT,Williams,34.0,1.0,HARD,34.0,7040.731,19.0,,,,,Unknown
+2022,Miami,United States,LEC,Ferrari,24.0,1.0,MEDIUM,24.0,6003.399,3.0,,,,,Unknown
+2022,Miami,United States,MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,4903.488,13.0,,,,,Unknown
+2022,Miami,United States,MAG,Haas F1 Team,42.0,2.0,HARD,30.0,7835.012,11.0,13.0,,,,Unknown
+2022,Miami,United States,MSC,Haas F1 Team,14.0,1.0,MEDIUM,14.0,5095.369,12.0,,,,,Unknown
+2022,Miami,United States,MSC,Haas F1 Team,54.0,2.0,HARD,40.0,9164.169,16.0,12.0,,,,Unknown
+2022,Miami,United States,NOR,McLaren,18.0,1.0,MEDIUM,18.0,5473.595,8.0,,,,,Unknown
+2022,Miami,United States,OCO,Alpine,41.0,1.0,HARD,41.0,7701.857,8.0,,,,,Unknown
+2022,Miami,United States,PER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,6300.956,4.0,,,,,Unknown
+2022,Miami,United States,PER,Red Bull Racing,41.0,2.0,HARD,14.0,7659.178,4.0,4.0,,,,Unknown
+2022,Miami,United States,RIC,McLaren,30.0,1.0,MEDIUM,30.0,6625.788,10.0,,,,,Unknown
+2022,Miami,United States,RIC,McLaren,41.0,2.0,HARD,11.0,7729.964,15.0,10.0,,,,Unknown
+2022,Miami,United States,RUS,Mercedes,40.0,1.0,HARD,40.0,7553.686,7.0,,,,,Unknown
+2022,Miami,United States,SAI,Ferrari,27.0,1.0,MEDIUM,27.0,6292.247,1.0,,,,,Unknown
+2022,Miami,United States,STR,Aston Martin,40.0,1.0,HARD,42.0,7589.012,11.0,,,,,Unknown
+2022,Miami,United States,TSU,AlphaTauri,11.0,1.0,MEDIUM,11.0,4811.665,16.0,,,,,Unknown
+2022,Miami,United States,VER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,6185.289,1.0,,,,,Unknown
+2022,Miami,United States,VET,Aston Martin,41.0,1.0,HARD,43.0,7723.17,14.0,,,,,Unknown
+2022,Miami,United States,VET,Aston Martin,54.0,2.0,MEDIUM,15.0,9172.82,17.0,14.0,,,,Unknown
+2022,Miami,United States,ZHO,Alfa Romeo,6.0,1.0,MEDIUM,6.0,4346.853,20.0,,,,,Unknown
+2022,Monaco,Monaco,ALB,Williams,18.0,1.0,WET,18.0,9349.908,19.0,,,,,Unknown
+2022,Monaco,Monaco,ALB,Williams,22.0,2.0,HARD,,9757.406,19.0,19.0,,,,Unknown
+2022,Monaco,Monaco,ALO,Alpine,21.0,1.0,WET,21.0,9574.056,7.0,,,,,Unknown
+2022,Monaco,Monaco,BOT,Alfa Romeo,20.0,1.0,WET,20.0,9514.823,14.0,,,,,Unknown
+2022,Monaco,Monaco,GAS,AlphaTauri,22.0,2.0,INTERMEDIATE,20.0,9702.519,13.0,,,,,Unknown
+2022,Monaco,Monaco,HAM,Mercedes,15.0,1.0,WET,15.0,9022.523,9.0,,,,,Unknown
+2022,Monaco,Monaco,HAM,Mercedes,22.0,2.0,INTERMEDIATE,,9679.985,8.0,9.0,,,,Unknown
+2022,Monaco,Monaco,LAT,Williams,1.0,1.0,WET,1.0,7630.94,20.0,,,,,Unknown
+2022,Monaco,Monaco,LAT,Williams,2.0,2.0,INTERMEDIATE,1.0,7760.79,20.0,20.0,,,,Unknown
+2022,Monaco,Monaco,LAT,Williams,19.0,3.0,HARD,17.0,9446.686,19.0,20.0,,,,Unknown
+2022,Monaco,Monaco,LEC,Ferrari,18.0,1.0,WET,18.0,9266.704,3.0,,,,,Unknown
+2022,Monaco,Monaco,LEC,Ferrari,21.0,2.0,INTERMEDIATE,,9549.221,4.0,3.0,,,,Unknown
+2022,Monaco,Monaco,MSC,Haas F1 Team,4.0,1.0,WET,4.0,7956.741,17.0,,,,,Unknown
+2022,Monaco,Monaco,MSC,Haas F1 Team,17.0,2.0,INTERMEDIATE,13.0,9256.357,20.0,17.0,,,,Unknown
+2022,Monaco,Monaco,NOR,McLaren,17.0,1.0,WET,17.0,9197.847,7.0,,,,,Unknown
+2022,Monaco,Monaco,NOR,McLaren,22.0,2.0,INTERMEDIATE,,9659.274,5.0,7.0,,,,Unknown
+2022,Monaco,Monaco,NOR,McLaren,51.0,4.0,HARD,29.0,13424.14,6.0,5.0,,,,Unknown
+2022,Monaco,Monaco,OCO,Alpine,21.0,1.0,WET,21.0,9590.635,9.0,,,,,Unknown
+2022,Monaco,Monaco,PER,Red Bull Racing,16.0,1.0,WET,16.0,9089.73,5.0,,,,,Unknown
+2022,Monaco,Monaco,PER,Red Bull Racing,22.0,2.0,INTERMEDIATE,,9635.537,1.0,5.0,,,,Unknown
+2022,Monaco,Monaco,RIC,McLaren,19.0,1.0,WET,19.0,9442.5,16.0,,,,,Unknown
+2022,Monaco,Monaco,RUS,Mercedes,21.0,1.0,WET,21.0,9570.008,6.0,,,,,Unknown
+2022,Monaco,Monaco,SAI,Ferrari,21.0,1.0,WET,21.0,9546.161,3.0,,,,,Unknown
+2022,Monaco,Monaco,STR,Aston Martin,1.0,1.0,WET,1.0,7619.591,19.0,,,,,Unknown
+2022,Monaco,Monaco,STR,Aston Martin,2.0,2.0,WET,2.0,7750.276,19.0,19.0,,,,Unknown
+2022,Monaco,Monaco,STR,Aston Martin,24.0,3.0,INTERMEDIATE,22.0,9885.482,14.0,19.0,,,,Unknown
+2022,Monaco,Monaco,TSU,AlphaTauri,6.0,1.0,WET,6.0,8161.347,17.0,,,,,Unknown
+2022,Monaco,Monaco,TSU,AlphaTauri,21.0,2.0,INTERMEDIATE,15.0,9630.407,15.0,17.0,,,,Unknown
+2022,Monaco,Monaco,TSU,AlphaTauri,56.0,4.0,MEDIUM,27.0,13883.871,17.0,15.0,,,,Unknown
+2022,Monaco,Monaco,VER,Red Bull Racing,18.0,1.0,WET,18.0,9273.977,4.0,,,,,Unknown
+2022,Monaco,Monaco,VER,Red Bull Racing,22.0,2.0,INTERMEDIATE,,9639.261,3.0,4.0,,,,Unknown
+2022,Monaco,Monaco,VET,Aston Martin,6.0,1.0,WET,6.0,8158.727,16.0,,,,,Unknown
+2022,Monaco,Monaco,VET,Aston Martin,23.0,2.0,INTERMEDIATE,17.0,9789.861,12.0,16.0,,,,Unknown
+2022,Monaco,Monaco,ZHO,Alfa Romeo,19.0,1.0,WET,19.0,9443.605,17.0,,,,,Unknown
+2022,Netherlands,Netherlands,ALB,Williams,21.0,1.0,MEDIUM,21.0,5375.659,9.0,,12.0,,,Unknown
+2022,Netherlands,Netherlands,ALB,Williams,42.0,2.0,MEDIUM,21.0,7022.933,12.0,9.0,,,,Unknown
+2022,Netherlands,Netherlands,ALB,Williams,55.0,3.0,HARD,13.0,8114.67,12.0,12.0,,,,Unknown
+2022,Netherlands,Netherlands,ALB,Williams,56.0,4.0,SOFT,1.0,8244.161,12.0,12.0,,,,Unknown
+2022,Netherlands,Netherlands,ALO,Alpine,12.0,1.0,SOFT,12.0,4665.89,12.0,,,,,Unknown
+2022,Netherlands,Netherlands,ALO,Alpine,47.0,2.0,HARD,35.0,7392.578,7.0,12.0,,,,Unknown
+2022,Netherlands,Netherlands,ALO,Alpine,57.0,3.0,SOFT,10.0,8273.551,8.0,7.0,,,,Unknown
+2022,Netherlands,Netherlands,BOT,Alfa Romeo,16.0,1.0,SOFT,16.0,4985.503,11.0,,,,,Unknown
+2022,Netherlands,Netherlands,BOT,Alfa Romeo,34.0,2.0,SOFT,18.0,6402.341,14.0,11.0,,,,Unknown
+2022,Netherlands,Netherlands,GAS,AlphaTauri,11.0,1.0,SOFT,14.0,4591.178,16.0,,11.0,,,Unknown
+2022,Netherlands,Netherlands,GAS,AlphaTauri,32.0,2.0,MEDIUM,22.0,6243.875,13.0,16.0,,,,Unknown
+2022,Netherlands,Netherlands,GAS,AlphaTauri,56.0,3.0,HARD,25.0,8197.23,11.0,13.0,,,,Unknown
+2022,Netherlands,Netherlands,GAS,AlphaTauri,57.0,4.0,SOFT,1.0,8300.696,11.0,11.0,,,,Unknown
+2022,Netherlands,Netherlands,HAM,Mercedes,29.0,1.0,MEDIUM,29.0,5955.169,2.0,,,,,Unknown
+2022,Netherlands,Netherlands,HAM,Mercedes,48.0,2.0,HARD,19.0,7442.446,2.0,2.0,,,,Unknown
+2022,Netherlands,Netherlands,HAM,Mercedes,57.0,3.0,MEDIUM,9.0,8238.552,1.0,2.0,,,,Unknown
+2022,Netherlands,Netherlands,LAT,Williams,13.0,1.0,SOFT,13.0,4759.219,15.0,,,,,Unknown
+2022,Netherlands,Netherlands,LAT,Williams,26.0,2.0,MEDIUM,13.0,5799.96,20.0,15.0,,,,Unknown
+2022,Netherlands,Netherlands,LAT,Williams,54.0,3.0,HARD,28.0,8084.796,18.0,20.0,,,,Unknown
+2022,Netherlands,Netherlands,LEC,Ferrari,17.0,1.0,SOFT,20.0,5027.063,2.0,,4.0,,,Unknown
+2022,Netherlands,Netherlands,LEC,Ferrari,45.0,2.0,MEDIUM,28.0,7189.024,3.0,2.0,,,,Unknown
+2022,Netherlands,Netherlands,LEC,Ferrari,56.0,3.0,HARD,11.0,8124.298,4.0,3.0,,,,Unknown
+2022,Netherlands,Netherlands,LEC,Ferrari,57.0,4.0,SOFT,4.0,8252.417,4.0,4.0,,,,Unknown
+2022,Netherlands,Netherlands,MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,4835.399,12.0,,15.0,,,Unknown
+2022,Netherlands,Netherlands,MAG,Haas F1 Team,34.0,2.0,MEDIUM,20.0,6413.373,16.0,12.0,,,,Unknown
+2022,Netherlands,Netherlands,MAG,Haas F1 Team,47.0,3.0,HARD,13.0,7473.016,17.0,16.0,,,,Unknown
+2022,Netherlands,Netherlands,MAG,Haas F1 Team,56.0,4.0,SOFT,12.0,8254.46,15.0,17.0,,,,Unknown
+2022,Netherlands,Netherlands,MSC,Haas F1 Team,13.0,1.0,MEDIUM,13.0,4742.489,10.0,,13.0,,,Unknown
+2022,Netherlands,Netherlands,MSC,Haas F1 Team,33.0,2.0,MEDIUM,20.0,6328.25,15.0,10.0,,,,Unknown
+2022,Netherlands,Netherlands,MSC,Haas F1 Team,47.0,3.0,HARD,14.0,7468.497,16.0,15.0,,,,Unknown
+2022,Netherlands,Netherlands,MSC,Haas F1 Team,56.0,4.0,SOFT,11.0,8246.787,13.0,16.0,,,,Unknown
+2022,Netherlands,Netherlands,NOR,McLaren,17.0,1.0,MEDIUM,17.0,5044.943,5.0,,,,,Unknown
+2022,Netherlands,Netherlands,NOR,McLaren,47.0,2.0,HARD,30.0,7387.95,6.0,5.0,,,,Unknown
+2022,Netherlands,Netherlands,NOR,McLaren,57.0,3.0,SOFT,13.0,8270.158,7.0,6.0,,,,Unknown
+2022,Netherlands,Netherlands,OCO,Alpine,18.0,1.0,SOFT,18.0,5130.155,6.0,,,,,Unknown
+2022,Netherlands,Netherlands,OCO,Alpine,56.0,2.0,HARD,38.0,8166.956,9.0,6.0,,,,Unknown
+2022,Netherlands,Netherlands,OCO,Alpine,57.0,3.0,SOFT,4.0,8290.643,9.0,9.0,,,,Unknown
+2022,Netherlands,Netherlands,PER,Red Bull Racing,14.0,1.0,SOFT,19.0,4805.082,6.0,,5.0,,,Unknown
+2022,Netherlands,Netherlands,PER,Red Bull Racing,40.0,2.0,MEDIUM,26.0,6820.366,5.0,6.0,,,,Unknown
+2022,Netherlands,Netherlands,PER,Red Bull Racing,56.0,3.0,HARD,16.0,8129.278,5.0,5.0,,,,Unknown
+2022,Netherlands,Netherlands,PER,Red Bull Racing,57.0,4.0,MEDIUM,1.0,8257.064,5.0,5.0,,,,Unknown
+2022,Netherlands,Netherlands,RIC,McLaren,11.0,1.0,SOFT,11.0,4593.692,17.0,,17.0,,,Unknown
+2022,Netherlands,Netherlands,RIC,McLaren,27.0,2.0,MEDIUM,16.0,5867.252,19.0,17.0,17.0,0.0,False,Neutral
+2022,Netherlands,Netherlands,RIC,McLaren,47.0,3.0,HARD,20.0,7478.546,18.0,19.0,,,,Unknown
+2022,Netherlands,Netherlands,RIC,McLaren,55.0,4.0,SOFT,8.0,8152.091,17.0,18.0,,,,Unknown
+2022,Netherlands,Netherlands,RIC,McLaren,56.0,5.0,SOFT,1.0,8280.776,17.0,17.0,,,,Unknown
+2022,Netherlands,Netherlands,RUS,Mercedes,31.0,1.0,MEDIUM,31.0,6113.785,2.0,,,,,Unknown
+2022,Netherlands,Netherlands,RUS,Mercedes,48.0,2.0,HARD,17.0,7448.239,3.0,2.0,,,,Unknown
+2022,Netherlands,Netherlands,RUS,Mercedes,57.0,3.0,MEDIUM,9.0,8241.953,2.0,3.0,,,,Unknown
+2022,Netherlands,Netherlands,SAI,Ferrari,14.0,1.0,SOFT,17.0,4802.392,4.0,,,,,Unknown
+2022,Netherlands,Netherlands,SAI,Ferrari,43.0,2.0,MEDIUM,29.0,7063.503,5.0,4.0,,,,Unknown
+2022,Netherlands,Netherlands,SAI,Ferrari,57.0,3.0,HARD,14.0,8267.012,6.0,5.0,,,,Unknown
+2022,Netherlands,Netherlands,STR,Aston Martin,16.0,1.0,SOFT,16.0,4969.653,6.0,,10.0,,,Unknown
+2022,Netherlands,Netherlands,STR,Aston Martin,38.0,2.0,MEDIUM,23.0,6687.968,9.0,6.0,,,,Unknown
+2022,Netherlands,Netherlands,STR,Aston Martin,56.0,3.0,HARD,19.0,8172.716,10.0,9.0,,,,Unknown
+2022,Netherlands,Netherlands,STR,Aston Martin,57.0,4.0,SOFT,4.0,8292.004,10.0,10.0,,,,Unknown
+2022,Netherlands,Netherlands,TSU,AlphaTauri,13.0,1.0,SOFT,16.0,4745.773,11.0,,,,,Unknown
+2022,Netherlands,Netherlands,TSU,AlphaTauri,42.0,2.0,MEDIUM,30.0,7014.657,11.0,11.0,,,,Unknown
+2022,Netherlands,Netherlands,VER,Red Bull Racing,18.0,1.0,SOFT,18.0,5098.523,1.0,,,,,Unknown
+2022,Netherlands,Netherlands,VER,Red Bull Racing,48.0,2.0,MEDIUM,30.0,7424.337,1.0,1.0,,,,Unknown
+2022,Netherlands,Netherlands,VER,Red Bull Racing,56.0,3.0,HARD,8.0,8087.994,1.0,1.0,,,,Unknown
+2022,Netherlands,Netherlands,VET,Aston Martin,9.0,1.0,SOFT,9.0,4436.505,18.0,,14.0,,,Unknown
+2022,Netherlands,Netherlands,VET,Aston Martin,35.0,2.0,MEDIUM,27.0,6487.719,14.0,18.0,,,,Unknown
+2022,Netherlands,Netherlands,VET,Aston Martin,48.0,3.0,HARD,14.0,7570.211,15.0,14.0,,,,Unknown
+2022,Netherlands,Netherlands,VET,Aston Martin,56.0,4.0,SOFT,8.0,8250.273,14.0,15.0,,,,Unknown
+2022,Netherlands,Netherlands,ZHO,Alfa Romeo,12.0,1.0,SOFT,12.0,4669.671,15.0,,16.0,,,Unknown
+2022,Netherlands,Netherlands,ZHO,Alfa Romeo,37.0,2.0,SOFT,28.0,6633.407,12.0,15.0,,,,Unknown
+2022,Netherlands,Netherlands,ZHO,Alfa Romeo,55.0,3.0,MEDIUM,18.0,8134.691,13.0,12.0,,,,Unknown
+2022,Netherlands,Netherlands,ZHO,Alfa Romeo,56.0,4.0,SOFT,4.0,8261.096,16.0,13.0,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,ALB,Williams,13.0,1.0,MEDIUM,13.0,5034.631,17.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,ALO,Alpine,16.0,1.0,MEDIUM,16.0,5320.704,6.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,BOT,Alfa Romeo,16.0,1.0,MEDIUM,16.0,5324.084,7.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,BOT,Alfa Romeo,35.0,2.0,HARD,19.0,7368.991,10.0,7.0,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,BOT,Alfa Romeo,36.0,3.0,MEDIUM,1.0,7504.826,15.0,10.0,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,GAS,AlphaTauri,15.0,1.0,MEDIUM,15.0,5213.342,11.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,HAM,Mercedes,40.0,1.0,HARD,41.0,7919.558,6.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,HUL,Aston Martin,37.0,1.0,HARD,38.0,7576.735,13.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,LEC,Ferrari,16.0,1.0,MEDIUM,16.0,5275.649,1.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,MAG,Haas F1 Team,37.0,1.0,HARD,39.0,7557.903,7.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,NOR,McLaren,16.0,1.0,MEDIUM,16.0,5335.209,11.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,OCO,Alpine,16.0,1.0,MEDIUM,16.0,5331.304,9.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,5172.906,2.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,RIC,McLaren,8.0,1.0,MEDIUM,8.0,4537.674,15.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,RUS,Mercedes,16.0,1.0,MEDIUM,16.0,5301.549,5.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,SAI,Ferrari,16.0,1.0,MEDIUM,16.0,5284.594,3.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,STR,Aston Martin,13.0,1.0,MEDIUM,14.0,5029.71,15.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,5279.039,2.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,ZHO,Alfa Romeo,16.0,1.0,MEDIUM,16.0,5336.477,12.0,,,,,Unknown
+2022,Saudi Arabia,Saudi Arabia,ZHO,Alfa Romeo,27.0,2.0,HARD,11.0,6619.11,16.0,12.0,,,,Unknown
+2022,Singapore,Singapore,BOT,Alfa Romeo,33.0,1.0,INTERMEDIATE,33.0,11954.269,13.0,,,,,Unknown
+2022,Singapore,Singapore,GAS,AlphaTauri,33.0,1.0,INTERMEDIATE,36.0,11925.993,9.0,,,,,Unknown
+2022,Singapore,Singapore,HAM,Mercedes,34.0,1.0,INTERMEDIATE,34.0,12036.612,6.0,,,,,Unknown
+2022,Singapore,Singapore,LEC,Ferrari,34.0,1.0,INTERMEDIATE,34.0,11996.796,2.0,,,,,Unknown
+2022,Singapore,Singapore,MAG,Haas F1 Team,7.0,1.0,INTERMEDIATE,7.0,8566.26,16.0,,,,,Unknown
+2022,Singapore,Singapore,MAG,Haas F1 Team,33.0,2.0,INTERMEDIATE,29.0,11957.787,14.0,16.0,,,,Unknown
+2022,Singapore,Singapore,MSC,Haas F1 Team,34.0,1.0,INTERMEDIATE,34.0,12064.456,10.0,,,,,Unknown
+2022,Singapore,Singapore,NOR,McLaren,36.0,1.0,INTERMEDIATE,36.0,12291.928,3.0,,,,,Unknown
+2022,Singapore,Singapore,PER,Red Bull Racing,35.0,1.0,INTERMEDIATE,35.0,12111.839,1.0,,,,,Unknown
+2022,Singapore,Singapore,RUS,Mercedes,21.0,1.0,INTERMEDIATE,21.0,10396.553,15.0,,,,,Unknown
+2022,Singapore,Singapore,RUS,Mercedes,35.0,2.0,MEDIUM,14.0,12248.556,14.0,15.0,,,,Unknown
+2022,Singapore,Singapore,RUS,Mercedes,51.0,4.0,SOFT,10.0,14312.826,14.0,14.0,,,,Unknown
+2022,Singapore,Singapore,SAI,Ferrari,35.0,1.0,INTERMEDIATE,35.0,12137.599,2.0,,,,,Unknown
+2022,Singapore,Singapore,STR,Aston Martin,35.0,1.0,INTERMEDIATE,35.0,12170.921,7.0,,,,,Unknown
+2022,Singapore,Singapore,TSU,AlphaTauri,33.0,1.0,INTERMEDIATE,39.0,11951.678,12.0,,,,,Unknown
+2022,Singapore,Singapore,VER,Red Bull Racing,35.0,1.0,INTERMEDIATE,35.0,12154.434,5.0,,,,,Unknown
+2022,Singapore,Singapore,VER,Red Bull Racing,40.0,2.0,MEDIUM,5.0,12936.119,13.0,5.0,,,,Unknown
+2022,Singapore,Singapore,VET,Aston Martin,34.0,1.0,INTERMEDIATE,34.0,12045.31,8.0,,,,,Unknown
+2022,Spain,Spain,ALB,Williams,11.0,1.0,SOFT,11.0,4745.671,14.0,,18.0,,,Unknown
+2022,Spain,Spain,ALB,Williams,25.0,2.0,MEDIUM,14.0,6043.056,19.0,14.0,,,,Unknown
+2022,Spain,Spain,ALB,Williams,45.0,3.0,SOFT,20.0,7877.107,18.0,19.0,,,,Unknown
+2022,Spain,Spain,ALB,Williams,54.0,4.0,MEDIUM,9.0,8708.011,18.0,18.0,,,,Unknown
+2022,Spain,Spain,ALO,Alpine,10.0,1.0,SOFT,10.0,4644.82,13.0,,,,,Unknown
+2022,Spain,Spain,ALO,Alpine,31.0,2.0,MEDIUM,21.0,6550.481,9.0,13.0,,,,Unknown
+2022,Spain,Spain,ALO,Alpine,53.0,3.0,SOFT,22.0,8509.753,7.0,9.0,,,,Unknown
+2022,Spain,Spain,BOT,Alfa Romeo,14.0,1.0,SOFT,17.0,4988.583,3.0,,,,,Unknown
+2022,Spain,Spain,BOT,Alfa Romeo,34.0,2.0,MEDIUM,20.0,6784.635,4.0,3.0,,,,Unknown
+2022,Spain,Spain,GAS,AlphaTauri,10.0,1.0,SOFT,10.0,4647.68,14.0,,,,,Unknown
+2022,Spain,Spain,GAS,AlphaTauri,29.0,2.0,MEDIUM,19.0,6384.252,14.0,14.0,,,,Unknown
+2022,Spain,Spain,GAS,AlphaTauri,46.0,3.0,SOFT,20.0,7920.983,14.0,14.0,,,,Unknown
+2022,Spain,Spain,HAM,Mercedes,1.0,1.0,MEDIUM,1.0,3845.538,19.0,,,,,Unknown
+2022,Spain,Spain,HAM,Mercedes,22.0,2.0,SOFT,23.0,5750.937,16.0,19.0,,,,Unknown
+2022,Spain,Spain,HAM,Mercedes,48.0,3.0,MEDIUM,26.0,8041.551,5.0,16.0,,,,Unknown
+2022,Spain,Spain,LAT,Williams,12.0,1.0,SOFT,12.0,4838.53,12.0,,,,,Unknown
+2022,Spain,Spain,LAT,Williams,26.0,2.0,MEDIUM,14.0,6130.287,18.0,12.0,,,,Unknown
+2022,Spain,Spain,LAT,Williams,50.0,3.0,SOFT,24.0,8310.41,15.0,18.0,,,,Unknown
+2022,Spain,Spain,LEC,Ferrari,21.0,1.0,SOFT,21.0,5588.653,1.0,,,,,Unknown
+2022,Spain,Spain,LEC,Ferrari,27.0,2.0,MEDIUM,6.0,6152.02,4.0,1.0,,,,Unknown
+2022,Spain,Spain,MAG,Haas F1 Team,1.0,1.0,SOFT,3.0,3866.287,20.0,,,,,Unknown
+2022,Spain,Spain,MAG,Haas F1 Team,29.0,2.0,MEDIUM,28.0,6419.867,17.0,20.0,,,,Unknown
+2022,Spain,Spain,MSC,Haas F1 Team,12.0,1.0,SOFT,14.0,4823.599,8.0,,,,,Unknown
+2022,Spain,Spain,MSC,Haas F1 Team,30.0,2.0,SOFT,21.0,6466.261,11.0,8.0,,,,Unknown
+2022,Spain,Spain,NOR,McLaren,12.0,1.0,SOFT,12.0,4818.822,7.0,,,,,Unknown
+2022,Spain,Spain,NOR,McLaren,33.0,2.0,MEDIUM,21.0,6719.173,6.0,7.0,,,,Unknown
+2022,Spain,Spain,NOR,McLaren,51.0,3.0,SOFT,21.0,8329.072,8.0,6.0,,,,Unknown
+2022,Spain,Spain,OCO,Alpine,13.0,1.0,SOFT,13.0,4903.858,6.0,,,,,Unknown
+2022,Spain,Spain,OCO,Alpine,35.0,2.0,MEDIUM,22.0,6894.07,6.0,6.0,,,,Unknown
+2022,Spain,Spain,OCO,Alpine,52.0,3.0,SOFT,20.0,8410.667,7.0,6.0,,,,Unknown
+2022,Spain,Spain,PER,Red Bull Racing,17.0,1.0,SOFT,20.0,5250.056,2.0,,,,,Unknown
+2022,Spain,Spain,PER,Red Bull Racing,37.0,2.0,MEDIUM,20.0,7032.66,1.0,2.0,,,,Unknown
+2022,Spain,Spain,PER,Red Bull Racing,53.0,3.0,MEDIUM,16.0,8448.286,2.0,1.0,,,,Unknown
+2022,Spain,Spain,RIC,McLaren,11.0,1.0,SOFT,14.0,4734.906,10.0,,,,,Unknown
+2022,Spain,Spain,RIC,McLaren,31.0,2.0,SOFT,23.0,6558.815,11.0,10.0,,,,Unknown
+2022,Spain,Spain,RIC,McLaren,48.0,3.0,MEDIUM,17.0,8091.101,13.0,11.0,,,,Unknown
+2022,Spain,Spain,RUS,Mercedes,13.0,1.0,SOFT,16.0,4890.053,3.0,,,,,Unknown
+2022,Spain,Spain,RUS,Mercedes,36.0,2.0,MEDIUM,23.0,6949.895,3.0,3.0,,,,Unknown
+2022,Spain,Spain,RUS,Mercedes,51.0,3.0,MEDIUM,15.0,8283.122,3.0,3.0,,,,Unknown
+2022,Spain,Spain,SAI,Ferrari,10.0,1.0,SOFT,13.0,4644.007,11.0,,,,,Unknown
+2022,Spain,Spain,SAI,Ferrari,31.0,2.0,MEDIUM,21.0,6526.836,5.0,11.0,,,,Unknown
+2022,Spain,Spain,SAI,Ferrari,45.0,3.0,MEDIUM,14.0,7772.306,5.0,5.0,,,,Unknown
+2022,Spain,Spain,STR,Aston Martin,14.0,1.0,SOFT,17.0,5014.514,9.0,,,,,Unknown
+2022,Spain,Spain,STR,Aston Martin,27.0,2.0,SOFT,16.0,6213.664,17.0,9.0,,,,Unknown
+2022,Spain,Spain,STR,Aston Martin,46.0,3.0,MEDIUM,20.0,7939.019,15.0,17.0,,,,Unknown
+2022,Spain,Spain,TSU,AlphaTauri,11.0,1.0,SOFT,11.0,4733.221,9.0,,,,,Unknown
+2022,Spain,Spain,TSU,AlphaTauri,32.0,2.0,MEDIUM,21.0,6635.98,8.0,9.0,,,,Unknown
+2022,Spain,Spain,TSU,AlphaTauri,52.0,3.0,SOFT,23.0,8428.146,9.0,8.0,,,,Unknown
+2022,Spain,Spain,VER,Red Bull Racing,13.0,1.0,SOFT,16.0,4891.061,4.0,,,,,Unknown
+2022,Spain,Spain,VER,Red Bull Racing,28.0,2.0,MEDIUM,15.0,6237.001,3.0,4.0,,,,Unknown
+2022,Spain,Spain,VER,Red Bull Racing,44.0,3.0,SOFT,19.0,7646.284,1.0,3.0,,,,Unknown
+2022,Spain,Spain,VET,Aston Martin,21.0,1.0,SOFT,24.0,5647.096,10.0,,,,,Unknown
+2022,Spain,Spain,VET,Aston Martin,42.0,2.0,SOFT,24.0,7542.48,11.0,10.0,,,,Unknown
+2022,Spain,Spain,ZHO,Alfa Romeo,10.0,1.0,SOFT,10.0,4650.004,16.0,,,,,Unknown
+2022,Spain,Spain,ZHO,Alfa Romeo,28.0,2.0,MEDIUM,18.0,6305.988,15.0,16.0,,,,Unknown
+2022,São Paulo,Brazil,ALB,Williams,4.0,1.0,HARD,4.0,4170.812,18.0,,,,,Unknown
+2022,São Paulo,Brazil,ALB,Williams,25.0,2.0,MEDIUM,21.0,5888.178,11.0,18.0,,,,Unknown
+2022,São Paulo,Brazil,ALB,Williams,47.0,3.0,MEDIUM,22.0,7614.36,15.0,11.0,,,,Unknown
+2022,São Paulo,Brazil,ALO,Alpine,14.0,1.0,MEDIUM,14.0,5019.82,13.0,,,,,Unknown
+2022,São Paulo,Brazil,ALO,Alpine,35.0,2.0,MEDIUM,21.0,6655.674,7.0,13.0,,,,Unknown
+2022,São Paulo,Brazil,ALO,Alpine,52.0,3.0,MEDIUM,17.0,7978.239,5.0,7.0,,,,Unknown
+2022,São Paulo,Brazil,BOT,Alfa Romeo,24.0,1.0,SOFT,24.0,5792.354,7.0,,,,,Unknown
+2022,São Paulo,Brazil,BOT,Alfa Romeo,45.0,2.0,MEDIUM,21.0,7424.946,5.0,7.0,,,,Unknown
+2022,São Paulo,Brazil,GAS,AlphaTauri,19.0,1.0,SOFT,19.0,5403.748,8.0,,,,,Unknown
+2022,São Paulo,Brazil,GAS,AlphaTauri,35.0,2.0,MEDIUM,16.0,6664.794,10.0,8.0,,,,Unknown
+2022,São Paulo,Brazil,GAS,AlphaTauri,52.0,3.0,SOFT,22.0,7999.048,11.0,10.0,,,,Unknown
+2022,São Paulo,Brazil,HAM,Mercedes,29.0,1.0,SOFT,29.0,6161.14,1.0,,,,,Unknown
+2022,São Paulo,Brazil,HAM,Mercedes,48.0,2.0,MEDIUM,19.0,7621.534,2.0,1.0,,,,Unknown
+2022,São Paulo,Brazil,LAT,Williams,20.0,1.0,MEDIUM,20.0,5500.366,17.0,,,,,Unknown
+2022,São Paulo,Brazil,LAT,Williams,32.0,2.0,HARD,12.0,6464.558,18.0,17.0,,,,Unknown
+2022,São Paulo,Brazil,LAT,Williams,52.0,3.0,MEDIUM,20.0,8063.267,17.0,18.0,,,,Unknown
+2022,São Paulo,Brazil,LEC,Ferrari,7.0,1.0,MEDIUM,7.0,4482.313,18.0,,,,,Unknown
+2022,São Paulo,Brazil,LEC,Ferrari,21.0,2.0,MEDIUM,14.0,5580.744,16.0,18.0,,,,Unknown
+2022,São Paulo,Brazil,LEC,Ferrari,44.0,3.0,SOFT,23.0,7358.343,10.0,16.0,,,,Unknown
+2022,São Paulo,Brazil,MSC,Haas F1 Team,24.0,1.0,MEDIUM,24.0,5800.195,10.0,,,,,Unknown
+2022,São Paulo,Brazil,MSC,Haas F1 Team,46.0,2.0,SOFT,22.0,7521.747,10.0,10.0,,,,Unknown
+2022,São Paulo,Brazil,NOR,McLaren,24.0,1.0,SOFT,24.0,5791.388,6.0,,,,,Unknown
+2022,São Paulo,Brazil,NOR,McLaren,45.0,2.0,MEDIUM,21.0,7438.713,10.0,6.0,,,,Unknown
+2022,São Paulo,Brazil,OCO,Alpine,24.0,1.0,SOFT,24.0,5794.826,8.0,,,,,Unknown
+2022,São Paulo,Brazil,OCO,Alpine,47.0,2.0,MEDIUM,23.0,7584.601,5.0,8.0,,,,Unknown
+2022,São Paulo,Brazil,PER,Red Bull Racing,23.0,1.0,SOFT,23.0,5693.819,2.0,,,,,Unknown
+2022,São Paulo,Brazil,PER,Red Bull Racing,47.0,2.0,MEDIUM,24.0,7549.034,3.0,2.0,,,,Unknown
+2022,São Paulo,Brazil,RUS,Mercedes,24.0,1.0,SOFT,24.0,5766.231,1.0,,,,,Unknown
+2022,São Paulo,Brazil,RUS,Mercedes,49.0,2.0,MEDIUM,25.0,7688.28,1.0,1.0,,,,Unknown
+2022,São Paulo,Brazil,SAI,Ferrari,17.0,1.0,MEDIUM,17.0,5237.205,4.0,,,,,Unknown
+2022,São Paulo,Brazil,SAI,Ferrari,36.0,2.0,SOFT,19.0,6709.836,4.0,4.0,,,,Unknown
+2022,São Paulo,Brazil,SAI,Ferrari,53.0,3.0,MEDIUM,17.0,8030.393,2.0,4.0,,,,Unknown
+2022,São Paulo,Brazil,STR,Aston Martin,29.0,1.0,MEDIUM,30.0,6193.496,7.0,,,,,Unknown
+2022,São Paulo,Brazil,STR,Aston Martin,48.0,2.0,MEDIUM,20.0,7678.609,10.0,7.0,,,,Unknown
+2022,São Paulo,Brazil,TSU,AlphaTauri,20.0,1.0,MEDIUM,20.0,5496.241,13.0,,,,,Unknown
+2022,São Paulo,Brazil,TSU,AlphaTauri,40.0,2.0,SOFT,20.0,7067.381,16.0,13.0,,,,Unknown
+2022,São Paulo,Brazil,TSU,AlphaTauri,54.0,3.0,SOFT,14.0,8248.095,15.0,16.0,,,,Unknown
+2022,São Paulo,Brazil,VER,Red Bull Racing,7.0,1.0,SOFT,7.0,4474.18,17.0,,,,,Unknown
+2022,São Paulo,Brazil,VER,Red Bull Racing,23.0,2.0,MEDIUM,16.0,5730.606,14.0,17.0,,,,Unknown
+2022,São Paulo,Brazil,VER,Red Bull Racing,48.0,3.0,SOFT,32.0,7667.425,6.0,14.0,,,,Unknown
+2022,São Paulo,Brazil,VET,Aston Martin,26.0,1.0,SOFT,26.0,5943.867,5.0,,,,,Unknown
+2022,São Paulo,Brazil,VET,Aston Martin,45.0,2.0,MEDIUM,20.0,7428.524,7.0,5.0,,,,Unknown
+2022,São Paulo,Brazil,ZHO,Alfa Romeo,16.0,1.0,SOFT,16.0,5175.957,12.0,,,,,Unknown
+2022,São Paulo,Brazil,ZHO,Alfa Romeo,37.0,2.0,MEDIUM,21.0,6825.061,12.0,12.0,,,,Unknown

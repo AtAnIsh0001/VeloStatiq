@@ -1,0 +1,20 @@
+/* Fixed one-screen sport gateway */
+.sport-gateway{height:100svh;min-height:100svh;max-height:100svh;overflow:hidden;display:grid;grid-template-rows:auto auto minmax(0,1fr) auto;gap:clamp(8px,1.5vh,17px);padding:clamp(14px,2.2vh,26px) clamp(20px,5vw,78px) clamp(12px,1.8vh,22px)}
+.gateway-brand img{width:76px;height:50px;object-fit:contain;filter:drop-shadow(0 5px 12px #00dff84f)}
+.gateway-brand strong{font-size:18px;letter-spacing:.08em;text-transform:none;background:linear-gradient(90deg,#1788ff,#19e2dc);-webkit-background-clip:text;background-clip:text;color:transparent}
+.gateway-copy{margin:0 auto;align-self:center}.gateway-copy h1{font-size:clamp(42px,7.5vh,82px)}.gateway-copy>span{margin-top:clamp(10px,2vh,20px)}
+.sport-choices{width:100%;height:100%;min-height:0}.sport-choices>div{min-height:0}.sport-choice{height:100%;min-height:210px}.sport-gateway>footer{width:100%;margin:0 auto}
+
+/* VeloStatiq marks */
+.football-mark>img,.f1-mark>img,.friendly-brand>img{width:58px;height:42px;object-fit:contain;flex:0 0 auto;filter:drop-shadow(0 5px 10px rgba(0,211,255,.25))}
+.football-mark strong,.f1-mark strong,.friendly-brand strong{text-transform:none!important;letter-spacing:.02em!important}
+
+/* Project-wide sound control */
+.sound-toggle{position:fixed;z-index:250;right:18px;bottom:18px;min-width:158px;height:54px;padding:0 15px;border:1px solid rgba(255,255,255,.19);border-radius:16px;background:linear-gradient(145deg,rgba(11,23,29,.84),rgba(5,9,13,.7));color:#eaf9ff;box-shadow:0 18px 48px rgba(0,0,0,.42),inset 0 1px 0 rgba(255,255,255,.1);-webkit-backdrop-filter:blur(22px) saturate(150%);backdrop-filter:blur(22px) saturate(150%);display:flex;align-items:center;gap:11px;cursor:pointer;transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
+.sound-toggle:hover{transform:translateY(-3px);border-color:rgba(39,223,238,.58)}.sound-toggle.active{border-color:rgba(24,224,211,.58);box-shadow:0 18px 48px rgba(0,0,0,.42),0 0 28px rgba(17,205,231,.14),inset 0 1px 0 rgba(255,255,255,.12)}
+.sound-toggle>svg{width:21px;color:#32dce5;flex:0 0 auto}.sound-toggle>span{display:flex;flex-direction:column;align-items:flex-start}.sound-toggle strong,.sound-toggle small{font-size:15px}.sound-toggle small{color:#80959f;margin-top:1px}
+
+@media(max-height:760px){.gateway-copy>span{display:none}.gateway-copy h1{font-size:clamp(38px,7vh,58px)}.sport-choice{min-height:185px}.choice-content{padding:20px}.choice-content h2{font-size:34px}.gateway-copy>p{margin-bottom:7px}}
+@media(max-width:760px){.sport-gateway{grid-template-rows:auto auto minmax(0,1fr);gap:8px}.gateway-brand img{width:62px;height:41px}.gateway-copy{margin:0 auto}.gateway-copy h1{font-size:clamp(35px,6.5vh,50px)}.sport-choices{grid-template-columns:1fr;grid-template-rows:1fr 1fr;gap:10px}.sport-choice{height:100%;min-height:0}.choice-content h2{font-size:30px}.choice-content p,.choice-stats{display:none}}
+@media(max-width:560px){.sound-toggle{right:12px;bottom:12px;min-width:52px;width:52px;padding:0;justify-content:center}.sound-toggle>span{display:none}}
+@media(prefers-reduced-motion:reduce){.sound-toggle{transition:none}}

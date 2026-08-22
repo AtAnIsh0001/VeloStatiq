@@ -1,0 +1,21 @@
+Season,Team,total_pit_stops,successful_undercuts,avg_positions_gained_per_stop,avg_stint_length_laps,strong_gains,positions_lost_count,undercut_success_rate_pct
+2021,McLaren,25,1.0,10.0,21.6,1,0,4.0
+2021,AlphaTauri,34,1.0,7.0,20.3,1,0,2.9
+2021,Aston Martin,27,1.0,4.0,20.9,1,0,3.7
+2022,McLaren,34,0.0,0.0,18.8,0,0,0.0
+2021,Red Bull Racing,41,0.0,-2.0,20.5,0,1,0.0
+2021,Haas F1 Team,31,0.0,-3.0,18.3,0,1,0.0
+2021,Ferrari,21,,,21.6,0,0,
+2022,Alfa Romeo,26,,,17.9,0,0,
+2021,Williams,24,,,20.3,0,0,
+2022,Haas F1 Team,32,,,21.0,0,0,
+2022,Ferrari,36,,,18.5,0,0,
+2021,Alfa Romeo Racing,28,,,18.6,0,0,
+2022,AlphaTauri,39,,,19.5,0,0,
+2022,Alpine,29,,,19.9,0,0,
+2021,Mercedes,32,,,23.4,0,0,
+2021,Alpine,19,,,17.5,0,0,
+2022,Red Bull Racing,41,,,19.0,0,0,
+2022,Aston Martin,37,,,18.0,0,0,
+2022,Williams,41,,,18.7,0,0,
+2022,Mercedes,32,,,21.4,0,0,

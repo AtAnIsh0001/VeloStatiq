@@ -1,0 +1,797 @@
+Season,RaceName,Country,Driver,Team,avg_lap_time_sec,best_lap_sec,pace_consistency,total_laps_completed,worst_position,best_position,personal_best_laps,pace_vs_field
+2021,Abu Dhabi,Abu Dhabi,GIO,Alfa Romeo Racing,91.524,89.442,4.004,33,18.0,11.0,9,-1.806
+2021,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,91.865,86.419,10.305,55,5.0,1.0,12,-1.465
+2021,Abu Dhabi,Abu Dhabi,RUS,Williams,92.184,90.647,2.37,25,19.0,14.0,9,-1.146
+2021,Abu Dhabi,Abu Dhabi,LAT,Williams,92.31,89.293,4.998,50,17.0,13.0,11,-1.02
+2021,Abu Dhabi,Abu Dhabi,VER,Red Bull Racing,92.402,86.103,13.362,57,4.0,1.0,16,-0.928
+2021,Abu Dhabi,Abu Dhabi,HAM,Mercedes,92.413,86.615,13.682,57,2.0,1.0,15,-0.917
+2021,Abu Dhabi,Abu Dhabi,NOR,McLaren,93.411,86.762,11.76,57,13.0,5.0,25,0.081
+2021,Abu Dhabi,Abu Dhabi,ALO,Alpine,93.457,87.607,11.079,57,11.0,4.0,23,0.127
+2021,Abu Dhabi,Abu Dhabi,SAI,Ferrari,93.492,87.618,11.347,58,8.0,3.0,16,0.162
+2021,Abu Dhabi,Abu Dhabi,TSU,AlphaTauri,93.501,87.496,10.805,58,10.0,3.0,22,0.171
+2021,Abu Dhabi,Abu Dhabi,OCO,Alpine,93.506,88.249,10.89,57,18.0,9.0,15,0.176
+2021,Abu Dhabi,Abu Dhabi,GAS,AlphaTauri,93.515,87.342,10.222,58,12.0,5.0,25,0.185
+2021,Abu Dhabi,Abu Dhabi,BOT,Mercedes,93.531,86.862,11.223,58,9.0,3.0,18,0.201
+2021,Abu Dhabi,Abu Dhabi,LEC,Ferrari,93.539,88.338,11.324,57,16.0,6.0,13,0.209
+2021,Abu Dhabi,Abu Dhabi,VET,Aston Martin,93.585,88.303,10.455,57,16.0,9.0,17,0.255
+2021,Abu Dhabi,Abu Dhabi,RIC,McLaren,94.114,88.723,12.32,56,17.0,8.0,10,0.784
+2021,Abu Dhabi,Abu Dhabi,RAI,Alfa Romeo Racing,94.544,89.698,11.001,25,19.0,11.0,9,1.214
+2021,Abu Dhabi,Abu Dhabi,STR,Aston Martin,95.181,88.567,13.369,57,17.0,10.0,17,1.851
+2021,Abu Dhabi,Abu Dhabi,MSC,Haas F1 Team,95.192,89.457,11.519,57,19.0,14.0,9,1.862
+2021,Austria,Austria,VER,Red Bull Racing,70.909,66.2,8.298,71,1.0,1.0,18,-1.136
+2021,Austria,Austria,BOT,Mercedes,71.162,68.374,7.811,71,5.0,2.0,10,-0.883
+2021,Austria,Austria,NOR,McLaren,71.191,68.471,8.107,71,4.0,2.0,11,-0.854
+2021,Austria,Austria,HAM,Mercedes,71.563,68.126,7.956,71,4.0,2.0,13,-0.482
+2021,Austria,Austria,PER,Red Bull Racing,71.584,68.192,7.807,71,10.0,3.0,15,-0.461
+2021,Austria,Austria,SAI,Ferrari,71.714,67.762,7.803,71,14.0,5.0,23,-0.331
+2021,Austria,Austria,RIC,McLaren,71.76,68.82,7.675,71,12.0,5.0,19,-0.285
+2021,Austria,Austria,LEC,Ferrari,71.771,68.698,7.675,71,11.0,5.0,15,-0.274
+2021,Austria,Austria,GAS,AlphaTauri,71.78,68.146,7.964,71,18.0,5.0,15,-0.265
+2021,Austria,Austria,ALO,Alpine,72.08,68.405,7.949,70,16.0,9.0,18,0.035
+2021,Austria,Austria,RUS,Williams,72.16,68.9,7.7,70,16.0,9.0,18,0.115
+2021,Austria,Austria,VET,Aston Martin,72.204,68.42,7.888,69,18.0,5.0,14,0.159
+2021,Austria,Austria,TSU,AlphaTauri,72.242,68.455,8.105,70,19.0,6.0,16,0.197
+2021,Austria,Austria,STR,Aston Martin,72.337,68.659,7.893,70,19.0,6.0,15,0.292
+2021,Austria,Austria,GIO,Alfa Romeo Racing,72.451,69.042,8.349,70,19.0,12.0,15,0.406
+2021,Austria,Austria,LAT,Williams,72.541,68.874,7.905,70,18.0,12.0,22,0.496
+2021,Austria,Austria,RAI,Alfa Romeo Racing,72.563,68.52,8.456,70,16.0,6.0,20,0.518
+2021,Austria,Austria,MSC,Haas F1 Team,73.051,69.394,7.914,69,18.0,15.0,13,1.006
+2021,Austria,Austria,MAZ,Haas F1 Team,73.791,69.757,8.23,69,19.0,16.0,15,1.746
+2021,Azerbaijan,Azerbaijan,VER,Red Bull Racing,107.443,104.481,5.014,41,3.0,1.0,15,-3.346
+2021,Azerbaijan,Azerbaijan,STR,Aston Martin,108.112,106.207,3.327,29,16.0,4.0,18,-2.677
+2021,Azerbaijan,Azerbaijan,PER,Red Bull Racing,108.295,104.687,6.878,44,4.0,1.0,17,-2.494
+2021,Azerbaijan,Azerbaijan,HAM,Mercedes,108.564,104.769,7.161,44,16.0,1.0,12,-2.225
+2021,Azerbaijan,Azerbaijan,GAS,AlphaTauri,108.983,105.22,6.752,44,6.0,3.0,16,-1.806
+2021,Azerbaijan,Azerbaijan,VET,Aston Martin,109.017,104.89,7.11,44,9.0,1.0,19,-1.772
+2021,Azerbaijan,Azerbaijan,LEC,Ferrari,109.102,105.382,6.742,44,10.0,1.0,17,-1.687
+2021,Azerbaijan,Azerbaijan,TSU,AlphaTauri,109.307,104.939,7.326,44,12.0,6.0,16,-1.482
+2021,Azerbaijan,Azerbaijan,NOR,McLaren,109.607,105.326,7.973,44,17.0,5.0,10,-1.182
+2021,Azerbaijan,Azerbaijan,BOT,Mercedes,109.623,105.665,6.745,44,14.0,6.0,15,-1.166
+2021,Azerbaijan,Azerbaijan,SAI,Ferrari,110.067,105.7,8.531,44,15.0,5.0,12,-0.722
+2021,Azerbaijan,Azerbaijan,RIC,McLaren,110.863,105.713,10.144,45,13.0,8.0,20,0.074
+2021,Azerbaijan,Azerbaijan,RUS,Williams,111.729,105.959,9.321,44,20.0,14.0,19,0.94
+2021,Azerbaijan,Azerbaijan,ALO,Alpine,112.04,105.624,10.763,46,14.0,6.0,13,1.251
+2021,Azerbaijan,Azerbaijan,LAT,Williams,112.041,106.608,8.687,46,17.0,13.0,16,1.252
+2021,Azerbaijan,Azerbaijan,GIO,Alfa Romeo Racing,112.084,105.575,10.413,46,19.0,11.0,17,1.295
+2021,Azerbaijan,Azerbaijan,RAI,Alfa Romeo Racing,112.148,105.601,10.365,46,15.0,8.0,15,1.359
+2021,Azerbaijan,Azerbaijan,MSC,Haas F1 Team,112.256,107.624,8.473,45,19.0,14.0,9,1.467
+2021,Azerbaijan,Azerbaijan,MAZ,Haas F1 Team,113.933,107.747,9.209,45,19.0,14.0,14,3.144
+2021,Azerbaijan,Azerbaijan,OCO,Alpine,120.568,110.85,9.988,3,18.0,11.0,1,9.779
+2021,Bahrain,Bahrain,VER,Red Bull Racing,97.575,93.228,7.978,55,2.0,1.0,6,-2.393
+2021,Bahrain,Bahrain,HAM,Mercedes,97.586,94.015,8.125,55,4.0,1.0,7,-2.382
+2021,Bahrain,Bahrain,BOT,Mercedes,98.311,92.09,8.991,55,5.0,2.0,16,-1.657
+2021,Bahrain,Bahrain,NOR,McLaren,98.514,94.396,8.412,55,13.0,3.0,10,-1.454
+2021,Bahrain,Bahrain,LEC,Ferrari,98.687,94.988,7.972,55,14.0,3.0,10,-1.281
+2021,Bahrain,Bahrain,RIC,McLaren,98.888,94.932,8.38,55,11.0,4.0,9,-1.08
+2021,Bahrain,Bahrain,PER,Red Bull Racing,99.57,93.97,11.275,56,19.0,3.0,13,-0.398
+2021,Bahrain,Bahrain,SAI,Ferrari,99.839,94.509,10.816,56,11.0,3.0,9,-0.129
+2021,Bahrain,Bahrain,TSU,AlphaTauri,100.171,94.761,11.006,56,16.0,6.0,10,0.203
+2021,Bahrain,Bahrain,GAS,AlphaTauri,100.181,94.09,10.38,51,19.0,5.0,13,0.213
+2021,Bahrain,Bahrain,STR,Aston Martin,100.189,94.865,10.748,56,16.0,7.0,8,0.221
+2021,Bahrain,Bahrain,RAI,Alfa Romeo Racing,100.228,95.192,10.798,56,14.0,7.0,10,0.26
+2021,Bahrain,Bahrain,GIO,Alfa Romeo Racing,100.533,95.122,11.091,55,18.0,10.0,9,0.565
+2021,Bahrain,Bahrain,OCO,Alpine,100.727,95.25,10.87,55,15.0,9.0,6,0.759
+2021,Bahrain,Bahrain,RUS,Williams,100.761,95.036,10.84,55,18.0,10.0,10,0.793
+2021,Bahrain,Bahrain,VET,Aston Martin,100.953,95.566,10.488,55,17.0,6.0,5,0.985
+2021,Bahrain,Bahrain,MSC,Haas F1 Team,101.831,96.134,11.344,55,19.0,16.0,8,1.863
+2021,Bahrain,Bahrain,ALO,Alpine,102.29,96.063,10.312,31,17.0,7.0,7,2.322
+2021,Bahrain,Bahrain,LAT,Williams,102.559,96.602,11.176,51,18.0,11.0,8,2.591
+2021,Britain,Great Britain,HAM,Mercedes,93.035,89.699,6.648,49,5.0,1.0,13,-2.132
+2021,Britain,Great Britain,LEC,Ferrari,93.079,90.569,5.202,49,2.0,1.0,16,-2.088
+2021,Britain,Great Britain,BOT,Mercedes,93.236,90.524,5.686,49,4.0,2.0,14,-1.931
+2021,Britain,Great Britain,NOR,McLaren,93.657,91.418,6.077,49,6.0,3.0,15,-1.51
+2021,Britain,Great Britain,RIC,McLaren,93.923,91.284,6.005,49,9.0,5.0,17,-1.244
+2021,Britain,Great Britain,SAI,Ferrari,94.967,91.223,9.812,50,8.0,2.0,13,-0.2
+2021,Britain,Great Britain,TSU,AlphaTauri,95.444,90.826,8.598,50,15.0,7.0,24,0.277
+2021,Britain,Great Britain,STR,Aston Martin,95.453,91.992,8.668,50,11.0,7.0,18,0.286
+2021,Britain,Great Britain,OCO,Alpine,95.529,92.21,8.986,50,13.0,9.0,16,0.362
+2021,Britain,Great Britain,ALO,Alpine,95.567,91.698,9.41,50,9.0,5.0,19,0.4
+2021,Britain,Great Britain,GAS,AlphaTauri,95.587,90.266,8.854,50,14.0,6.0,18,0.42
+2021,Britain,Great Britain,VET,Aston Martin,95.628,93.059,6.832,37,19.0,6.0,11,0.461
+2021,Britain,Great Britain,PER,Red Bull Racing,95.684,88.617,9.504,49,19.0,8.0,11,0.517
+2021,Britain,Great Britain,RUS,Williams,95.739,92.049,8.416,49,16.0,11.0,17,0.572
+2021,Britain,Great Britain,LAT,Williams,95.765,92.477,8.509,49,17.0,13.0,19,0.598
+2021,Britain,Great Britain,GIO,Alfa Romeo Racing,95.867,92.346,8.417,49,15.0,10.0,19,0.7
+2021,Britain,Great Britain,RAI,Alfa Romeo Racing,96.128,91.895,9.221,49,16.0,9.0,15,0.961
+2021,Britain,Great Britain,MAZ,Haas F1 Team,96.793,92.909,8.362,49,19.0,17.0,25,1.626
+2021,Britain,Great Britain,MSC,Haas F1 Team,97.097,92.862,8.595,49,19.0,15.0,22,1.93
+2021,Emilia Romagna,Italy,HAM,Mercedes,89.361,76.702,17.881,59,8.0,1.0,22,-4.114
+2021,Emilia Romagna,Italy,VER,Red Bull Racing,90.03,77.524,19.086,62,3.0,1.0,30,-3.445
+2021,Emilia Romagna,Italy,LEC,Ferrari,90.711,78.379,18.248,62,4.0,2.0,32,-2.764
+2021,Emilia Romagna,Italy,NOR,McLaren,91.266,78.259,18.108,62,9.0,2.0,31,-2.209
+2021,Emilia Romagna,Italy,SAI,Ferrari,91.447,78.49,18.288,62,8.0,4.0,28,-2.028
+2021,Emilia Romagna,Italy,RIC,McLaren,92.007,79.341,17.902,62,8.0,5.0,26,-1.468
+2021,Emilia Romagna,Italy,PER,Red Bull Racing,92.042,78.334,18.523,62,14.0,4.0,24,-1.433
+2021,Emilia Romagna,Italy,OCO,Alpine,92.043,79.417,17.215,60,19.0,10.0,23,-1.432
+2021,Emilia Romagna,Italy,STR,Aston Martin,92.339,78.994,18.435,61,9.0,6.0,30,-1.136
+2021,Emilia Romagna,Italy,RAI,Alfa Romeo Racing,92.58,79.422,18.218,61,14.0,8.0,32,-0.895
+2021,Emilia Romagna,Italy,TSU,AlphaTauri,92.782,78.353,18.73,61,15.0,10.0,27,-0.693
+2021,Emilia Romagna,Italy,ALO,Alpine,92.93,79.396,17.838,61,17.0,10.0,26,-0.545
+2021,Emilia Romagna,Italy,GAS,AlphaTauri,93.362,78.782,18.683,61,18.0,6.0,27,-0.113
+2021,Emilia Romagna,Italy,GIO,Alfa Romeo Racing,93.42,79.47,18.365,60,15.0,9.0,25,-0.055
+2021,Emilia Romagna,Italy,MSC,Haas F1 Team,94.377,79.193,19.731,59,19.0,15.0,24,0.902
+2021,Emilia Romagna,Italy,VET,Aston Martin,94.401,79.074,19.128,59,18.0,11.0,28,0.926
+2021,Emilia Romagna,Italy,MAZ,Haas F1 Team,96.982,80.402,19.053,60,19.0,16.0,27,3.507
+2021,Emilia Romagna,Italy,BOT,Mercedes,101.965,88.485,19.212,30,10.0,6.0,14,8.49
+2021,Emilia Romagna,Italy,RUS,Williams,101.982,86.543,19.238,30,13.0,10.0,17,8.507
+2021,France,France,VER,Red Bull Racing,98.977,96.404,4.013,53,4.0,1.0,9,-1.646
+2021,France,France,HAM,Mercedes,99.032,97.41,3.0,53,3.0,1.0,7,-1.591
+2021,France,France,PER,Red Bull Racing,99.143,96.693,3.223,53,4.0,1.0,12,-1.48
+2021,France,France,BOT,Mercedes,99.253,96.96,3.119,53,4.0,2.0,5,-1.37
+2021,France,France,NOR,McLaren,100.185,97.425,3.55,53,14.0,5.0,12,-0.438
+2021,France,France,RIC,McLaren,100.408,98.324,3.318,53,16.0,6.0,13,-0.215
+2021,France,France,GAS,AlphaTauri,100.422,98.103,3.431,53,15.0,6.0,11,-0.201
+2021,France,France,ALO,Alpine,100.443,97.646,3.574,53,15.0,7.0,12,-0.18
+2021,France,France,VET,Aston Martin,100.48,97.138,3.552,53,12.0,5.0,17,-0.143
+2021,France,France,STR,Aston Martin,100.712,97.828,3.694,53,16.0,6.0,14,0.089
+2021,France,France,SAI,Ferrari,100.851,98.931,3.158,53,13.0,5.0,5,0.228
+2021,France,France,RUS,Williams,101.035,98.314,3.595,52,19.0,12.0,15,0.412
+2021,France,France,TSU,AlphaTauri,101.118,98.98,3.728,52,19.0,11.0,7,0.495
+2021,France,France,OCO,Alpine,101.132,98.645,3.502,52,17.0,7.0,9,0.509
+2021,France,France,GIO,Alfa Romeo Racing,101.219,98.702,3.555,52,18.0,9.0,10,0.596
+2021,France,France,LEC,Ferrari,101.282,97.681,4.433,52,18.0,7.0,8,0.659
+2021,France,France,RAI,Alfa Romeo Racing,101.316,97.992,3.802,52,18.0,10.0,8,0.693
+2021,France,France,LAT,Williams,101.331,98.313,3.596,52,19.0,12.0,13,0.708
+2021,France,France,MSC,Haas F1 Team,101.921,98.847,4.094,52,20.0,19.0,13,1.298
+2021,France,France,MAZ,Haas F1 Team,102.192,99.317,3.773,52,20.0,16.0,9,1.569
+2021,Hungary,Hungary,HAM,Mercedes,83.971,78.715,6.709,68,14.0,1.0,6,-8.019
+2021,Hungary,Hungary,OCO,Alpine,84.157,81.421,6.991,68,2.0,1.0,16,-7.833
+2021,Hungary,Hungary,VET,Aston Martin,84.201,81.459,7.097,68,3.0,2.0,17,-7.789
+2021,Hungary,Hungary,ALO,Alpine,84.37,80.359,7.456,68,7.0,1.0,15,-7.62
+2021,Hungary,Hungary,SAI,Ferrari,84.407,81.423,7.628,68,6.0,3.0,19,-7.583
+2021,Hungary,Hungary,GAS,AlphaTauri,85.142,78.394,8.485,68,13.0,5.0,16,-6.848
+2021,Hungary,Hungary,VER,Red Bull Racing,85.297,80.945,7.771,68,12.0,9.0,15,-6.693
+2021,Hungary,Hungary,TSU,AlphaTauri,85.319,82.45,7.508,68,7.0,4.0,10,-6.671
+2021,Hungary,Hungary,RUS,Williams,85.32,82.112,7.482,68,10.0,7.0,19,-6.67
+2021,Hungary,Hungary,LAT,Williams,85.355,82.831,7.444,68,8.0,3.0,11,-6.635
+2021,Hungary,Hungary,RAI,Alfa Romeo Racing,85.674,81.518,8.581,67,14.0,8.0,12,-6.316
+2021,Hungary,Hungary,RIC,McLaren,85.991,82.802,8.561,67,14.0,8.0,11,-5.999
+2021,Hungary,Hungary,MSC,Haas F1 Team,86.022,82.711,7.873,67,13.0,8.0,17,-5.968
+2021,Hungary,Hungary,GIO,Alfa Romeo Racing,86.394,82.736,11.152,67,16.0,13.0,11,-5.596
+2021,Hungary,Hungary,MAZ,Haas F1 Team,137.794,137.794,,1,13.0,13.0,0,45.804
+2021,Hungary,Hungary,NOR,McLaren,142.425,142.425,,1,15.0,15.0,0,50.435
+2021,Italy,Italy,HAM,Mercedes,87.689,85.87,3.824,25,4.0,1.0,2,-3.587
+2021,Italy,Italy,LEC,Ferrari,87.711,85.319,4.739,49,5.0,1.0,6,-3.565
+2021,Italy,Italy,RIC,McLaren,87.777,84.812,4.823,49,7.0,1.0,10,-3.499
+2021,Italy,Italy,VER,Red Bull Racing,88.55,85.173,6.007,25,9.0,1.0,3,-2.726
+2021,Italy,Italy,NOR,McLaren,89.18,84.971,9.599,50,7.0,1.0,10,-2.096
+2021,Italy,Italy,PER,Red Bull Racing,90.147,85.156,13.123,51,7.0,2.0,8,-1.129
+2021,Italy,Italy,BOT,Mercedes,90.383,84.827,13.303,51,16.0,4.0,5,-0.893
+2021,Italy,Italy,SAI,Ferrari,90.487,85.559,12.896,51,7.0,4.0,8,-0.789
+2021,Italy,Italy,STR,Aston Martin,90.619,85.853,11.723,51,10.0,7.0,6,-0.657
+2021,Italy,Italy,ALO,Alpine,90.678,85.472,11.633,51,11.0,8.0,10,-0.598
+2021,Italy,Italy,RUS,Williams,90.683,85.835,11.446,51,14.0,8.0,15,-0.593
+2021,Italy,Italy,OCO,Alpine,90.69,85.566,11.596,51,12.0,7.0,7,-0.586
+2021,Italy,Italy,LAT,Williams,90.77,85.953,10.377,51,14.0,10.0,5,-0.506
+2021,Italy,Italy,KUB,Alfa Romeo Racing,90.919,85.849,11.2,51,15.0,9.0,12,-0.357
+2021,Italy,Italy,VET,Aston Martin,92.047,85.938,12.958,52,15.0,12.0,11,0.771
+2021,Italy,Italy,GIO,Alfa Romeo Racing,92.101,85.718,13.551,52,19.0,13.0,10,0.825
+2021,Italy,Italy,MSC,Haas F1 Team,92.558,86.707,11.141,52,18.0,14.0,7,1.282
+2021,Italy,Italy,MAZ,Haas F1 Team,94.472,87.202,12.418,40,18.0,15.0,7,3.196
+2021,Italy,Italy,GAS,AlphaTauri,106.783,89.005,16.712,3,18.0,18.0,1,15.507
+2021,Mexico City,Mexico,VER,Red Bull Racing,83.367,78.999,10.222,71,2.0,1.0,15,-1.774
+2021,Mexico City,Mexico,HAM,Mercedes,83.601,79.82,10.232,71,4.0,2.0,11,-1.54
+2021,Mexico City,Mexico,PER,Red Bull Racing,83.617,79.468,10.202,71,3.0,1.0,17,-1.524
+2021,Mexico City,Mexico,GAS,AlphaTauri,84.267,80.51,10.057,71,6.0,3.0,11,-0.874
+2021,Mexico City,Mexico,LEC,Ferrari,84.509,80.665,10.004,71,9.0,5.0,17,-0.632
+2021,Mexico City,Mexico,SAI,Ferrari,84.593,80.081,10.112,70,7.0,4.0,23,-0.548
+2021,Mexico City,Mexico,VET,Aston Martin,84.702,80.46,10.074,70,9.0,5.0,14,-0.439
+2021,Mexico City,Mexico,RAI,Alfa Romeo Racing,84.775,80.713,10.165,70,10.0,7.0,19,-0.366
+2021,Mexico City,Mexico,ALO,Alpine,84.897,80.711,10.257,70,12.0,7.0,20,-0.244
+2021,Mexico City,Mexico,NOR,McLaren,84.933,80.617,10.464,70,15.0,7.0,22,-0.208
+2021,Mexico City,Mexico,GIO,Alfa Romeo Racing,85.43,81.523,9.912,70,13.0,6.0,22,0.289
+2021,Mexico City,Mexico,RIC,McLaren,85.443,81.069,10.626,70,18.0,11.0,10,0.302
+2021,Mexico City,Mexico,OCO,Alpine,85.607,81.348,10.2,70,15.0,13.0,17,0.466
+2021,Mexico City,Mexico,STR,Aston Martin,85.899,80.93,10.812,69,17.0,14.0,15,0.758
+2021,Mexico City,Mexico,BOT,Mercedes,86.261,77.774,11.511,69,18.0,11.0,18,1.12
+2021,Mexico City,Mexico,RUS,Williams,86.346,82.016,9.815,69,16.0,9.0,13,1.205
+2021,Mexico City,Mexico,LAT,Williams,86.556,81.546,10.292,69,18.0,13.0,21,1.415
+2021,Mexico City,Mexico,MAZ,Haas F1 Team,87.741,81.402,10.144,68,18.0,11.0,11,2.6
+2021,Monaco,Monaco,VER,Red Bull Racing,76.113,74.649,2.188,78,2.0,1.0,16,-1.334
+2021,Monaco,Monaco,SAI,Ferrari,76.228,74.621,2.445,78,3.0,2.0,13,-1.219
+2021,Monaco,Monaco,NOR,McLaren,76.362,74.67,2.401,78,6.0,3.0,15,-1.085
+2021,Monaco,Monaco,PER,Red Bull Racing,76.376,74.552,2.678,78,8.0,2.0,10,-1.071
+2021,Monaco,Monaco,VET,Aston Martin,76.787,75.316,2.483,78,7.0,4.0,13,-0.66
+2021,Monaco,Monaco,BOT,Mercedes,76.793,75.706,1.294,29,2.0,2.0,12,-0.654
+2021,Monaco,Monaco,GAS,AlphaTauri,76.804,75.412,2.439,78,7.0,5.0,17,-0.643
+2021,Monaco,Monaco,HAM,Mercedes,76.988,72.909,3.037,78,8.0,6.0,18,-0.459
+2021,Monaco,Monaco,STR,Aston Martin,77.169,74.674,2.691,77,11.0,8.0,23,-0.278
+2021,Monaco,Monaco,OCO,Alpine,77.648,75.316,2.584,77,10.0,8.0,14,0.201
+2021,Monaco,Monaco,GIO,Alfa Romeo Racing,77.654,75.331,2.743,77,12.0,8.0,13,0.207
+2021,Monaco,Monaco,RAI,Alfa Romeo Racing,77.671,74.971,2.916,77,12.0,9.0,21,0.224
+2021,Monaco,Monaco,RIC,McLaren,77.699,74.578,3.136,77,13.0,11.0,16,0.252
+2021,Monaco,Monaco,ALO,Alpine,77.705,75.026,3.042,77,14.0,11.0,16,0.258
+2021,Monaco,Monaco,RUS,Williams,78.034,75.539,3.249,77,16.0,14.0,20,0.587
+2021,Monaco,Monaco,LAT,Williams,78.048,75.573,3.19,77,16.0,14.0,16,0.601
+2021,Monaco,Monaco,TSU,AlphaTauri,78.058,74.037,3.237,77,17.0,14.0,12,0.611
+2021,Monaco,Monaco,MAZ,Haas F1 Team,79.665,76.866,3.562,75,19.0,17.0,19,2.218
+2021,Monaco,Monaco,MSC,Haas F1 Team,79.684,76.425,4.162,75,19.0,18.0,15,2.237
+2021,Netherlands,Netherlands,VER,Red Bull Racing,75.075,73.275,3.027,72,2.0,1.0,9,-2.114
+2021,Netherlands,Netherlands,HAM,Mercedes,75.366,71.097,3.796,72,3.0,2.0,8,-1.823
+2021,Netherlands,Netherlands,BOT,Mercedes,75.859,72.549,3.431,72,3.0,1.0,6,-1.33
+2021,Netherlands,Netherlands,GAS,AlphaTauri,76.298,74.818,2.281,71,7.0,4.0,7,-0.891
+2021,Netherlands,Netherlands,LEC,Ferrari,76.369,74.78,2.547,71,5.0,4.0,16,-0.82
+2021,Netherlands,Netherlands,ALO,Alpine,76.773,74.323,2.558,71,9.0,6.0,18,-0.416
+2021,Netherlands,Netherlands,SAI,Ferrari,76.801,75.26,2.601,71,7.0,5.0,17,-0.388
+2021,Netherlands,Netherlands,PER,Red Bull Racing,76.81,73.461,4.004,71,19.0,7.0,5,-0.379
+2021,Netherlands,Netherlands,OCO,Alpine,76.823,74.675,2.397,71,10.0,8.0,13,-0.366
+2021,Netherlands,Netherlands,NOR,McLaren,76.869,74.236,2.932,71,13.0,7.0,18,-0.32
+2021,Netherlands,Netherlands,RIC,McLaren,77.047,74.92,2.761,71,12.0,9.0,18,-0.142
+2021,Netherlands,Netherlands,STR,Aston Martin,77.467,75.611,2.62,70,16.0,12.0,15,0.278
+2021,Netherlands,Netherlands,VET,Aston Martin,77.499,73.958,3.631,70,19.0,13.0,12,0.31
+2021,Netherlands,Netherlands,GIO,Alfa Romeo Racing,77.617,75.125,3.372,70,18.0,10.0,13,0.428
+2021,Netherlands,Netherlands,KUB,Alfa Romeo Racing,78.084,75.442,2.946,70,18.0,13.0,14,0.895
+2021,Netherlands,Netherlands,LAT,Williams,78.111,75.79,3.339,70,20.0,14.0,2,0.922
+2021,Netherlands,Netherlands,RUS,Williams,78.192,75.628,6.246,69,17.0,11.0,16,1.003
+2021,Netherlands,Netherlands,TSU,AlphaTauri,78.264,75.783,3.51,48,17.0,11.0,12,1.075
+2021,Netherlands,Netherlands,MAZ,Haas F1 Team,79.204,76.066,3.472,41,19.0,16.0,14,2.015
+2021,Netherlands,Netherlands,MSC,Haas F1 Team,79.249,75.927,5.611,69,20.0,18.0,5,2.06
+2021,Portugal,Portugal,HAM,Mercedes,85.931,80.933,12.726,66,3.0,1.0,12,-1.707
+2021,Portugal,Portugal,VER,Red Bull Racing,86.372,79.849,12.833,66,4.0,2.0,16,-1.266
+2021,Portugal,Portugal,BOT,Mercedes,86.439,79.865,12.973,66,4.0,1.0,16,-1.199
+2021,Portugal,Portugal,PER,Red Bull Racing,86.533,80.643,12.435,66,5.0,1.0,19,-1.105
+2021,Portugal,Portugal,NOR,McLaren,86.709,81.696,12.317,66,10.0,4.0,14,-0.929
+2021,Portugal,Portugal,LEC,Ferrari,86.776,81.496,12.244,66,10.0,5.0,21,-0.862
+2021,Portugal,Portugal,OCO,Alpine,86.897,81.886,12.267,66,14.0,7.0,10,-0.741
+2021,Portugal,Portugal,ALO,Alpine,86.913,81.032,12.062,66,15.0,6.0,15,-0.725
+2021,Portugal,Portugal,RIC,McLaren,87.073,81.987,12.088,66,14.0,5.0,20,-0.565
+2021,Portugal,Portugal,GAS,AlphaTauri,87.089,82.014,12.105,66,12.0,6.0,17,-0.549
+2021,Portugal,Portugal,SAI,Ferrari,87.127,82.325,12.215,66,15.0,4.0,12,-0.511
+2021,Portugal,Portugal,GIO,Alfa Romeo Racing,87.298,82.167,12.134,65,17.0,12.0,24,-0.34
+2021,Portugal,Portugal,VET,Aston Martin,87.379,82.416,12.074,65,16.0,10.0,21,-0.259
+2021,Portugal,Portugal,STR,Aston Martin,87.39,81.97,11.997,65,17.0,7.0,20,-0.248
+2021,Portugal,Portugal,TSU,AlphaTauri,87.639,82.058,11.985,65,19.0,15.0,20,0.001
+2021,Portugal,Portugal,RUS,Williams,88.298,82.654,11.863,65,19.0,11.0,14,0.66
+2021,Portugal,Portugal,MSC,Haas F1 Team,88.732,82.755,11.835,64,19.0,14.0,17,1.094
+2021,Portugal,Portugal,LAT,Williams,88.78,83.155,11.723,64,19.0,13.0,11,1.142
+2021,Portugal,Portugal,MAZ,Haas F1 Team,89.709,83.641,12.113,64,20.0,17.0,19,2.071
+2021,Portugal,Portugal,RAI,Alfa Romeo Racing,93.673,93.673,,1,13.0,13.0,0,6.035
+2021,Qatar,Qatar,HAM,Mercedes,88.921,85.084,5.047,57,1.0,1.0,17,-1.791
+2021,Qatar,Qatar,VER,Red Bull Racing,89.372,83.196,6.823,57,4.0,2.0,17,-1.34
+2021,Qatar,Qatar,BOT,Mercedes,89.538,87.246,2.484,47,14.0,3.0,10,-1.174
+2021,Qatar,Qatar,ALO,Alpine,89.964,86.682,4.286,57,7.0,2.0,20,-0.748
+2021,Qatar,Qatar,PER,Red Bull Racing,90.014,85.613,5.029,57,12.0,3.0,13,-0.698
+2021,Qatar,Qatar,OCO,Alpine,90.334,87.061,4.391,57,12.0,5.0,16,-0.378
+2021,Qatar,Qatar,STR,Aston Martin,90.346,87.356,4.571,57,13.0,6.0,14,-0.366
+2021,Qatar,Qatar,SAI,Ferrari,90.358,86.57,4.428,57,10.0,4.0,28,-0.354
+2021,Qatar,Qatar,LEC,Ferrari,90.379,86.555,4.992,57,13.0,5.0,14,-0.333
+2021,Qatar,Qatar,NOR,McLaren,90.521,85.746,5.188,56,11.0,4.0,19,-0.191
+2021,Qatar,Qatar,VET,Aston Martin,90.608,86.434,4.905,56,17.0,9.0,20,-0.104
+2021,Qatar,Qatar,GAS,AlphaTauri,90.708,87.019,5.449,56,18.0,3.0,9,-0.004
+2021,Qatar,Qatar,RIC,McLaren,91.108,87.198,4.556,56,16.0,8.0,16,0.396
+2021,Qatar,Qatar,TSU,AlphaTauri,91.114,87.043,5.544,56,20.0,8.0,18,0.402
+2021,Qatar,Qatar,RAI,Alfa Romeo Racing,91.164,86.358,5.461,56,20.0,12.0,16,0.452
+2021,Qatar,Qatar,LAT,Williams,91.197,88.732,3.818,50,20.0,13.0,12,0.485
+2021,Qatar,Qatar,GIO,Alfa Romeo Racing,91.6,87.823,5.389,56,20.0,12.0,6,0.888
+2021,Qatar,Qatar,MSC,Haas F1 Team,91.628,88.412,4.61,56,20.0,14.0,16,0.916
+2021,Qatar,Qatar,RUS,Williams,92.482,85.768,8.986,55,20.0,13.0,14,1.77
+2021,Qatar,Qatar,MAZ,Haas F1 Team,92.888,87.34,4.876,55,20.0,15.0,20,2.176
+2021,Russia,Russia,NOR,McLaren,102.637,97.423,6.79,52,8.0,1.0,9,-1.588
+2021,Russia,Russia,HAM,Mercedes,102.66,97.575,6.172,53,9.0,1.0,15,-1.565
+2021,Russia,Russia,LAT,Williams,103.434,100.0,6.408,47,19.0,16.0,15,-0.791
+2021,Russia,Russia,VET,Aston Martin,103.582,99.251,6.197,51,16.0,6.0,12,-0.643
+2021,Russia,Russia,VER,Red Bull Racing,103.666,98.396,6.232,53,17.0,2.0,9,-0.559
+2021,Russia,Russia,SAI,Ferrari,103.839,99.294,7.177,53,13.0,1.0,10,-0.386
+2021,Russia,Russia,GAS,AlphaTauri,103.843,98.279,6.295,51,16.0,5.0,11,-0.382
+2021,Russia,Russia,RIC,McLaren,103.898,99.124,7.302,53,14.0,2.0,10,-0.327
+2021,Russia,Russia,LEC,Ferrari,103.909,98.994,8.328,51,15.0,3.0,17,-0.316
+2021,Russia,Russia,BOT,Mercedes,103.935,98.216,5.617,53,16.0,5.0,6,-0.29
+2021,Russia,Russia,OCO,Alpine,104.024,100.598,6.868,51,15.0,7.0,11,-0.201
+2021,Russia,Russia,ALO,Alpine,104.195,98.686,8.309,53,8.0,2.0,19,-0.03
+2021,Russia,Russia,RAI,Alfa Romeo Racing,104.339,100.289,6.568,53,16.0,7.0,11,0.114
+2021,Russia,Russia,PER,Red Bull Racing,104.36,99.215,9.182,53,9.0,1.0,11,0.135
+2021,Russia,Russia,MSC,Haas F1 Team,104.443,100.276,4.397,32,20.0,17.0,7,0.218
+2021,Russia,Russia,RUS,Williams,104.558,100.596,7.048,53,15.0,3.0,16,0.333
+2021,Russia,Russia,STR,Aston Martin,104.664,100.464,8.589,53,16.0,4.0,10,0.439
+2021,Russia,Russia,GIO,Alfa Romeo Racing,104.925,99.058,7.879,51,19.0,14.0,14,0.7
+2021,Russia,Russia,TSU,AlphaTauri,106.586,99.96,11.794,52,20.0,17.0,16,2.361
+2021,Russia,Russia,MAZ,Haas F1 Team,107.0,101.713,8.618,51,20.0,13.0,8,2.775
+2021,Saudi Arabia,Saudi Arabia,HAM,Mercedes,97.348,90.734,10.373,43,2.0,1.0,16,-3.209
+2021,Saudi Arabia,Saudi Arabia,VER,Red Bull Racing,97.683,91.488,10.468,43,3.0,1.0,11,-2.873
+2021,Saudi Arabia,Saudi Arabia,PER,Red Bull Racing,98.137,94.138,9.843,10,5.0,5.0,5,-2.419
+2021,Saudi Arabia,Saudi Arabia,MSC,Haas F1 Team,98.543,96.043,3.719,8,18.0,18.0,6,-2.013
+2021,Saudi Arabia,Saudi Arabia,OCO,Alpine,98.57,91.797,10.168,43,7.0,3.0,15,-1.987
+2021,Saudi Arabia,Saudi Arabia,RIC,McLaren,98.84,92.716,10.092,43,9.0,4.0,16,-1.716
+2021,Saudi Arabia,Saudi Arabia,BOT,Mercedes,99.272,91.408,12.864,44,5.0,2.0,11,-1.284
+2021,Saudi Arabia,Saudi Arabia,LEC,Ferrari,99.611,91.601,12.658,44,10.0,4.0,15,-0.945
+2021,Saudi Arabia,Saudi Arabia,NOR,McLaren,99.676,91.914,11.085,44,15.0,6.0,16,-0.88
+2021,Saudi Arabia,Saudi Arabia,GAS,AlphaTauri,99.936,92.297,12.19,44,9.0,6.0,17,-0.62
+2021,Saudi Arabia,Saudi Arabia,SAI,Ferrari,100.037,91.851,12.466,44,13.0,7.0,14,-0.519
+2021,Saudi Arabia,Saudi Arabia,TSU,AlphaTauri,100.094,92.506,11.605,42,16.0,9.0,12,-0.463
+2021,Saudi Arabia,Saudi Arabia,GIO,Alfa Romeo Racing,100.358,92.865,12.045,44,11.0,7.0,9,-0.198
+2021,Saudi Arabia,Saudi Arabia,LAT,Williams,100.91,92.751,10.836,44,19.0,12.0,17,0.353
+2021,Saudi Arabia,Saudi Arabia,ALO,Alpine,101.626,91.633,11.534,43,15.0,10.0,10,1.07
+2021,Saudi Arabia,Saudi Arabia,STR,Aston Martin,102.078,92.804,13.759,45,19.0,10.0,15,1.522
+2021,Saudi Arabia,Saudi Arabia,RAI,Alfa Romeo Racing,102.1,92.778,12.849,43,16.0,12.0,13,1.543
+2021,Saudi Arabia,Saudi Arabia,VET,Aston Martin,102.679,94.03,12.157,38,15.0,8.0,12,2.123
+2021,Saudi Arabia,Saudi Arabia,MAZ,Haas F1 Team,106.724,97.043,15.549,11,20.0,16.0,5,6.168
+2021,Saudi Arabia,Saudi Arabia,RUS,Williams,106.908,96.13,18.371,11,18.0,16.0,6,6.352
+2021,Spain,Spain,HAM,Mercedes,84.662,80.665,9.636,66,3.0,1.0,8,-1.698
+2021,Spain,Spain,VER,Red Bull Racing,84.902,78.149,10.02,66,3.0,1.0,8,-1.458
+2021,Spain,Spain,BOT,Mercedes,85.065,79.43,8.795,66,6.0,2.0,9,-1.295
+2021,Spain,Spain,LEC,Ferrari,85.489,80.459,8.768,66,4.0,2.0,20,-0.871
+2021,Spain,Spain,PER,Red Bull Racing,85.627,79.483,8.559,66,7.0,4.0,8,-0.733
+2021,Spain,Spain,GIO,Alfa Romeo Racing,85.737,82.802,3.827,64,19.0,10.0,9,-0.623
+2021,Spain,Spain,RIC,McLaren,85.78,81.853,8.522,66,8.0,4.0,16,-0.58
+2021,Spain,Spain,SAI,Ferrari,85.793,81.568,8.119,66,13.0,7.0,13,-0.567
+2021,Spain,Spain,NOR,McLaren,86.343,81.279,7.969,65,13.0,7.0,16,-0.017
+2021,Spain,Spain,OCO,Alpine,86.558,83.311,7.871,65,12.0,6.0,13,0.198
+2021,Spain,Spain,GAS,AlphaTauri,86.56,81.375,8.071,65,19.0,10.0,11,0.2
+2021,Spain,Spain,STR,Aston Martin,86.641,82.607,7.662,65,14.0,10.0,11,0.281
+2021,Spain,Spain,RAI,Alfa Romeo Racing,86.659,82.868,7.353,65,17.0,5.0,16,0.299
+2021,Spain,Spain,VET,Aston Martin,86.724,82.82,7.769,65,18.0,12.0,12,0.364
+2021,Spain,Spain,RUS,Williams,86.868,83.208,6.546,65,18.0,7.0,12,0.508
+2021,Spain,Spain,LAT,Williams,87.044,82.905,6.878,65,19.0,9.0,19,0.684
+2021,Spain,Spain,ALO,Alpine,87.049,81.182,7.895,65,17.0,9.0,7,0.689
+2021,Spain,Spain,MSC,Haas F1 Team,87.366,82.637,7.019,64,18.0,15.0,11,1.006
+2021,Spain,Spain,MAZ,Haas F1 Team,88.145,84.04,6.716,64,20.0,16.0,5,1.785
+2021,Spain,Spain,TSU,AlphaTauri,88.197,84.825,5.178,6,18.0,16.0,4,1.837
+2021,São Paulo,Brazil,HAM,Mercedes,78.068,71.982,13.016,71,6.0,1.0,7,-1.619
+2021,São Paulo,Brazil,VER,Red Bull Racing,78.216,72.486,13.222,71,4.0,1.0,10,-1.471
+2021,São Paulo,Brazil,BOT,Mercedes,78.26,72.526,12.85,71,4.0,1.0,8,-1.427
+2021,São Paulo,Brazil,PER,Red Bull Racing,78.631,71.01,13.264,71,5.0,2.0,12,-1.056
+2021,São Paulo,Brazil,LEC,Ferrari,78.766,72.822,12.634,71,9.0,4.0,14,-0.921
+2021,São Paulo,Brazil,SAI,Ferrari,78.798,72.71,12.594,71,13.0,5.0,15,-0.889
+2021,São Paulo,Brazil,GAS,AlphaTauri,79.243,73.227,12.311,70,14.0,7.0,7,-0.444
+2021,São Paulo,Brazil,OCO,Alpine,79.477,74.43,12.047,70,13.0,6.0,10,-0.21
+2021,São Paulo,Brazil,ALO,Alpine,79.484,73.922,11.949,70,14.0,5.0,8,-0.203
+2021,São Paulo,Brazil,NOR,McLaren,79.527,73.761,10.135,70,20.0,9.0,6,-0.16
+2021,São Paulo,Brazil,VET,Aston Martin,79.545,73.634,12.364,70,15.0,7.0,10,-0.142
+2021,São Paulo,Brazil,RAI,Alfa Romeo Racing,79.628,72.621,11.687,70,19.0,12.0,5,-0.059
+2021,São Paulo,Brazil,RUS,Williams,80.013,74.355,11.126,70,20.0,12.0,10,0.326
+2021,São Paulo,Brazil,GIO,Alfa Romeo Racing,80.049,74.227,11.938,70,16.0,10.0,9,0.362
+2021,São Paulo,Brazil,TSU,AlphaTauri,80.109,74.204,10.189,70,19.0,10.0,8,0.422
+2021,São Paulo,Brazil,LAT,Williams,80.167,74.616,11.657,70,19.0,16.0,12,0.48
+2021,São Paulo,Brazil,MAZ,Haas F1 Team,80.842,74.954,11.294,69,19.0,14.0,6,1.155
+2021,São Paulo,Brazil,RIC,McLaren,81.378,74.443,14.091,49,10.0,4.0,8,1.691
+2021,São Paulo,Brazil,MSC,Haas F1 Team,81.383,73.793,13.156,69,20.0,15.0,7,1.696
+2021,São Paulo,Brazil,STR,Aston Martin,82.164,75.344,13.735,47,19.0,11.0,6,2.477
+2021,Turkey,Turkey,BOT,Mercedes,94.209,90.432,2.766,58,2.0,1.0,10,-1.588
+2021,Turkey,Turkey,VER,Red Bull Racing,94.46,92.759,2.38,58,3.0,2.0,11,-1.337
+2021,Turkey,Turkey,PER,Red Bull Racing,94.786,92.459,2.596,58,6.0,3.0,12,-1.011
+2021,Turkey,Turkey,LEC,Ferrari,94.861,92.737,2.831,58,4.0,1.0,14,-0.936
+2021,Turkey,Turkey,HAM,Mercedes,94.93,92.763,2.654,58,9.0,3.0,11,-0.867
+2021,Turkey,Turkey,GAS,AlphaTauri,94.972,92.814,3.395,58,6.0,5.0,7,-0.825
+2021,Turkey,Turkey,NOR,McLaren,95.023,92.446,2.747,58,9.0,6.0,16,-0.774
+2021,Turkey,Turkey,SAI,Ferrari,95.097,91.921,3.945,58,17.0,8.0,15,-0.7
+2021,Turkey,Turkey,STR,Aston Martin,95.623,92.608,4.417,58,11.0,7.0,16,-0.174
+2021,Turkey,Turkey,VET,Aston Martin,95.713,92.73,3.069,56,19.0,10.0,15,-0.084
+2021,Turkey,Turkey,OCO,Alpine,96.05,94.584,1.632,57,12.0,8.0,11,0.253
+2021,Turkey,Turkey,GIO,Alfa Romeo Racing,96.063,92.904,2.949,57,13.0,10.0,17,0.266
+2021,Turkey,Turkey,RAI,Alfa Romeo Racing,96.151,92.586,3.029,57,14.0,12.0,15,0.354
+2021,Turkey,Turkey,RIC,McLaren,96.196,93.255,3.133,57,18.0,11.0,13,0.399
+2021,Turkey,Turkey,TSU,AlphaTauri,96.29,92.844,3.427,57,15.0,8.0,15,0.493
+2021,Turkey,Turkey,RUS,Williams,96.355,93.399,3.167,57,16.0,14.0,15,0.558
+2021,Turkey,Turkey,ALO,Alpine,96.397,93.252,3.891,57,18.0,15.0,16,0.6
+2021,Turkey,Turkey,LAT,Williams,96.493,93.672,4.225,57,20.0,16.0,10,0.696
+2021,Turkey,Turkey,MSC,Haas F1 Team,97.918,94.209,3.346,56,20.0,15.0,8,2.121
+2021,Turkey,Turkey,MAZ,Haas F1 Team,98.349,95.438,3.31,56,20.0,18.0,11,2.552
+2021,USA,Qatar,HAM,Mercedes,88.921,85.084,5.047,57,1.0,1.0,17,-1.791
+2021,USA,Qatar,VER,Red Bull Racing,89.372,83.196,6.823,57,4.0,2.0,17,-1.34
+2021,USA,Qatar,BOT,Mercedes,89.538,87.246,2.484,47,14.0,3.0,10,-1.174
+2021,USA,Qatar,ALO,Alpine,89.964,86.682,4.286,57,7.0,2.0,20,-0.748
+2021,USA,Qatar,PER,Red Bull Racing,90.014,85.613,5.029,57,12.0,3.0,13,-0.698
+2021,USA,Qatar,OCO,Alpine,90.334,87.061,4.391,57,12.0,5.0,16,-0.378
+2021,USA,Qatar,STR,Aston Martin,90.346,87.356,4.571,57,13.0,6.0,14,-0.366
+2021,USA,Qatar,SAI,Ferrari,90.358,86.57,4.428,57,10.0,4.0,28,-0.354
+2021,USA,Qatar,LEC,Ferrari,90.379,86.555,4.992,57,13.0,5.0,14,-0.333
+2021,USA,Qatar,NOR,McLaren,90.521,85.746,5.188,56,11.0,4.0,19,-0.191
+2021,USA,Qatar,VET,Aston Martin,90.608,86.434,4.905,56,17.0,9.0,20,-0.104
+2021,USA,Qatar,GAS,AlphaTauri,90.708,87.019,5.449,56,18.0,3.0,9,-0.004
+2021,USA,Qatar,RIC,McLaren,91.108,87.198,4.556,56,16.0,8.0,16,0.396
+2021,USA,Qatar,TSU,AlphaTauri,91.114,87.043,5.544,56,20.0,8.0,18,0.402
+2021,USA,Qatar,RAI,Alfa Romeo Racing,91.164,86.358,5.461,56,20.0,12.0,16,0.452
+2021,USA,Qatar,LAT,Williams,91.197,88.732,3.818,50,20.0,13.0,12,0.485
+2021,USA,Qatar,GIO,Alfa Romeo Racing,91.6,87.823,5.389,56,20.0,12.0,6,0.888
+2021,USA,Qatar,MSC,Haas F1 Team,91.628,88.412,4.61,56,20.0,14.0,16,0.916
+2021,USA,Qatar,RUS,Williams,92.482,85.768,8.986,55,20.0,13.0,14,1.77
+2021,USA,Qatar,MAZ,Haas F1 Team,92.888,87.34,4.876,55,20.0,15.0,20,2.176
+2022,Abu Dhabi,Abu Dhabi,VER,Red Bull Racing,90.792,89.392,2.828,58,2.0,1.0,8,-1.445
+2022,Abu Dhabi,Abu Dhabi,LEC,Ferrari,90.943,89.719,2.843,58,3.0,1.0,5,-1.294
+2022,Abu Dhabi,Abu Dhabi,PER,Red Bull Racing,90.966,88.972,3.941,58,6.0,2.0,9,-1.271
+2022,Abu Dhabi,Abu Dhabi,SAI,Ferrari,91.221,88.879,3.808,58,7.0,3.0,17,-1.016
+2022,Abu Dhabi,Abu Dhabi,RUS,Mercedes,91.41,88.836,4.501,58,9.0,4.0,8,-0.827
+2022,Abu Dhabi,Abu Dhabi,NOR,McLaren,91.761,88.391,3.86,58,12.0,6.0,5,-0.476
+2022,Abu Dhabi,Abu Dhabi,OCO,Alpine,91.779,89.333,3.899,58,14.0,7.0,7,-0.458
+2022,Abu Dhabi,Abu Dhabi,HAM,Mercedes,91.945,89.788,5.694,55,9.0,3.0,6,-0.292
+2022,Abu Dhabi,Abu Dhabi,STR,Aston Martin,92.118,89.62,3.764,58,19.0,8.0,6,-0.119
+2022,Abu Dhabi,Abu Dhabi,RIC,McLaren,92.227,90.785,3.01,58,18.0,8.0,8,-0.01
+2022,Abu Dhabi,Abu Dhabi,VET,Aston Martin,92.238,90.312,3.109,58,19.0,4.0,6,0.001
+2022,Abu Dhabi,Abu Dhabi,TSU,AlphaTauri,92.333,89.489,3.981,58,16.0,10.0,6,0.096
+2022,Abu Dhabi,Abu Dhabi,ZHO,Alfa Romeo,92.719,89.6,4.128,57,17.0,10.0,10,0.482
+2022,Abu Dhabi,Abu Dhabi,ALB,Williams,92.734,89.939,3.967,57,20.0,11.0,8,0.497
+2022,Abu Dhabi,Abu Dhabi,GAS,AlphaTauri,92.745,91.018,2.999,57,20.0,13.0,4,0.508
+2022,Abu Dhabi,Abu Dhabi,BOT,Alfa Romeo,92.906,90.352,3.302,57,20.0,10.0,9,0.669
+2022,Abu Dhabi,Abu Dhabi,MSC,Haas F1 Team,93.07,89.833,4.189,57,19.0,13.0,8,0.833
+2022,Abu Dhabi,Abu Dhabi,ALO,Alpine,93.095,90.579,3.797,27,14.0,6.0,5,0.858
+2022,Abu Dhabi,Abu Dhabi,MAG,Haas F1 Team,93.274,91.158,3.064,57,19.0,10.0,6,1.037
+2022,Abu Dhabi,Abu Dhabi,LAT,Williams,94.473,90.309,6.844,55,20.0,16.0,7,2.236
+2022,Australia,Australia,LEC,Ferrari,88.38,80.26,15.665,56,1.0,1.0,16,-3.288
+2022,Australia,Australia,PER,Red Bull Racing,90.01,81.094,16.281,57,7.0,2.0,17,-1.658
+2022,Australia,Australia,RUS,Mercedes,90.062,81.495,16.677,57,5.0,2.0,15,-1.606
+2022,Australia,Australia,HAM,Mercedes,90.181,81.886,16.455,57,6.0,2.0,19,-1.487
+2022,Australia,Australia,NOR,McLaren,90.652,82.248,15.805,57,10.0,5.0,19,-1.016
+2022,Australia,Australia,RIC,McLaren,90.692,82.451,15.683,57,9.0,4.0,15,-0.976
+2022,Australia,Australia,BOT,Alfa Romeo,90.96,81.651,15.095,57,14.0,6.0,13,-0.708
+2022,Australia,Australia,GAS,AlphaTauri,91.095,82.731,14.877,57,15.0,8.0,13,-0.573
+2022,Australia,Australia,STR,Aston Martin,91.22,83.592,14.773,57,19.0,9.0,17,-0.448
+2022,Australia,Australia,MAG,Haas F1 Team,91.368,83.071,16.055,56,17.0,7.0,12,-0.3
+2022,Australia,Australia,MSC,Haas F1 Team,91.403,83.006,14.767,56,18.0,12.0,12,-0.265
+2022,Australia,Australia,TSU,AlphaTauri,91.474,83.342,14.779,56,17.0,11.0,13,-0.194
+2022,Australia,Australia,VER,Red Bull Racing,91.534,81.677,18.232,36,7.0,2.0,11,-0.134
+2022,Australia,Australia,ALO,Alpine,91.784,80.846,16.457,56,17.0,4.0,17,0.116
+2022,Australia,Australia,OCO,Alpine,91.866,82.469,17.178,58,17.0,7.0,15,0.198
+2022,Australia,Australia,ALB,Williams,92.171,82.589,16.913,58,20.0,7.0,18,0.503
+2022,Australia,Australia,ZHO,Alfa Romeo,92.211,82.541,16.31,58,18.0,11.0,14,0.543
+2022,Australia,Australia,LAT,Williams,92.579,83.882,15.692,57,19.0,16.0,18,0.911
+2022,Australia,Australia,VET,Aston Martin,94.697,85.189,16.704,22,19.0,12.0,8,3.029
+2022,Australia,Australia,SAI,Ferrari,99.028,99.028,,1,14.0,14.0,0,7.36
+2022,Austria,Austria,LEC,Ferrari,71.328,67.583,5.5,71,3.0,1.0,7,-1.274
+2022,Austria,Austria,VER,Red Bull Racing,71.35,67.275,5.47,71,7.0,1.0,10,-1.252
+2022,Austria,Austria,SAI,Ferrari,71.37,69.358,3.315,51,3.0,1.0,5,-1.232
+2022,Austria,Austria,HAM,Mercedes,71.909,69.0,4.597,71,8.0,3.0,12,-0.693
+2022,Austria,Austria,OCO,Alpine,72.154,70.737,2.762,44,10.0,3.0,4,-0.448
+2022,Austria,Austria,MSC,Haas F1 Team,72.233,70.479,2.956,43,14.0,5.0,4,-0.369
+2022,Austria,Austria,NOR,McLaren,72.325,70.522,2.979,43,13.0,7.0,5,-0.277
+2022,Austria,Austria,MAG,Haas F1 Team,72.38,70.431,2.948,41,12.0,4.0,5,-0.222
+2022,Austria,Austria,RUS,Mercedes,72.39,70.199,5.389,40,19.0,4.0,3,-0.212
+2022,Austria,Austria,RIC,McLaren,72.449,70.664,2.783,44,14.0,6.0,6,-0.153
+2022,Austria,Austria,ALO,Alpine,72.611,68.558,6.008,70,18.0,5.0,10,0.009
+2022,Austria,Austria,GAS,AlphaTauri,72.746,70.858,3.313,40,17.0,12.0,6,0.144
+2022,Austria,Austria,STR,Aston Martin,72.768,70.004,4.497,70,15.0,5.0,11,0.166
+2022,Austria,Austria,ZHO,Alfa Romeo,72.793,69.38,5.055,70,19.0,7.0,9,0.191
+2022,Austria,Austria,TSU,AlphaTauri,72.921,70.023,4.504,70,18.0,6.0,9,0.319
+2022,Austria,Austria,ALB,Williams,72.997,70.859,3.856,42,17.0,10.0,8,0.395
+2022,Austria,Austria,BOT,Alfa Romeo,73.144,70.604,4.379,40,19.0,13.0,6,0.542
+2022,Austria,Austria,LAT,Williams,73.168,70.89,3.275,35,19.0,15.0,5,0.566
+2022,Austria,Austria,VET,Aston Martin,73.307,70.467,4.351,45,19.0,9.0,5,0.705
+2022,Austria,Austria,PER,Red Bull Racing,75.696,71.843,8.905,24,20.0,20.0,3,3.094
+2022,Azerbaijan,Azerbaijan,VER,Red Bull Racing,109.642,106.05,5.757,50,3.0,1.0,7,-2.253
+2022,Azerbaijan,Azerbaijan,SAI,Ferrari,109.806,108.978,1.845,8,4.0,4.0,2,-2.089
+2022,Azerbaijan,Azerbaijan,PER,Red Bull Racing,110.042,106.046,6.194,50,3.0,1.0,5,-1.853
+2022,Azerbaijan,Azerbaijan,RUS,Mercedes,110.547,107.177,6.249,50,5.0,3.0,14,-1.348
+2022,Azerbaijan,Azerbaijan,HAM,Mercedes,111.071,107.044,6.704,50,11.0,4.0,14,-0.824
+2022,Azerbaijan,Azerbaijan,GAS,AlphaTauri,111.431,108.519,6.4,50,8.0,4.0,10,-0.464
+2022,Azerbaijan,Azerbaijan,BOT,Alfa Romeo,111.455,108.179,4.645,48,17.0,11.0,17,-0.44
+2022,Azerbaijan,Azerbaijan,RIC,McLaren,111.509,108.276,5.977,50,12.0,4.0,12,-0.386
+2022,Azerbaijan,Azerbaijan,VET,Aston Martin,111.57,108.206,6.723,50,12.0,6.0,13,-0.325
+2022,Azerbaijan,Azerbaijan,ALO,Alpine,111.644,107.989,6.313,50,15.0,5.0,13,-0.251
+2022,Azerbaijan,Azerbaijan,OCO,Alpine,111.966,108.297,6.561,50,13.0,7.0,12,0.071
+2022,Azerbaijan,Azerbaijan,ALB,Williams,112.231,107.966,7.227,49,17.0,12.0,15,0.336
+2022,Azerbaijan,Azerbaijan,TSU,AlphaTauri,112.315,107.523,8.553,49,13.0,5.0,14,0.42
+2022,Azerbaijan,Azerbaijan,LEC,Ferrari,112.386,107.531,10.452,20,17.0,1.0,6,0.491
+2022,Azerbaijan,Azerbaijan,NOR,McLaren,112.52,107.997,8.406,51,16.0,5.0,12,0.625
+2022,Azerbaijan,Azerbaijan,MAG,Haas F1 Team,112.623,108.789,6.764,31,18.0,10.0,7,0.728
+2022,Azerbaijan,Azerbaijan,MSC,Haas F1 Team,113.077,108.41,7.341,49,20.0,14.0,11,1.182
+2022,Azerbaijan,Azerbaijan,STR,Aston Martin,113.465,108.038,6.682,45,18.0,13.0,12,1.57
+2022,Azerbaijan,Azerbaijan,LAT,Williams,114.209,109.583,7.373,49,20.0,15.0,11,2.314
+2022,Azerbaijan,Azerbaijan,ZHO,Alfa Romeo,114.383,108.723,9.256,23,16.0,10.0,5,2.488
+2022,Bahrain,Bahrain,LEC,Ferrari,100.698,94.57,10.234,55,3.0,1.0,6,-2.177
+2022,Bahrain,Bahrain,GAS,AlphaTauri,100.781,97.324,4.704,44,12.0,7.0,4,-2.094
+2022,Bahrain,Bahrain,RUS,Mercedes,102.04,96.302,9.223,56,7.0,3.0,8,-0.835
+2022,Bahrain,Bahrain,ZHO,Alfa Romeo,102.161,96.685,7.059,56,19.0,8.0,4,-0.714
+2022,Bahrain,Bahrain,VER,Red Bull Racing,102.753,95.44,11.989,53,13.0,2.0,6,-0.122
+2022,Bahrain,Bahrain,SAI,Ferrari,102.793,95.74,12.015,57,5.0,1.0,6,-0.082
+2022,Bahrain,Bahrain,HAM,Mercedes,102.864,96.228,11.191,57,12.0,3.0,10,-0.011
+2022,Bahrain,Bahrain,MAG,Haas F1 Team,102.953,96.623,9.737,57,10.0,5.0,6,0.078
+2022,Bahrain,Bahrain,PER,Red Bull Racing,102.956,96.089,11.754,56,6.0,2.0,5,0.081
+2022,Bahrain,Bahrain,BOT,Alfa Romeo,102.977,96.599,9.828,57,17.0,6.0,9,0.102
+2022,Bahrain,Bahrain,OCO,Alpine,103.035,97.11,9.033,57,16.0,7.0,8,0.16
+2022,Bahrain,Bahrain,TSU,AlphaTauri,103.052,97.104,9.675,57,14.0,7.0,9,0.177
+2022,Bahrain,Bahrain,ALO,Alpine,103.087,96.733,8.362,57,20.0,9.0,6,0.212
+2022,Bahrain,Bahrain,MSC,Haas F1 Team,103.266,96.956,8.202,57,20.0,10.0,3,0.391
+2022,Bahrain,Bahrain,STR,Aston Martin,103.499,97.146,9.788,57,19.0,10.0,6,0.624
+2022,Bahrain,Bahrain,ALB,Williams,103.641,97.355,8.809,57,20.0,11.0,6,0.766
+2022,Bahrain,Bahrain,RIC,McLaren,103.659,97.261,8.986,57,20.0,14.0,7,0.784
+2022,Bahrain,Bahrain,NOR,McLaren,103.683,96.988,8.5,57,20.0,13.0,9,0.808
+2022,Bahrain,Bahrain,LAT,Williams,103.779,98.251,7.987,57,20.0,16.0,6,0.904
+2022,Bahrain,Bahrain,HUL,Aston Martin,103.814,98.201,8.503,57,20.0,12.0,7,0.939
+2022,Belgium,Belgium,VER,Red Bull Racing,114.105,109.354,5.209,42,8.0,1.0,6,-2.357
+2022,Belgium,Belgium,PER,Red Bull Racing,114.246,110.764,4.19,42,3.0,1.0,5,-2.216
+2022,Belgium,Belgium,SAI,Ferrari,114.391,111.977,4.13,42,5.0,1.0,4,-2.071
+2022,Belgium,Belgium,RUS,Mercedes,114.595,110.793,4.53,42,6.0,2.0,7,-1.867
+2022,Belgium,Belgium,LEC,Ferrari,115.698,109.984,5.421,42,17.0,4.0,9,-0.764
+2022,Belgium,Belgium,ALO,Alpine,115.718,112.868,4.608,42,13.0,4.0,7,-0.744
+2022,Belgium,Belgium,GAS,AlphaTauri,115.73,113.002,3.622,41,19.0,7.0,3,-0.732
+2022,Belgium,Belgium,VET,Aston Martin,115.897,112.515,4.881,42,10.0,4.0,6,-0.565
+2022,Belgium,Belgium,OCO,Alpine,115.987,111.717,5.469,42,16.0,6.0,8,-0.475
+2022,Belgium,Belgium,LAT,Williams,116.504,112.256,3.895,40,18.0,11.0,6,0.042
+2022,Belgium,Belgium,ALB,Williams,116.506,113.055,4.942,42,17.0,7.0,5,0.044
+2022,Belgium,Belgium,RIC,McLaren,116.618,113.08,4.695,42,15.0,6.0,6,0.156
+2022,Belgium,Belgium,STR,Aston Martin,116.623,112.88,5.447,42,17.0,6.0,6,0.161
+2022,Belgium,Belgium,NOR,McLaren,116.727,111.678,5.689,42,17.0,9.0,5,0.265
+2022,Belgium,Belgium,ZHO,Alfa Romeo,116.796,112.317,5.888,42,17.0,8.0,4,0.334
+2022,Belgium,Belgium,TSU,AlphaTauri,116.853,112.436,6.826,42,18.0,7.0,5,0.391
+2022,Belgium,Belgium,MAG,Haas F1 Team,116.969,113.332,5.534,41,18.0,10.0,6,0.507
+2022,Belgium,Belgium,MSC,Haas F1 Team,117.157,112.212,6.276,41,18.0,13.0,7,0.695
+2022,Belgium,Belgium,BOT,Alfa Romeo,125.651,125.651,,1,14.0,14.0,0,9.189
+2022,Britain,Great Britain,SAI,Ferrari,94.323,90.813,8.115,47,3.0,1.0,10,-4.307
+2022,Britain,Great Britain,HAM,Mercedes,95.492,90.51,11.213,48,6.0,1.0,20,-3.138
+2022,Britain,Great Britain,LEC,Ferrari,95.701,91.282,11.656,48,4.0,1.0,14,-2.929
+2022,Britain,Great Britain,PER,Red Bull Racing,97.31,90.937,14.098,49,17.0,2.0,14,-1.32
+2022,Britain,Great Britain,NOR,McLaren,97.426,91.645,12.341,49,7.0,4.0,20,-1.204
+2022,Britain,Great Britain,VER,Red Bull Racing,97.747,92.135,11.374,49,10.0,1.0,5,-0.883
+2022,Britain,Great Britain,ALO,Alpine,98.378,91.609,13.84,50,8.0,5.0,20,-0.252
+2022,Britain,Great Britain,VET,Aston Martin,98.757,92.471,14.287,50,17.0,7.0,20,0.127
+2022,Britain,Great Britain,MSC,Haas F1 Team,98.782,92.109,14.874,50,17.0,8.0,15,0.152
+2022,Britain,Great Britain,MAG,Haas F1 Team,98.852,92.661,13.354,50,15.0,8.0,18,0.222
+2022,Britain,Great Britain,RIC,McLaren,98.921,92.644,13.481,50,14.0,9.0,12,0.291
+2022,Britain,Great Britain,STR,Aston Martin,99.87,92.379,14.796,51,17.0,9.0,21,1.24
+2022,Britain,Great Britain,LAT,Williams,100.09,93.286,14.151,51,13.0,8.0,14,1.46
+2022,Britain,Great Britain,GAS,AlphaTauri,100.909,94.275,16.519,25,16.0,7.0,4,2.279
+2022,Britain,Great Britain,TSU,AlphaTauri,101.232,93.832,19.644,51,17.0,8.0,13,2.602
+2022,Britain,Great Britain,BOT,Alfa Romeo,101.372,95.103,16.948,19,13.0,9.0,8,2.742
+2022,Britain,Great Britain,OCO,Alpine,101.551,93.537,31.588,36,17.0,7.0,16,2.921
+2022,Canada,Canada,PER,Red Bull Racing,81.366,78.844,4.403,7,11.0,10.0,5,-1.524
+2022,Canada,Canada,TSU,AlphaTauri,81.897,78.309,7.776,47,19.0,10.0,7,-0.993
+2022,Canada,Canada,VER,Red Bull Racing,82.597,75.839,14.111,70,3.0,1.0,18,-0.293
+2022,Canada,Canada,SAI,Ferrari,82.611,75.749,14.182,70,3.0,1.0,12,-0.279
+2022,Canada,Canada,HAM,Mercedes,82.697,76.167,13.141,70,6.0,3.0,16,-0.193
+2022,Canada,Canada,RUS,Mercedes,82.772,76.418,12.436,70,7.0,3.0,20,-0.118
+2022,Canada,Canada,LEC,Ferrari,82.813,75.901,11.27,70,18.0,5.0,15,-0.077
+2022,Canada,Canada,MSC,Haas F1 Team,82.867,78.967,8.351,18,8.0,7.0,4,-0.023
+2022,Canada,Canada,OCO,Alpine,82.938,77.11,11.893,70,7.0,5.0,12,0.048
+2022,Canada,Canada,ALO,Alpine,82.953,77.01,11.801,70,7.0,2.0,9,0.063
+2022,Canada,Canada,BOT,Alfa Romeo,82.957,76.927,11.315,70,13.0,6.0,15,0.067
+2022,Canada,Canada,ZHO,Alfa Romeo,82.982,76.578,10.937,70,10.0,8.0,11,0.092
+2022,Canada,Canada,STR,Aston Martin,83.143,77.421,10.21,70,17.0,8.0,14,0.253
+2022,Canada,Canada,RIC,McLaren,83.211,77.932,10.593,70,12.0,9.0,9,0.321
+2022,Canada,Canada,VET,Aston Martin,83.229,77.956,10.253,70,19.0,9.0,7,0.339
+2022,Canada,Canada,ALB,Williams,83.238,77.951,9.774,70,17.0,10.0,10,0.348
+2022,Canada,Canada,GAS,AlphaTauri,83.242,77.81,9.743,70,20.0,13.0,11,0.352
+2022,Canada,Canada,NOR,McLaren,83.27,77.495,10.438,70,18.0,12.0,14,0.38
+2022,Canada,Canada,LAT,Williams,83.453,78.54,8.669,70,20.0,16.0,11,0.563
+2022,Canada,Canada,MAG,Haas F1 Team,83.571,78.046,10.381,70,20.0,5.0,4,0.681
+2022,Emilia Romagna,Italy,VER,Red Bull Racing,87.746,78.446,14.567,63,1.0,1.0,20,-2.847
+2022,Emilia Romagna,Italy,PER,Red Bull Racing,88.008,78.949,14.592,63,4.0,2.0,21,-2.585
+2022,Emilia Romagna,Italy,NOR,McLaren,88.299,80.903,14.167,63,4.0,3.0,21,-2.294
+2022,Emilia Romagna,Italy,GAS,AlphaTauri,88.389,81.713,11.976,61,16.0,12.0,18,-2.204
+2022,Emilia Romagna,Italy,ALB,Williams,88.391,81.757,12.068,61,17.0,12.0,28,-2.202
+2022,Emilia Romagna,Italy,RUS,Mercedes,88.421,80.962,14.164,63,6.0,4.0,25,-2.172
+2022,Emilia Romagna,Italy,BOT,Alfa Romeo,88.431,80.758,14.603,63,7.0,5.0,23,-2.162
+2022,Emilia Romagna,Italy,LAT,Williams,88.578,81.338,12.351,61,16.0,12.0,25,-2.015
+2022,Emilia Romagna,Italy,LEC,Ferrari,88.636,78.574,14.865,63,9.0,2.0,21,-1.957
+2022,Emilia Romagna,Italy,TSU,AlphaTauri,88.716,80.544,14.402,63,10.0,6.0,22,-1.877
+2022,Emilia Romagna,Italy,VET,Aston Martin,88.871,81.211,14.167,63,15.0,7.0,31,-1.722
+2022,Emilia Romagna,Italy,MSC,Haas F1 Team,88.877,78.999,12.693,61,18.0,14.0,21,-1.716
+2022,Emilia Romagna,Italy,MAG,Haas F1 Team,88.94,81.238,14.37,63,9.0,5.0,23,-1.653
+2022,Emilia Romagna,Italy,RIC,McLaren,89.187,81.577,12.508,61,19.0,15.0,23,-1.406
+2022,Emilia Romagna,Italy,STR,Aston Martin,89.311,81.75,14.288,62,11.0,9.0,23,-1.282
+2022,Emilia Romagna,Italy,OCO,Alpine,89.36,81.887,14.283,62,13.0,11.0,22,-1.233
+2022,Emilia Romagna,Italy,HAM,Mercedes,89.408,81.419,14.4,62,14.0,10.0,21,-1.185
+2022,Emilia Romagna,Italy,ZHO,Alfa Romeo,89.538,81.286,14.673,62,18.0,13.0,20,-1.055
+2022,Emilia Romagna,Italy,ALO,Alpine,124.153,99.685,20.259,6,19.0,8.0,4,33.56
+2022,France,France,LEC,Ferrari,99.114,98.088,1.145,17,1.0,1.0,2,-3.392
+2022,France,France,VER,Red Bull Racing,99.867,97.491,5.829,51,6.0,1.0,6,-2.639
+2022,France,France,HAM,Mercedes,100.921,97.668,9.029,52,3.0,1.0,7,-1.585
+2022,France,France,RUS,Mercedes,101.079,97.548,8.688,52,6.0,3.0,8,-1.427
+2022,France,France,PER,Red Bull Racing,101.127,97.78,9.198,52,4.0,3.0,6,-1.379
+2022,France,France,ALO,Alpine,101.755,98.16,8.159,52,6.0,5.0,7,-0.751
+2022,France,France,VET,Aston Martin,102.033,99.044,6.566,52,13.0,6.0,10,-0.473
+2022,France,France,SAI,Ferrari,102.471,95.781,10.664,53,18.0,3.0,10,-0.035
+2022,France,France,NOR,McLaren,102.908,98.985,10.159,53,7.0,6.0,10,0.402
+2022,France,France,OCO,Alpine,103.001,98.684,9.877,53,11.0,8.0,10,0.495
+2022,France,France,RIC,McLaren,103.066,99.133,9.56,53,10.0,7.0,8,0.56
+2022,France,France,STR,Aston Martin,103.107,99.185,9.53,53,12.0,10.0,13,0.601
+2022,France,France,GAS,AlphaTauri,103.162,98.786,9.047,53,16.0,12.0,12,0.656
+2022,France,France,ALB,Williams,103.22,99.199,9.214,53,14.0,11.0,12,0.714
+2022,France,France,BOT,Alfa Romeo,103.373,97.963,9.303,53,17.0,13.0,11,0.867
+2022,France,France,MSC,Haas F1 Team,103.444,99.068,9.249,53,19.0,14.0,10,0.938
+2022,France,France,LAT,Williams,103.61,99.65,8.873,39,18.0,8.0,11,1.104
+2022,France,France,MAG,Haas F1 Team,103.979,99.265,10.248,37,20.0,12.0,3,1.473
+2022,France,France,TSU,AlphaTauri,104.396,100.216,7.505,17,20.0,17.0,2,1.89
+2022,France,France,ZHO,Alfa Romeo,104.491,99.368,9.879,47,20.0,16.0,7,1.985
+2022,Hungary,Hungary,VER,Red Bull Racing,85.37,82.126,5.646,70,8.0,1.0,9,-1.297
+2022,Hungary,Hungary,HAM,Mercedes,85.482,81.386,5.748,70,7.0,1.0,11,-1.185
+2022,Hungary,Hungary,RUS,Mercedes,85.546,82.766,5.409,70,6.0,1.0,9,-1.121
+2022,Hungary,Hungary,SAI,Ferrari,85.578,82.0,5.733,70,6.0,1.0,6,-1.089
+2022,Hungary,Hungary,PER,Red Bull Racing,85.594,81.94,6.023,70,10.0,3.0,9,-1.073
+2022,Hungary,Hungary,LEC,Ferrari,85.599,81.622,6.192,70,6.0,1.0,6,-1.068
+2022,Hungary,Hungary,BOT,Alfa Romeo,86.481,84.002,4.8,65,15.0,8.0,9,-0.186
+2022,Hungary,Hungary,NOR,McLaren,86.489,83.043,5.973,70,16.0,4.0,7,-0.178
+2022,Hungary,Hungary,ALO,Alpine,86.726,83.979,5.265,69,12.0,6.0,7,0.059
+2022,Hungary,Hungary,OCO,Alpine,86.768,84.149,5.34,69,12.0,4.0,7,0.101
+2022,Hungary,Hungary,VET,Aston Martin,86.77,82.824,5.989,69,18.0,10.0,10,0.103
+2022,Hungary,Hungary,STR,Aston Martin,86.88,82.437,6.232,69,18.0,8.0,11,0.213
+2022,Hungary,Hungary,GAS,AlphaTauri,87.068,83.199,6.165,69,20.0,12.0,13,0.401
+2022,Hungary,Hungary,RIC,McLaren,87.135,83.59,6.101,69,16.0,7.0,9,0.468
+2022,Hungary,Hungary,ZHO,Alfa Romeo,87.147,82.029,6.554,69,19.0,8.0,11,0.48
+2022,Hungary,Hungary,MSC,Haas F1 Team,87.151,83.151,6.029,69,17.0,8.0,7,0.484
+2022,Hungary,Hungary,MAG,Haas F1 Team,87.564,83.511,6.852,69,20.0,10.0,7,0.897
+2022,Hungary,Hungary,ALB,Williams,87.577,83.047,6.682,69,20.0,12.0,6,0.91
+2022,Hungary,Hungary,LAT,Williams,87.752,82.478,6.869,69,20.0,13.0,12,1.085
+2022,Hungary,Hungary,TSU,AlphaTauri,88.658,83.538,8.012,68,20.0,14.0,10,1.991
+2022,Italy,Italy,RIC,McLaren,88.489,86.603,4.668,45,12.0,3.0,7,-2.52
+2022,Italy,Italy,ALO,Alpine,88.784,87.203,4.217,31,8.0,6.0,4,-2.225
+2022,Italy,Italy,VET,Aston Martin,88.823,87.501,2.087,10,13.0,10.0,3,-2.186
+2022,Italy,Italy,STR,Aston Martin,89.491,87.467,4.989,39,19.0,10.0,6,-1.518
+2022,Italy,Italy,RUS,Mercedes,89.939,85.288,10.901,52,4.0,2.0,7,-1.07
+2022,Italy,Italy,VER,Red Bull Racing,91.085,84.745,14.431,53,4.0,1.0,9,0.076
+2022,Italy,Italy,LEC,Ferrari,91.131,84.336,13.835,53,3.0,1.0,10,0.122
+2022,Italy,Italy,SAI,Ferrari,91.181,84.42,13.215,53,16.0,3.0,11,0.172
+2022,Italy,Italy,HAM,Mercedes,91.187,84.434,11.191,53,19.0,5.0,15,0.178
+2022,Italy,Italy,PER,Red Bull Racing,91.2,84.03,10.654,53,20.0,5.0,12,0.191
+2022,Italy,Italy,NOR,McLaren,91.202,84.718,11.227,53,9.0,4.0,14,0.193
+2022,Italy,Italy,GAS,AlphaTauri,91.206,86.718,9.488,53,16.0,5.0,9,0.197
+2022,Italy,Italy,DEV,Williams,91.219,86.624,9.457,53,14.0,8.0,10,0.21
+2022,Italy,Italy,ZHO,Alfa Romeo,91.234,86.361,9.366,53,17.0,9.0,7,0.225
+2022,Italy,Italy,OCO,Alpine,91.242,86.593,9.168,53,16.0,10.0,15,0.233
+2022,Italy,Italy,MSC,Haas F1 Team,91.246,85.298,8.942,53,19.0,8.0,9,0.237
+2022,Italy,Italy,BOT,Alfa Romeo,92.845,85.706,13.051,52,20.0,7.0,14,1.836
+2022,Italy,Italy,TSU,AlphaTauri,92.863,86.857,13.563,52,18.0,12.0,10,1.854
+2022,Italy,Italy,LAT,Williams,92.89,86.798,13.152,52,19.0,14.0,7,1.881
+2022,Italy,Italy,MAG,Haas F1 Team,92.926,86.798,13.135,52,19.0,11.0,9,1.917
+2022,Japan,Japan,VER,Red Bull Racing,109.074,104.911,5.732,24,4.0,1.0,3,-3.228
+2022,Japan,Japan,LEC,Ferrari,110.268,104.489,6.004,24,5.0,2.0,3,-2.034
+2022,Japan,Japan,PER,Red Bull Racing,110.338,106.12,6.251,24,7.0,3.0,4,-1.964
+2022,Japan,Japan,OCO,Alpine,111.059,106.559,6.775,24,8.0,4.0,4,-1.243
+2022,Japan,Japan,HAM,Mercedes,111.227,105.53,7.446,24,9.0,5.0,3,-1.075
+2022,Japan,Japan,ALO,Alpine,111.572,104.412,8.65,24,9.0,1.0,8,-0.73
+2022,Japan,Japan,RUS,Mercedes,111.736,107.004,8.942,24,14.0,7.0,7,-0.566
+2022,Japan,Japan,VET,Aston Martin,112.043,106.964,11.837,24,17.0,6.0,3,-0.259
+2022,Japan,Japan,RIC,McLaren,112.861,107.843,8.776,24,15.0,3.0,4,0.559
+2022,Japan,Japan,LAT,Williams,112.907,108.371,11.173,24,18.0,8.0,2,0.605
+2022,Japan,Japan,NOR,McLaren,113.003,108.175,10.147,24,17.0,9.0,1,0.701
+2022,Japan,Japan,TSU,AlphaTauri,113.057,105.893,9.717,24,16.0,9.0,3,0.755
+2022,Japan,Japan,STR,Aston Martin,113.06,105.205,10.087,24,16.0,11.0,3,0.758
+2022,Japan,Japan,MAG,Haas F1 Team,113.604,108.072,9.798,24,17.0,11.0,3,1.302
+2022,Japan,Japan,BOT,Alfa Romeo,113.642,107.82,10.542,24,18.0,13.0,3,1.34
+2022,Japan,Japan,MSC,Haas F1 Team,113.788,106.545,8.984,24,18.0,2.0,4,1.486
+2022,Japan,Japan,ZHO,Alfa Romeo,114.031,104.411,12.962,24,18.0,6.0,5,1.729
+2022,Japan,Japan,GAS,AlphaTauri,114.168,105.387,13.448,24,18.0,14.0,6,1.866
+2022,Mexico City,Mexico,VER,Red Bull Racing,83.334,82.046,2.673,71,3.0,1.0,11,-1.565
+2022,Mexico City,Mexico,HAM,Mercedes,83.548,82.062,2.839,71,3.0,1.0,7,-1.351
+2022,Mexico City,Mexico,PER,Red Bull Racing,83.589,81.775,3.068,71,6.0,3.0,7,-1.31
+2022,Mexico City,Mexico,RUS,Mercedes,84.03,80.153,4.159,71,4.0,1.0,10,-0.869
+2022,Mexico City,Mexico,SAI,Ferrari,84.153,82.199,3.212,71,9.0,4.0,8,-0.746
+2022,Mexico City,Mexico,LEC,Ferrari,84.303,82.603,3.124,71,11.0,5.0,7,-0.596
+2022,Mexico City,Mexico,RIC,McLaren,84.847,82.022,3.011,70,13.0,7.0,10,-0.052
+2022,Mexico City,Mexico,ALO,Alpine,84.922,82.866,2.78,63,9.0,5.0,15,0.023
+2022,Mexico City,Mexico,OCO,Alpine,85.021,83.279,3.017,70,13.0,7.0,15,0.122
+2022,Mexico City,Mexico,NOR,McLaren,85.082,83.402,3.101,70,15.0,8.0,15,0.183
+2022,Mexico City,Mexico,BOT,Alfa Romeo,85.13,83.363,3.257,70,11.0,6.0,11,0.231
+2022,Mexico City,Mexico,GAS,AlphaTauri,85.139,82.277,3.847,70,16.0,11.0,7,0.24
+2022,Mexico City,Mexico,ALB,Williams,85.166,82.914,3.348,70,19.0,11.0,12,0.267
+2022,Mexico City,Mexico,ZHO,Alfa Romeo,85.325,82.26,3.223,70,16.0,9.0,5,0.426
+2022,Mexico City,Mexico,VET,Aston Martin,85.375,83.086,3.259,70,16.0,11.0,7,0.476
+2022,Mexico City,Mexico,STR,Aston Martin,85.524,82.463,4.057,70,20.0,15.0,12,0.625
+2022,Mexico City,Mexico,TSU,AlphaTauri,85.627,83.403,4.337,50,16.0,11.0,7,0.728
+2022,Mexico City,Mexico,MSC,Haas F1 Team,85.652,83.641,3.374,70,19.0,16.0,8,0.753
+2022,Mexico City,Mexico,MAG,Haas F1 Team,85.673,83.3,3.505,70,20.0,17.0,18,0.774
+2022,Mexico City,Mexico,LAT,Williams,86.546,83.709,4.056,69,20.0,18.0,12,1.647
+2022,Miami,United States,VER,Red Bull Racing,94.917,91.361,7.435,53,2.0,1.0,20,-3.266
+2022,Miami,United States,NOR,McLaren,96.14,93.411,3.505,39,16.0,7.0,13,-2.043
+2022,Miami,United States,LEC,Ferrari,96.148,91.488,10.425,54,4.0,1.0,15,-2.035
+2022,Miami,United States,TSU,AlphaTauri,96.492,93.035,3.901,54,19.0,10.0,19,-1.691
+2022,Miami,United States,SAI,Ferrari,97.435,91.79,11.999,55,3.0,1.0,18,-0.748
+2022,Miami,United States,PER,Red Bull Racing,97.519,91.819,11.34,55,4.0,3.0,12,-0.664
+2022,Miami,United States,GAS,AlphaTauri,97.573,94.487,6.221,42,18.0,6.0,12,-0.61
+2022,Miami,United States,HAM,Mercedes,97.716,92.941,10.302,55,8.0,5.0,16,-0.467
+2022,Miami,United States,RUS,Mercedes,97.77,92.195,10.454,55,15.0,5.0,18,-0.413
+2022,Miami,United States,BOT,Alfa Romeo,97.829,93.184,10.468,55,7.0,5.0,13,-0.354
+2022,Miami,United States,LAT,Williams,98.211,94.169,5.93,55,19.0,14.0,15,0.028
+2022,Miami,United States,ALO,Alpine,98.935,93.331,10.933,56,13.0,7.0,16,0.752
+2022,Miami,United States,OCO,Alpine,98.938,93.163,10.894,56,18.0,8.0,23,0.755
+2022,Miami,United States,ALB,Williams,99.0,93.447,10.136,56,19.0,10.0,16,0.817
+2022,Miami,United States,RIC,McLaren,99.068,93.265,9.978,56,17.0,8.0,15,0.885
+2022,Miami,United States,STR,Aston Martin,99.08,93.312,10.574,56,19.0,10.0,22,0.897
+2022,Miami,United States,MAG,Haas F1 Team,99.197,93.511,10.46,55,18.0,10.0,12,1.014
+2022,Miami,United States,MSC,Haas F1 Team,99.741,92.528,11.174,56,18.0,9.0,16,1.558
+2022,Miami,United States,VET,Aston Martin,99.787,93.479,11.016,53,20.0,9.0,17,1.604
+2022,Miami,United States,ZHO,Alfa Romeo,102.172,95.731,10.249,6,20.0,14.0,3,3.989
+2022,Monaco,Monaco,PER,Red Bull Racing,89.495,76.028,16.911,62,5.0,1.0,24,-3.722
+2022,Monaco,Monaco,SAI,Ferrari,89.518,76.421,16.686,62,3.0,1.0,31,-3.699
+2022,Monaco,Monaco,VER,Red Bull Racing,89.52,76.052,16.988,62,4.0,2.0,29,-3.697
+2022,Monaco,Monaco,LEC,Ferrari,89.541,76.249,16.82,62,4.0,1.0,26,-3.676
+2022,Monaco,Monaco,NOR,McLaren,90.59,74.693,17.917,63,7.0,4.0,25,-2.627
+2022,Monaco,Monaco,GAS,AlphaTauri,90.652,77.344,17.296,62,18.0,10.0,23,-2.565
+2022,Monaco,Monaco,RUS,Mercedes,90.658,76.83,18.169,63,6.0,5.0,29,-2.559
+2022,Monaco,Monaco,ALO,Alpine,91.134,75.882,17.14,63,7.0,6.0,34,-2.083
+2022,Monaco,Monaco,HAM,Mercedes,91.156,77.203,17.078,63,9.0,8.0,25,-2.061
+2022,Monaco,Monaco,OCO,Alpine,91.18,77.571,17.069,63,10.0,8.0,32,-2.037
+2022,Monaco,Monaco,BOT,Alfa Romeo,91.49,77.6,17.415,63,14.0,10.0,36,-1.727
+2022,Monaco,Monaco,VET,Aston Martin,91.683,77.558,17.471,63,16.0,9.0,29,-1.534
+2022,Monaco,Monaco,RIC,McLaren,91.763,77.532,17.853,63,16.0,12.0,33,-1.454
+2022,Monaco,Monaco,LAT,Williams,92.03,78.579,21.034,62,20.0,15.0,21,-1.187
+2022,Monaco,Monaco,ZHO,Alfa Romeo,92.129,78.2,18.189,62,18.0,13.0,26,-1.088
+2022,Monaco,Monaco,TSU,AlphaTauri,92.491,75.334,17.294,62,18.0,11.0,30,-0.726
+2022,Monaco,Monaco,ALB,Williams,95.88,78.023,18.889,47,19.0,13.0,24,2.663
+2022,Monaco,Monaco,MSC,Haas F1 Team,103.646,84.778,19.728,24,20.0,15.0,10,10.429
+2022,Monaco,Monaco,STR,Aston Martin,104.757,87.402,22.904,28,19.0,10.0,14,11.54
+2022,Monaco,Monaco,MAG,Haas F1 Team,105.019,93.754,19.105,19,13.0,11.0,14,11.802
+2022,Netherlands,Netherlands,TSU,AlphaTauri,78.558,77.138,3.243,42,14.0,10.0,6,-2.149
+2022,Netherlands,Netherlands,VER,Red Bull Racing,79.552,73.652,12.46,71,3.0,1.0,9,-1.155
+2022,Netherlands,Netherlands,BOT,Alfa Romeo,80.009,76.844,6.194,53,19.0,10.0,10,-0.698
+2022,Netherlands,Netherlands,RUS,Mercedes,80.651,73.671,14.398,72,7.0,2.0,15,-0.056
+2022,Netherlands,Netherlands,LEC,Ferrari,80.746,74.413,12.715,72,4.0,2.0,8,0.039
+2022,Netherlands,Netherlands,HAM,Mercedes,80.775,73.854,14.334,72,5.0,1.0,10,0.068
+2022,Netherlands,Netherlands,SAI,Ferrari,80.815,74.643,11.347,72,11.0,3.0,7,0.108
+2022,Netherlands,Netherlands,PER,Red Bull Racing,80.846,74.404,12.324,72,8.0,3.0,12,0.139
+2022,Netherlands,Netherlands,ALO,Alpine,80.855,74.144,11.405,72,16.0,7.0,12,0.148
+2022,Netherlands,Netherlands,NOR,McLaren,80.862,74.706,11.627,72,9.0,5.0,13,0.155
+2022,Netherlands,Netherlands,OCO,Alpine,80.887,75.084,10.695,72,11.0,6.0,13,0.18
+2022,Netherlands,Netherlands,STR,Aston Martin,80.906,75.043,10.647,72,11.0,6.0,13,0.199
+2022,Netherlands,Netherlands,GAS,AlphaTauri,80.969,75.165,9.403,72,18.0,11.0,15,0.262
+2022,Netherlands,Netherlands,ALB,Williams,81.016,75.534,10.801,72,16.0,6.0,17,0.309
+2022,Netherlands,Netherlands,VET,Aston Martin,81.025,74.862,9.91,72,20.0,13.0,12,0.318
+2022,Netherlands,Netherlands,MSC,Haas F1 Team,81.052,75.233,10.606,72,19.0,10.0,13,0.345
+2022,Netherlands,Netherlands,MAG,Haas F1 Team,81.106,75.369,10.371,72,20.0,12.0,9,0.399
+2022,Netherlands,Netherlands,ZHO,Alfa Romeo,81.112,75.94,10.192,72,18.0,12.0,10,0.405
+2022,Netherlands,Netherlands,RIC,McLaren,81.119,75.577,10.292,72,20.0,16.0,14,0.412
+2022,Netherlands,Netherlands,LAT,Williams,81.273,76.066,9.143,70,20.0,15.0,10,0.566
+2022,Saudi Arabia,Saudi Arabia,LEC,Ferrari,96.818,91.634,10.523,47,2.0,1.0,15,-2.365
+2022,Saudi Arabia,Saudi Arabia,VER,Red Bull Racing,96.885,91.772,10.556,47,3.0,1.0,17,-2.298
+2022,Saudi Arabia,Saudi Arabia,SAI,Ferrari,97.149,91.905,10.595,47,4.0,3.0,19,-2.034
+2022,Saudi Arabia,Saudi Arabia,PER,Red Bull Racing,97.555,92.042,11.453,47,4.0,1.0,15,-1.628
+2022,Saudi Arabia,Saudi Arabia,RUS,Mercedes,98.022,92.821,10.575,47,6.0,5.0,14,-1.161
+2022,Saudi Arabia,Saudi Arabia,BOT,Alfa Romeo,98.269,93.979,8.259,32,15.0,7.0,9,-0.914
+2022,Saudi Arabia,Saudi Arabia,ALO,Alpine,98.455,93.831,10.329,32,8.0,6.0,12,-0.728
+2022,Saudi Arabia,Saudi Arabia,LAT,Williams,98.876,97.53,2.261,14,18.0,15.0,4,-0.307
+2022,Saudi Arabia,Saudi Arabia,OCO,Alpine,99.029,93.103,10.657,47,11.0,5.0,15,-0.154
+2022,Saudi Arabia,Saudi Arabia,ZHO,Alfa Romeo,99.546,93.924,9.935,47,18.0,11.0,12,0.363
+2022,Saudi Arabia,Saudi Arabia,HUL,Aston Martin,99.768,93.651,10.512,47,17.0,9.0,20,0.585
+2022,Saudi Arabia,Saudi Arabia,NOR,McLaren,100.1,92.753,12.386,48,13.0,6.0,19,0.917
+2022,Saudi Arabia,Saudi Arabia,MAG,Haas F1 Team,100.148,92.779,13.376,48,12.0,6.0,16,0.965
+2022,Saudi Arabia,Saudi Arabia,GAS,AlphaTauri,100.233,93.468,12.074,48,15.0,8.0,13,1.05
+2022,Saudi Arabia,Saudi Arabia,HAM,Mercedes,100.374,92.997,12.599,48,14.0,6.0,20,1.191
+2022,Saudi Arabia,Saudi Arabia,RIC,McLaren,100.432,94.487,11.627,33,18.0,11.0,15,1.249
+2022,Saudi Arabia,Saudi Arabia,STR,Aston Martin,101.484,94.446,11.009,47,17.0,9.0,16,2.301
+2022,Saudi Arabia,Saudi Arabia,ALB,Williams,102.144,94.368,12.564,46,18.0,11.0,16,2.961
+2022,Singapore,Singapore,PER,Red Bull Racing,117.185,108.165,7.15,51,1.0,1.0,31,-5.781
+2022,Singapore,Singapore,SAI,Ferrari,118.132,108.414,7.18,51,3.0,2.0,24,-4.834
+2022,Singapore,Singapore,LEC,Ferrari,118.343,108.753,8.516,52,3.0,2.0,18,-4.623
+2022,Singapore,Singapore,NOR,McLaren,119.797,109.212,9.367,53,5.0,3.0,25,-3.169
+2022,Singapore,Singapore,HAM,Mercedes,119.845,110.622,7.611,51,9.0,4.0,24,-3.121
+2022,Singapore,Singapore,VER,Red Bull Racing,120.416,109.142,9.648,52,13.0,5.0,17,-2.55
+2022,Singapore,Singapore,VET,Aston Martin,121.1,110.669,9.155,52,9.0,7.0,26,-1.866
+2022,Singapore,Singapore,GAS,AlphaTauri,121.216,110.569,8.987,52,11.0,7.0,29,-1.75
+2022,Singapore,Singapore,RIC,McLaren,121.351,111.006,9.662,53,13.0,5.0,29,-1.615
+2022,Singapore,Singapore,STR,Aston Martin,121.37,110.283,9.541,53,11.0,6.0,28,-1.596
+2022,Singapore,Singapore,MAG,Haas F1 Team,122.759,112.067,9.743,54,18.0,11.0,16,-0.207
+2022,Singapore,Singapore,MSC,Haas F1 Team,122.968,110.29,10.051,50,14.0,10.0,22,0.002
+2022,Singapore,Singapore,BOT,Alfa Romeo,123.224,111.864,10.334,54,16.0,10.0,20,0.258
+2022,Singapore,Singapore,ALO,Alpine,123.478,120.463,4.523,18,6.0,6.0,13,0.512
+2022,Singapore,Singapore,RUS,Mercedes,124.811,106.458,10.879,52,19.0,11.0,15,1.845
+2022,Singapore,Singapore,TSU,AlphaTauri,126.819,118.716,9.175,30,12.0,9.0,17,3.853
+2022,Singapore,Singapore,OCO,Alpine,127.645,121.105,8.821,24,15.0,13.0,14,4.679
+2022,Singapore,Singapore,ALB,Williams,129.045,122.121,9.519,23,20.0,16.0,9,6.079
+2022,Singapore,Singapore,LAT,Williams,129.882,125.585,6.934,6,18.0,17.0,4,6.916
+2022,Singapore,Singapore,ZHO,Alfa Romeo,129.933,125.556,7.141,6,19.0,18.0,4,6.967
+2022,Spain,Spain,VER,Red Bull Racing,88.492,85.456,3.85,66,5.0,1.0,4,-1.632
+2022,Spain,Spain,PER,Red Bull Racing,88.69,84.108,3.97,66,4.0,1.0,4,-1.434
+2022,Spain,Spain,RUS,Mercedes,88.991,84.636,3.69,66,4.0,1.0,4,-1.133
+2022,Spain,Spain,SAI,Ferrari,89.177,85.985,4.376,66,15.0,4.0,9,-0.947
+2022,Spain,Spain,HAM,Mercedes,89.318,84.253,5.748,66,19.0,4.0,8,-0.806
+2022,Spain,Spain,BOT,Alfa Romeo,89.401,86.395,3.386,66,7.0,3.0,7,-0.723
+2022,Spain,Spain,OCO,Alpine,89.634,85.935,3.961,66,9.0,5.0,8,-0.49
+2022,Spain,Spain,LEC,Ferrari,89.691,87.03,5.25,27,4.0,1.0,4,-0.433
+2022,Spain,Spain,NOR,McLaren,89.753,85.619,4.189,66,10.0,6.0,10,-0.371
+2022,Spain,Spain,ALO,Alpine,89.959,86.599,4.256,65,16.0,7.0,9,-0.165
+2022,Spain,Spain,TSU,AlphaTauri,90.017,86.828,4.169,65,14.0,8.0,14,-0.107
+2022,Spain,Spain,VET,Aston Martin,90.263,87.629,3.514,65,17.0,6.0,10,0.139
+2022,Spain,Spain,RIC,McLaren,90.464,87.285,4.098,65,15.0,8.0,8,0.34
+2022,Spain,Spain,GAS,AlphaTauri,90.483,86.987,4.465,65,17.0,12.0,9,0.359
+2022,Spain,Spain,MSC,Haas F1 Team,90.522,87.447,3.428,65,14.0,6.0,2,0.398
+2022,Spain,Spain,STR,Aston Martin,90.812,86.876,4.845,65,18.0,8.0,9,0.688
+2022,Spain,Spain,LAT,Williams,91.327,87.246,4.318,64,19.0,12.0,9,1.203
+2022,Spain,Spain,MAG,Haas F1 Team,91.455,87.537,7.06,64,20.0,16.0,1,1.331
+2022,Spain,Spain,ZHO,Alfa Romeo,91.985,88.415,5.369,28,18.0,13.0,4,1.861
+2022,Spain,Spain,ALB,Williams,92.044,88.281,4.79,64,20.0,14.0,5,1.92
+2022,São Paulo,Brazil,NOR,McLaren,82.712,75.855,12.819,50,16.0,3.0,5,-0.877
+2022,São Paulo,Brazil,RUS,Mercedes,83.296,73.785,15.745,71,2.0,1.0,9,-0.293
+2022,São Paulo,Brazil,HAM,Mercedes,83.318,73.942,15.321,71,8.0,1.0,10,-0.271
+2022,São Paulo,Brazil,SAI,Ferrari,83.353,73.953,15.217,71,11.0,2.0,9,-0.236
+2022,São Paulo,Brazil,LEC,Ferrari,83.415,74.253,14.075,71,18.0,4.0,7,-0.174
+2022,São Paulo,Brazil,ALO,Alpine,83.431,74.164,14.01,71,17.0,5.0,11,-0.158
+2022,São Paulo,Brazil,VER,Red Bull Racing,83.438,74.195,14.079,71,17.0,3.0,6,-0.151
+2022,São Paulo,Brazil,PER,Red Bull Racing,83.495,74.283,14.978,71,7.0,2.0,8,-0.094
+2022,São Paulo,Brazil,OCO,Alpine,83.56,75.093,13.463,71,14.0,5.0,8,-0.029
+2022,São Paulo,Brazil,BOT,Alfa Romeo,83.614,75.511,13.6,71,11.0,5.0,6,0.025
+2022,São Paulo,Brazil,STR,Aston Martin,83.628,74.831,12.995,71,15.0,5.0,5,0.039
+2022,São Paulo,Brazil,VET,Aston Martin,83.665,75.549,13.462,71,11.0,3.0,10,0.076
+2022,São Paulo,Brazil,GAS,AlphaTauri,83.675,75.327,13.346,71,17.0,6.0,9,0.086
+2022,São Paulo,Brazil,ZHO,Alfa Romeo,83.709,75.802,13.057,71,18.0,9.0,8,0.12
+2022,São Paulo,Brazil,MSC,Haas F1 Team,83.718,75.251,13.043,71,16.0,7.0,12,0.129
+2022,São Paulo,Brazil,ALB,Williams,83.804,75.613,13.221,71,18.0,11.0,9,0.215
+2022,São Paulo,Brazil,LAT,Williams,83.818,75.327,12.919,71,18.0,14.0,12,0.229
+2022,São Paulo,Brazil,TSU,AlphaTauri,84.948,75.508,14.979,70,18.0,13.0,13,1.359

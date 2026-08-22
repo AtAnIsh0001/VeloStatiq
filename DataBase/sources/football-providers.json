@@ -1,0 +1,36 @@
+{
+  "updatedAt": "2026-08-22",
+  "providers": [
+    {
+      "name": "livescoreFootball",
+      "repository": "https://github.com/rezarahiminia/livescoreFootball",
+      "role": "Primary normalized fixtures, live scores, clubs and standings adapter",
+      "status": "active",
+      "baseUrl": "https://worldcup26.ir/get/soccer"
+    },
+    {
+      "name": "Premier-League-API",
+      "repository": "https://github.com/tarun7r/Premier-League-API",
+      "role": "Premier League player and team-fixture compatibility model",
+      "status": "compatibility"
+    },
+    {
+      "name": "EasySoccerData",
+      "repository": "https://github.com/manucabral/EasySoccerData",
+      "role": "Multi-source search and normalization architecture",
+      "status": "adapter-reference"
+    },
+    {
+      "name": "LiveSoccer",
+      "repository": "https://github.com/im-parsa/LiveSoccer",
+      "role": "Live standings presentation and refresh behavior",
+      "status": "ui-reference"
+    },
+    {
+      "name": "TheSportsDB",
+      "repository": "https://www.thesportsdb.com/docs_api_guide",
+      "role": "Free global player metadata and artwork enrichment",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "engine": "Python 3 standard library",
+  "method": "linear weighted estimates + sigmoid calibration",
+  "driver": "VER",
+  "race": "Abu Dhabi",
+  "predictedLapSeconds": 88.52115500000001,
+  "predictedLap": "1:28.521",
+  "fastestLapProbability": 0.7375317171602432,
+  "pitWindow": {
+    "start": 26,
+    "end": 31
+  },
+  "expectedStops": 2,
+  "predictedPitDuration": 23.455,
+  "tyrePlan": [
+    {
+      "compound": "HARD",
+      "fromLap": 1,
+      "length": 13
+    },
+    {
+      "compound": "SOFT",
+      "fromLap": 28,
+      "length": 13
+    },
+    {
+      "compound": "MEDIUM",
+      "fromLap": 41,
+      "length": 16
+    }
+  ],
+  "confidence": 0.4168519442719111,
+  "scenario": {
+    "trackTemperature": 34.0,
+    "rainProbability": 10.0,
+    "fuelLoad": 45.0,
+    "safetyCar": false
+  },
+  "inputs": {
+    "driverSamples": 2,
+    "pitSamples": 4,
+    "consistency": 8.095,
+    "historicalBest": 87.7475,
+    "circuitBenchmark": 87.57650000000001,
+    "recentRaceSamples": 5,
+    "recentAverageFinish": 6.2,
+    "recentPointsPerRace": 12.6,
+    "recentDnfRate": 0.2,
+    "archiveFallback": false
+  }
+}

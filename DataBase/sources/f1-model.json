@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-08-22",
+  "model": "VeloStatiq Formula One Intelligence",
+  "liveCompatibility": "OpenF1",
+  "outputs": [
+    "predicted fastest-lap time",
+    "fastest-lap probability",
+    "optimal pit window",
+    "predicted pit-stop duration",
+    "expected stop count",
+    "recommended compound sequence",
+    "team-specific stint length"
+  ],
+  "datasets": [
+    "driver_race_summary.csv",
+    "all_race_laps_Final.csv",
+    "tyre_degradation.csv",
+    "pit_strategy.csv",
+    "pit_stops.csv",
+    "team_strategy.csv",
+    "stint_analysis.csv",
+    "compound_performance.csv",
+    "season_comparison.csv"
+  ],
+  "method": "Linear weighted estimates with sigmoid probability calibration",
+  "disclaimer": "Informational analytics only; not live team or betting advice."
+}

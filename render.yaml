@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: velostatiq
+    runtime: docker
+    plan: free
+    autoDeployTrigger: commit
+    healthCheckPath: /
