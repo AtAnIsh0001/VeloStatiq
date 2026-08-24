@@ -1,0 +1,19 @@
+# Netlify deployment configuration for the VeloStatiq Next.js app.
+#
+# Netlify's Next.js runtime (OpenNext adapter) converts the standard
+# `next build` output into Netlify Functions + static assets. Do NOT set
+# `publish` to a static folder — server routes (src/app/api/*, SSR pages)
+# are served by the adapter-generated functions, not from files on disk.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # Keep standalone output disabled on Netlify; it is only enabled for
+  # Render/Docker builds via process.env.RENDER in next.config.ts.
+  NETLIFY_NEXT_PLUGIN_SKIP = "false"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

@@ -7,6 +7,8 @@ FROM node:22-bookworm-slim AS builder
 WORKDIR /app
 COPY --from=dependencies /app/node_modules ./node_modules
 COPY . .
+# Produce .next/standalone for the slim runner image below.
+ENV NEXT_OUTPUT_STANDALONE=1
 RUN npm run build
 
 FROM node:22-bookworm-slim AS runner

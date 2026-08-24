@@ -5,7 +5,9 @@ const nextConfig: NextConfig = {
   // Netlify's Next.js Runtime needs the default build output to trace routes into
   // Netlify Functions/Edge Functions; forcing standalone mode there deploys zero
   // functions and every route 404s.
-  ...(process.env.RENDER ? { output: "standalone" as const } : {}),
+  ...(process.env.NEXT_OUTPUT_STANDALONE === "1" || process.env.RENDER
+    ? { output: "standalone" as const }
+    : {}),
   outputFileTracingExcludes: {
     "/*": ["./DataBase/Football/**/*", "./DataBase/FormulaOne/archive/**/*", "./DataBase/FormulaOne/src/**/*"],
   },
