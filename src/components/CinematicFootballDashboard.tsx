@@ -23,6 +23,7 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import dynamic from "next/dynamic";
+import SoundToggle from "./SoundToggle";
 import { useEffect, useState } from "react";
 import SportsNewsFeed, { type NewsFeedPayload } from "./SportsNewsFeed";
 
@@ -288,6 +289,7 @@ export default function CinematicFootballDashboard({
               />
             )}
           </div>
+          <SoundToggle />
           <div className="football-live">
             <i /> LIVE FIXTURES
           </div>

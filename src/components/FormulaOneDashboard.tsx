@@ -1,6 +1,7 @@
 "use client";
 
 import { AnimatePresence, motion } from "framer-motion";
+import SoundToggle from "./SoundToggle";
 import {
   Activity,
   ArrowLeft,
@@ -345,6 +346,7 @@ export default function FormulaOneDashboard({
               <strong>{raceData?.race.name || "Loading race…"}</strong>
             </span>
           </div>
+          <SoundToggle />
           <div className="f1-live">
             <i />
             <span>VERIFIED DATA</span>

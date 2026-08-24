@@ -1,6 +1,7 @@
 import { ArrowUpRight, Flag, Gauge, Goal, Radio, Sparkles } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import SoundToggle from "./SoundToggle";
 
 export default function SportGateway() {
   return <main className="sport-gateway">
@@ -8,6 +9,7 @@ export default function SportGateway() {
     <div className="gateway-noise" aria-hidden="true"/><div className="gateway-orbit orbit-one" aria-hidden="true"/><div className="gateway-orbit orbit-two" aria-hidden="true"/>
     <header className="gateway-reveal reveal-header">
       <Link href="/" className="gateway-brand" aria-label="VeloStatiq home"><Image src="/assets/brand/velostatiq-logo-small.webp" alt="" width={96} height={64} sizes="96px" priority/><strong>VeloStatiq</strong></Link>
+      <SoundToggle/>
       <div><i/><span>LIVE DATA SYSTEMS ONLINE</span></div>
     </header>
     <section className="gateway-copy gateway-reveal reveal-copy" aria-labelledby="gateway-title">
