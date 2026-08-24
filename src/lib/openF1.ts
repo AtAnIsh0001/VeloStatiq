@@ -12,14 +12,14 @@ export type OpenF1Snapshot = {
 export async function getMonacoSnapshot(): Promise<OpenF1Snapshot> {
   const fallback: OpenF1Snapshot = { source: "local", sessionName: "Race", meetingName: "Monaco Grand Prix", drivers: [], laps: [] };
   try {
-    const sessionResponse = await fetch(`${OPENF1_API}/sessions?country_name=Monaco&year=2025&session_name=Race`, { next: { revalidate: 3600 } });
+    const sessionResponse = await fetch(`${OPENF1_API}/sessions?country_name=Monaco&year=2025&session_name=Race`, { next: { revalidate: 900 } });
     if (!sessionResponse.ok) return fallback;
     const sessions = await sessionResponse.json() as Array<{ session_key: number; session_name: string; meeting_name: string }>;
     const session = sessions.at(-1);
     if (!session) return fallback;
     const [driversResponse, lapsResponse] = await Promise.all([
-      fetch(`${OPENF1_API}/drivers?session_key=${session.session_key}`, { next: { revalidate: 3600 } }),
-      fetch(`${OPENF1_API}/laps?session_key=${session.session_key}&lap_number>=70`, { next: { revalidate: 3600 } }),
+      fetch(`${OPENF1_API}/drivers?session_key=${session.session_key}`, { next: { revalidate: 900 } }),
+      fetch(`${OPENF1_API}/laps?session_key=${session.session_key}&lap_number>=70`, { next: { revalidate: 900 } }),
     ]);
     if (!driversResponse.ok || !lapsResponse.ok) return fallback;
     const driverRows = await driversResponse.json() as Array<{ driver_number: number; full_name: string; name_acronym: string; team_name: string }>;

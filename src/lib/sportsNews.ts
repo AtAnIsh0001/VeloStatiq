@@ -44,7 +44,7 @@ const lowValuePattern = /\b(odds|betting|betting guide|best bets|parlay|sportsbo
 
 async function fetchPublisherFeed(url: string, competition: string) {
   try {
-    const response = await fetch(url, { next: { revalidate: 300 }, signal: AbortSignal.timeout(8_000) });
+    const response = await fetch(url, { next: { revalidate: 900 }, signal: AbortSignal.timeout(8_000) });
     if (!response.ok) return [];
     const body = await response.json() as { articles?: EspnArticle[] };
     return (body.articles || []).flatMap((article): SportsNewsItem[] => {

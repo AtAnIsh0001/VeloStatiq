@@ -86,5 +86,3 @@ export default function CircuitReplay3D({laps,raceName,driverName}:{laps:Lap[];r
     <div className="replay-caption"><div><strong>{raceName}</strong><small>REALISTIC 3D CIRCUIT MODEL · 1× LAP TIME</small></div><span>Only the circuit and car are shown. Drag and zoom in Circuit view, or choose Follow car. Circuit: bacinger/f1-circuits (MIT). Car: Excalibur (CC BY).</span></div>
   </div>;
 }
-
-useGLTF.preload("/assets/3d/formula-one-car.glb");

@@ -1,0 +1,164 @@
+/* Keep initial-route assets tiny and make keyboard focus unmissable. */
+.sport-choice.f1 {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(6, 7, 8, 0.95) 5%,
+      rgba(6, 7, 8, 0.58) 55%,
+      rgba(6, 7, 8, 0.05)
+    ),
+    url("/assets/f1-night-hero.webp") !important;
+}
+.football-hero {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(2, 7, 5, 0.97),
+      rgba(2, 7, 5, 0.72) 43%,
+      rgba(2, 7, 5, 0.03)
+    ),
+    url("/assets/football-night-hero.webp") !important;
+}
+.latest-hero {
+  background:
+    linear-gradient(
+      90deg,
+      rgba(4, 6, 8, 0.98),
+      rgba(4, 6, 8, 0.78) 47%,
+      rgba(4, 6, 8, 0.15)
+    ),
+    url("/assets/f1-night-hero.webp") center 58% / cover !important;
+}
+.f1-os .portrait-fallback {
+  color: #aeb7c2 !important;
+}
+.football-scanline {
+  transform: none !important;
+  animation: none !important;
+}
+:where(a, button, input, select):focus-visible {
+  outline: 3px solid #7cfbd0;
+  outline-offset: 3px;
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *:before,
+  *:after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+@media (max-width: 780px) {
+  .football-cinema .football-hero {
+    background-image:
+      radial-gradient(
+        circle at 82% 18%,
+        rgba(56, 229, 170, 0.16),
+        transparent 32%
+      ),
+      linear-gradient(135deg, #07130f, #020705) !important;
+  }
+  .f1-os .latest-hero {
+    background:
+      radial-gradient(
+        circle at 82% 18%,
+        rgba(255, 40, 70, 0.18),
+        transparent 34%
+      ),
+      linear-gradient(135deg, #12080c, #050608) !important;
+  }
+  .gateway-reveal {
+    animation: none !important;
+  }
+  .sport-gateway .sport-choice.f1 {
+    background-image: linear-gradient(135deg, #17090c, #070809) !important;
+  }
+}
+.football-cinema .cinema-team > span {
+  background: #17352b !important;
+  color: #fff !important;
+}
+.native-lap-chart {
+  height: 275px;
+  margin: 0;
+  padding: 12px 16px 8px;
+}
+.native-lap-chart svg {
+  width: 100%;
+  height: 225px;
+  filter: drop-shadow(0 0 12px #ff284633);
+}
+.native-lap-chart figcaption {
+  display: flex;
+  justify-content: space-between;
+  color: #737c88;
+  font-size: 15px;
+}
+.native-lap-chart figcaption strong {
+  color: #e8edf2;
+}
+.native-bars {
+  height: 300px;
+  overflow: auto;
+  padding: 14px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.native-bars > div {
+  display: grid;
+  grid-template-columns: 42px 1fr 65px;
+  gap: 9px;
+  align-items: center;
+}
+.native-bars b,
+.native-bars span {
+  font: 700 15px monospace;
+}
+.native-bars span {
+  text-align: right;
+  color: #aab1bd;
+}
+.native-bars i {
+  height: 8px;
+  border-radius: 8px;
+  background: #ffffff0b;
+  overflow: hidden;
+}
+.native-bars em {
+  display: block;
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 12px currentColor;
+}
+.native-donut {
+  width: 196px;
+  height: 196px;
+  border-radius: 50%;
+  margin: auto;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+.native-donut:after {
+  content: "";
+  position: absolute;
+  inset: 28px;
+  border-radius: 50%;
+  background: #101316;
+}
+.native-donut span {
+  position: relative;
+  z-index: 1;
+  font: 900 24px monospace;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.native-donut small {
+  font: 700 15px Inter;
+  color: #747d86;
+  margin-top: 4px;
+}

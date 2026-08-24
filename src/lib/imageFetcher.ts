@@ -9,7 +9,7 @@ export async function fetchAthleteImage(name: string): Promise<string> {
   if (imageCache.has(name)) return imageCache.get(name)!;
   try {
     const params = new URLSearchParams({ action: "query", titles: name, prop: "pageimages", format: "json", pithumbsize: "700", origin: "*" });
-    const response = await fetch(`https://en.wikipedia.org/w/api.php?${params}`, { next: { revalidate: 86400 } });
+    const response = await fetch(`https://en.wikipedia.org/w/api.php?${params}`, { next: { revalidate: 900 } });
     if (!response.ok) throw new Error("Wikipedia image request failed");
     const data = await response.json() as { query?: { pages?: Record<string, { thumbnail?: { source?: string } }> } };
     const page = Object.values(data.query?.pages ?? {})[0];

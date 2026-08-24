@@ -1,1 +1,452 @@
-.sport-gateway{min-height:100vh;background:#080a0a;color:#f5f7f6;position:relative;overflow:hidden;padding:28px clamp(22px,5vw,78px) 24px;font-family:Inter,"Avenir Next",sans-serif}.gateway-noise{position:absolute;inset:0;opacity:.13;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3'/%3E%3C/filter id='n'/%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.4'/%3E%3C/svg%3E")}.gateway-orbit{position:absolute;border:1px solid rgba(255,255,255,.05);border-radius:50%;animation:gateway-spin 24s linear infinite}.orbit-one{width:700px;height:700px;right:-290px;top:-340px}.orbit-two{width:480px;height:480px;left:-250px;bottom:-230px;animation-direction:reverse}@keyframes gateway-spin{to{transform:rotate(360deg)}}.sport-gateway>header{display:flex;align-items:center;justify-content:space-between;position:relative;z-index:2}.gateway-brand{color:#fff;text-decoration:none;display:flex;align-items:center;gap:11px;letter-spacing:.18em}.gateway-brand span{width:35px;height:35px;background:#e83246;color:#fff;border-radius:10px;display:grid;place-items:center;font-weight:900;letter-spacing:0}.gateway-brand strong{font-size:15px}.sport-gateway>header>div{display:flex;gap:8px;align-items:center;color:#77807d;font-size:15px;font-weight:800;letter-spacing:.13em}.sport-gateway>header i{width:6px;height:6px;border-radius:50%;background:#29df9d;box-shadow:0 0 12px #29df9d}.gateway-copy{text-align:center;max-width:700px;margin:6vh auto 4vh;position:relative;z-index:2}.gateway-copy>p{font-size:15px;color:#df3e50;font-weight:900;letter-spacing:.26em;margin:0 0 14px}.gateway-copy h1{font-size:clamp(48px,7vw,96px);line-height:.87;letter-spacing:-.075em;margin:0;font-weight:780}.gateway-copy h1 em{font-style:normal;color:#79827f}.gateway-copy>span{display:block;max-width:560px;margin:23px auto 0;color:#808986;font-size:15px;line-height:1.6}.sport-choices{max-width:1130px;margin:auto;display:grid;grid-template-columns:1fr 1fr;gap:18px;position:relative;z-index:2}.sport-choice{height:340px;position:relative;display:block;overflow:hidden;border-radius:25px;border:1px solid rgba(255,255,255,.1);background:#101313;color:#fff;text-decoration:none;box-shadow:0 30px 90px rgba(0,0,0,.25);transform-style:preserve-3d}.sport-choice:after{content:"";position:absolute;inset:0;background:linear-gradient(120deg,rgba(255,255,255,.07),transparent 35%);pointer-events:none}.sport-choice.football{background:radial-gradient(circle at 85% 25%,rgba(39,217,154,.28),transparent 40%),linear-gradient(135deg,#10251e,#09110e)}.sport-choice.f1{background-image:linear-gradient(90deg,rgba(6,7,8,.95) 5%,rgba(6,7,8,.58) 55%,rgba(6,7,8,.05)),url("/assets/f1-night-hero.png");background-size:cover;background-position:center}.choice-art{position:absolute;inset:0}.choice-art>svg{position:absolute;right:28px;top:25px;width:32px;height:32px;color:rgba(255,255,255,.25)}.gateway-ball{position:absolute;width:190px;height:190px;border:1px solid rgba(76,235,177,.35);border-radius:50%;right:-35px;bottom:-20px;box-shadow:inset 0 0 50px rgba(34,216,148,.1);animation:gateway-float 5s ease-in-out infinite}.gateway-ball:before,.gateway-ball:after,.gateway-ball span{content:"";position:absolute;border:1px solid rgba(76,235,177,.25);border-radius:50%}.gateway-ball:before{inset:20px 50px}.gateway-ball:after{inset:50px 20px}.gateway-ball span:nth-child(1){width:45px;height:45px;left:72px;top:72px}.gateway-ball span:nth-child(2){width:100%;left:0;top:50%}.gateway-ball span:nth-child(3){height:100%;top:0;left:50%}.gateway-speed{position:absolute;right:-10%;bottom:-20%;width:75%;height:80%;transform:rotate(-12deg)}.gateway-speed i{display:block;height:1px;background:linear-gradient(90deg,transparent,#f2384c);margin-top:37px;animation:speed-line 1.7s ease-in-out infinite}.gateway-speed i:nth-child(2){width:73%;margin-left:20%;animation-delay:.25s}.gateway-speed i:nth-child(3){width:50%;margin-left:42%;animation-delay:.5s}.gateway-speed i:nth-child(4){width:83%;animation-delay:.75s}@keyframes speed-line{50%{transform:translateX(45px);opacity:.2}}@keyframes gateway-float{50%{transform:translateY(-12px) rotate(8deg)}}.choice-content{position:absolute;inset:0;padding:30px;display:flex;flex-direction:column;align-items:flex-start;z-index:2}.choice-kicker{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:900;letter-spacing:.18em;color:#51d9a8}.f1 .choice-kicker{color:#ff4b5d}.choice-kicker svg{width:14px}.choice-content h2{font-size:41px;letter-spacing:-.055em;margin:auto 0 6px}.choice-content p{font-size:15px;color:#9aa39f;line-height:1.55;max-width:300px;margin:0 0 15px}.choice-stats{display:flex;gap:7px}.choice-stats span{border:1px solid rgba(255,255,255,.1);background:rgba(0,0,0,.25);backdrop-filter:blur(10px);border-radius:20px;padding:6px 9px;font-size:15px;color:#bac2bf}.choice-content>b{display:flex;align-items:center;gap:8px;margin-top:19px;font-size:15px}.choice-content>b svg{width:15px}.sport-choice:hover .choice-content>b{color:#48e2aa}.sport-choice.f1:hover .choice-content>b{color:#ff4b5d}.sport-gateway>footer{max-width:1130px;margin:20px auto 0;display:flex;justify-content:space-between;align-items:center;position:relative;color:#505854;font-size:15px;letter-spacing:.12em}.sport-gateway>footer>div{display:flex;gap:7px;align-items:center}.sport-gateway>footer svg{width:12px;color:#2fd99d}@media(max-width:760px){.gateway-copy{margin:8vh auto 4vh}.sport-choices{grid-template-columns:1fr}.sport-choice{height:280px}.sport-gateway>footer{display:none}.gateway-copy h1{font-size:56px}.sport-gateway>header>div{display:none}}@media(prefers-reduced-motion:reduce){.gateway-orbit,.gateway-ball,.gateway-speed i{animation:none}}
+.sport-gateway {
+  min-height: 100vh;
+  background: #080a0a;
+  color: #f5f7f6;
+  position: relative;
+  overflow: hidden;
+  padding: 28px clamp(22px, 5vw, 78px) 24px;
+  font-family: Inter, "Avenir Next", sans-serif;
+}
+.gateway-noise {
+  position: absolute;
+  inset: 0;
+  opacity: 0.13;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3'/%3E%3C/filter id='n'/%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.4'/%3E%3C/svg%3E");
+}
+.gateway-orbit {
+  position: absolute;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 50%;
+  animation: gateway-spin 24s linear infinite;
+}
+.orbit-one {
+  width: 700px;
+  height: 700px;
+  right: -290px;
+  top: -340px;
+}
+.orbit-two {
+  width: 480px;
+  height: 480px;
+  left: -250px;
+  bottom: -230px;
+  animation-direction: reverse;
+}
+@keyframes gateway-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.sport-gateway > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 2;
+}
+.gateway-brand {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  letter-spacing: 0.18em;
+}
+.gateway-brand span {
+  width: 35px;
+  height: 35px;
+  background: #e83246;
+  color: #fff;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+.gateway-brand strong {
+  font-size: 15px;
+}
+.sport-gateway > header > div {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  color: #77807d;
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+}
+.sport-gateway > header i {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #29df9d;
+  box-shadow: 0 0 12px #29df9d;
+}
+.gateway-copy {
+  text-align: center;
+  max-width: 700px;
+  margin: 6vh auto 4vh;
+  position: relative;
+  z-index: 2;
+}
+.gateway-copy > p {
+  font-size: 15px;
+  color: #df3e50;
+  font-weight: 900;
+  letter-spacing: 0.26em;
+  margin: 0 0 14px;
+}
+.gateway-copy h1 {
+  font-size: clamp(48px, 7vw, 96px);
+  line-height: 0.87;
+  letter-spacing: -0.075em;
+  margin: 0;
+  font-weight: 780;
+}
+.gateway-copy h1 em {
+  font-style: normal;
+  color: #79827f;
+}
+.gateway-copy > span {
+  display: block;
+  max-width: 560px;
+  margin: 23px auto 0;
+  color: #808986;
+  font-size: 15px;
+  line-height: 1.6;
+}
+.sport-choices {
+  max-width: 1130px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  position: relative;
+  z-index: 2;
+}
+.sport-choice {
+  height: 340px;
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: #101313;
+  color: #fff;
+  text-decoration: none;
+  box-shadow: 0 30px 90px rgba(0, 0, 0, 0.25);
+  transform-style: preserve-3d;
+}
+.sport-choice:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    120deg,
+    rgba(255, 255, 255, 0.07),
+    transparent 35%
+  );
+  pointer-events: none;
+}
+.sport-choice.football {
+  background:
+    radial-gradient(
+      circle at 85% 25%,
+      rgba(39, 217, 154, 0.28),
+      transparent 40%
+    ),
+    linear-gradient(135deg, #10251e, #09110e);
+}
+.sport-choice.f1 {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(6, 7, 8, 0.95) 5%,
+      rgba(6, 7, 8, 0.58) 55%,
+      rgba(6, 7, 8, 0.05)
+    ),
+    url("/assets/f1-night-hero.png");
+  background-size: cover;
+  background-position: center;
+}
+.choice-art {
+  position: absolute;
+  inset: 0;
+}
+.choice-art > svg {
+  position: absolute;
+  right: 28px;
+  top: 25px;
+  width: 32px;
+  height: 32px;
+  color: rgba(255, 255, 255, 0.25);
+}
+.gateway-ball {
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  border: 1px solid rgba(76, 235, 177, 0.35);
+  border-radius: 50%;
+  right: -35px;
+  bottom: -20px;
+  box-shadow: inset 0 0 50px rgba(34, 216, 148, 0.1);
+  animation: gateway-float 5s ease-in-out infinite;
+}
+.gateway-ball:before,
+.gateway-ball:after,
+.gateway-ball span {
+  content: "";
+  position: absolute;
+  border: 1px solid rgba(76, 235, 177, 0.25);
+  border-radius: 50%;
+}
+.gateway-ball:before {
+  inset: 20px 50px;
+}
+.gateway-ball:after {
+  inset: 50px 20px;
+}
+.gateway-ball span:nth-child(1) {
+  width: 45px;
+  height: 45px;
+  left: 72px;
+  top: 72px;
+}
+.gateway-ball span:nth-child(2) {
+  width: 100%;
+  left: 0;
+  top: 50%;
+}
+.gateway-ball span:nth-child(3) {
+  height: 100%;
+  top: 0;
+  left: 50%;
+}
+.gateway-speed {
+  position: absolute;
+  right: -10%;
+  bottom: -20%;
+  width: 75%;
+  height: 80%;
+  transform: rotate(-12deg);
+}
+.gateway-speed i {
+  display: block;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #f2384c);
+  margin-top: 37px;
+  animation: speed-line 1.7s ease-in-out infinite;
+}
+.gateway-speed i:nth-child(2) {
+  width: 73%;
+  margin-left: 20%;
+  animation-delay: 0.25s;
+}
+.gateway-speed i:nth-child(3) {
+  width: 50%;
+  margin-left: 42%;
+  animation-delay: 0.5s;
+}
+.gateway-speed i:nth-child(4) {
+  width: 83%;
+  animation-delay: 0.75s;
+}
+@keyframes speed-line {
+  50% {
+    transform: translateX(45px);
+    opacity: 0.2;
+  }
+}
+@keyframes gateway-float {
+  50% {
+    transform: translateY(-12px) rotate(8deg);
+  }
+}
+.choice-content {
+  position: absolute;
+  inset: 0;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 2;
+}
+.choice-kicker {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+  color: #51d9a8;
+}
+.f1 .choice-kicker {
+  color: #ff4b5d;
+}
+.choice-kicker svg {
+  width: 14px;
+}
+.choice-content h2 {
+  font-size: 41px;
+  letter-spacing: -0.055em;
+  margin: auto 0 6px;
+}
+.choice-content p {
+  font-size: 15px;
+  color: #9aa39f;
+  line-height: 1.55;
+  max-width: 300px;
+  margin: 0 0 15px;
+}
+.choice-stats {
+  display: flex;
+  gap: 7px;
+}
+.choice-stats span {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  padding: 6px 9px;
+  font-size: 15px;
+  color: #bac2bf;
+}
+.choice-content > b {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 19px;
+  font-size: 15px;
+}
+.choice-content > b svg {
+  width: 15px;
+}
+.sport-choice:hover .choice-content > b {
+  color: #48e2aa;
+}
+.sport-choice.f1:hover .choice-content > b {
+  color: #ff4b5d;
+}
+.sport-gateway > footer {
+  max-width: 1130px;
+  margin: 20px auto 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  color: #505854;
+  font-size: 15px;
+  letter-spacing: 0.12em;
+}
+.sport-gateway > footer > div {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+}
+.sport-gateway > footer svg {
+  width: 12px;
+  color: #2fd99d;
+}
+@media (max-width: 760px) {
+  .gateway-copy {
+    margin: 8vh auto 4vh;
+  }
+  .sport-choices {
+    grid-template-columns: 1fr;
+  }
+  .sport-choice {
+    height: 280px;
+  }
+  .sport-gateway > footer {
+    display: none;
+  }
+  .gateway-copy h1 {
+    font-size: 56px;
+  }
+  .sport-gateway > header > div {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .gateway-orbit,
+  .gateway-ball,
+  .gateway-speed i {
+    animation: none;
+  }
+}
+/* Lighthouse-safe gateway enhancements: keep the cinematic reveal in CSS so the first view ships without client JavaScript. */
+.sport-choice.f1 {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(6, 7, 8, 0.95) 5%,
+      rgba(6, 7, 8, 0.58) 55%,
+      rgba(6, 7, 8, 0.05)
+    ),
+    url("/assets/f1-night-hero.webp");
+}
+.gateway-reveal {
+  animation: gateway-reveal 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.reveal-copy {
+  animation-delay: 0.08s;
+}
+.reveal-card {
+  animation-delay: 0.18s;
+}
+.reveal-card.f1 {
+  animation-delay: 0.26s;
+}
+.reveal-footer {
+  animation-delay: 0.34s;
+}
+@keyframes gateway-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.sport-choice {
+  transition:
+    transform 0.28s ease,
+    border-color 0.28s ease,
+    box-shadow 0.28s ease;
+}
+.sport-choice:hover {
+  transform: translateY(-7px) scale(1.01);
+  border-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 38px 100px rgba(0, 0, 0, 0.38);
+}
+.skip-link {
+  position: fixed;
+  left: 16px;
+  top: 12px;
+  z-index: 999;
+  transform: translateY(-150%);
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: #fff;
+  color: #050706;
+  font-weight: 800;
+}
+.skip-link:focus {
+  transform: none;
+}
+.sport-choice:focus-visible,
+.gateway-brand:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 4px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .gateway-reveal {
+    animation: none;
+  }
+  .sport-choice {
+    transition: none;
+  }
+}

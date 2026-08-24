@@ -184,7 +184,7 @@ async function fetchTeamHistory(team: FootballTeam, league: string, cutoffDate: 
   const requests = [currentSeason, currentSeason - 1].map((season) => ({ leagueSlug: league, url: `${ESPN_SCORE_BASE}/all/teams/${team.id}/schedule?season=${season}` }));
   const bodies = await Promise.all(requests.map(async ({ leagueSlug, url }) => {
     try {
-      const response = await fetch(url, { next: { revalidate: 3600 }, signal: AbortSignal.timeout(9000) });
+      const response = await fetch(url, { next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) });
       if (!response.ok) return { leagueSlug, body: { events: [] as ScheduleEvent[] }, failed: true };
       return { leagueSlug, body: await response.json() as { events?: ScheduleEvent[] }, failed: false };
     } catch { return { leagueSlug, body: { events: [] as ScheduleEvent[] }, failed: true }; }
@@ -227,7 +227,7 @@ export async function searchFootballPlayers(query: string): Promise<{ players: F
   const cleanQuery = query.trim().slice(0, 80);
   if (cleanQuery.length < 2) return { players: [], sources: [] };
   const localPromise = searchDatabaseAthletes({ query: cleanQuery, sport: "football", limit: 30 });
-  const onlinePromise = fetch(`${SPORTS_DB_BASE}/searchplayers.php?p=${encodeURIComponent(cleanQuery)}`, { next: { revalidate: 86400 }, signal: AbortSignal.timeout(7000) })
+  const onlinePromise = fetch(`${SPORTS_DB_BASE}/searchplayers.php?p=${encodeURIComponent(cleanQuery)}`, { next: { revalidate: 900 }, signal: AbortSignal.timeout(7000) })
     .then((response) => response.ok ? response.json() : { player: [] })
     .catch(() => ({ player: [] })) as Promise<{ player?: SportsDbPlayer[] | null }>;
   const [local, online] = await Promise.all([localPromise, onlinePromise]);

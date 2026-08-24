@@ -37,7 +37,7 @@ export type F1DriverComparison = { fetchedAt: string; source: string; nextRace: 
 
 export async function getNextF1Race(): Promise<F1NextRace | null> {
   try {
-    const response = await fetch(`${BASE}/current/next/races/`, { headers, next: { revalidate: 21600 }, signal: AbortSignal.timeout(9000) });
+    const response = await fetch(`${BASE}/current/next/races/`, { headers, next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) });
     if (!response.ok) return null;
     const body = await response.json() as { MRData?: { RaceTable?: { Races?: RawRace[] } } };
     const race = body.MRData?.RaceTable?.Races?.[0];
@@ -46,7 +46,7 @@ export async function getNextF1Race(): Promise<F1NextRace | null> {
 }
 
 async function racesForSeason(driverId: string, season: number): Promise<RawRace[]> {
-  const response = await fetch(`${BASE}/${season}/drivers/${driverId}/results/?limit=100`, { headers, next: { revalidate: 21600 }, signal: AbortSignal.timeout(9000) });
+  const response = await fetch(`${BASE}/${season}/drivers/${driverId}/results/?limit=100`, { headers, next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) });
   if (!response.ok) throw new Error(`Jolpica returned ${response.status}`);
   const body = await response.json() as { MRData?: { RaceTable?: { Races?: RawRace[] } } };
   return body.MRData?.RaceTable?.Races || [];
@@ -54,7 +54,7 @@ async function racesForSeason(driverId: string, season: number): Promise<RawRace
 
 async function lastRaceAtCircuit(driverId: string, circuitId: string, before: string): Promise<F1RaceHistoryRecord | null> {
   try {
-    const response = await fetch(`${BASE}/circuits/${circuitId}/drivers/${driverId}/results/?limit=100`, { headers, next: { revalidate: 21600 }, signal: AbortSignal.timeout(9000) });
+    const response = await fetch(`${BASE}/circuits/${circuitId}/drivers/${driverId}/results/?limit=100`, { headers, next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) });
     if (!response.ok) return null;
     const body = await response.json() as { MRData?: { RaceTable?: { Races?: RawRace[] } } };
     return (body.MRData?.RaceTable?.Races || []).map((race) => normalize(race, driverId)).filter((race): race is F1RaceHistoryRecord => Boolean(race) && new Date(race!.date).getTime() < new Date(before).getTime()).sort((a, b) => b.date.localeCompare(a.date))[0] || null;
@@ -64,18 +64,18 @@ async function lastRaceAtCircuit(driverId: string, circuitId: string, before: st
 async function recordedCircuitStrategy(record: F1RaceHistoryRecord, locality: string): Promise<F1RaceHistoryRecord> {
   const pitPromise = (async () => {
     try {
-      const response = await fetch(`${BASE}/${record.season}/${record.round}/drivers/${record.driverId}/pitstops/?limit=100`, { headers, next: { revalidate: 21600 }, signal: AbortSignal.timeout(9000) });
+      const response = await fetch(`${BASE}/${record.season}/${record.round}/drivers/${record.driverId}/pitstops/?limit=100`, { headers, next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) });
       if (!response.ok) return [];
       const body = await response.json() as { MRData?: { RaceTable?: { Races?: Array<{ PitStops?: Array<{ lap: string; stop: string; time: string; duration: string }> }> } } };
       return (body.MRData?.RaceTable?.Races?.[0]?.PitStops || []).map((stop) => ({ lap: Number(stop.lap), stop: Number(stop.stop), time: stop.time, duration: Number(stop.duration) }));
     } catch { return [] as Array<{ lap: number; stop: number; time: string; duration: number }>; }
   })();
-  const stintsPromise = fetch(`https://api.openf1.org/v1/sessions?year=${record.season}&location=${encodeURIComponent(locality)}&session_name=Race`, { headers, next: { revalidate: 21600 }, signal: AbortSignal.timeout(9000) })
+  const stintsPromise = fetch(`https://api.openf1.org/v1/sessions?year=${record.season}&location=${encodeURIComponent(locality)}&session_name=Race`, { headers, next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) })
     .then(async (response) => response.ok ? response.json() as Promise<Array<{ session_key: number }>> : [])
     .then(async (sessions) => {
       const sessionKey = sessions[0]?.session_key;
       if (!sessionKey || !/^\d+$/.test(record.driverNumber)) return [];
-      const response = await fetch(`https://api.openf1.org/v1/stints?session_key=${sessionKey}&driver_number=${record.driverNumber}`, { headers, next: { revalidate: 21600 }, signal: AbortSignal.timeout(9000) });
+      const response = await fetch(`https://api.openf1.org/v1/stints?session_key=${sessionKey}&driver_number=${record.driverNumber}`, { headers, next: { revalidate: 900 }, signal: AbortSignal.timeout(9000) });
       if (!response.ok) return [];
       const rows = await response.json() as Array<{ stint_number: number; compound: string; lap_start: number; lap_end: number; tyre_age_at_start: number }>;
       return rows.map((stint) => ({ stint: stint.stint_number, compound: stint.compound, lapStart: stint.lap_start, lapEnd: stint.lap_end, tyreAgeAtStart: stint.tyre_age_at_start }));

@@ -13,7 +13,7 @@ type RawRace = { season: string; round: string; raceName: string; date: string; 
 type RawStanding = { position: string; points: string; wins: string; Driver: DriverInfo; Constructors: ConstructorInfo[] };
 
 function timeSeconds(value?: string) { if (!value) return 0; const parts=value.split(":").map(Number); if(parts.length===3)return parts[0]*3600+parts[1]*60+parts[2]; if(parts.length===2)return parts[0]*60+parts[1]; return Number(value)||0; }
-async function getJson(url:string){const response=await fetch(url,{headers,next:{revalidate:21600},signal:AbortSignal.timeout(9000)});if(!response.ok)throw new Error(`Jolpica request failed: ${response.status}`);return response.json();}
+async function getJson(url:string){const response=await fetch(url,{headers,next:{revalidate:900},signal:AbortSignal.timeout(9000)});if(!response.ok)throw new Error(`Jolpica request failed: ${response.status}`);return response.json();}
 
 export async function getLatestF1RaceData(){
   try{

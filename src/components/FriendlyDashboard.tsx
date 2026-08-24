@@ -55,7 +55,7 @@ export default function FriendlyDashboard() {
   const navigate = (next: View) => { setView(next); setMobileMenu(false); };
   return <div className="friendly-shell">
     <aside className={`friendly-sidebar ${mobileMenu ? "open" : ""}`}>
-      <Link href="/" className="friendly-brand"><Image src="/assets/brand/velostatiq-logo.png" alt="VeloStatiq" width={72} height={48}/><span><strong>VeloStatiq</strong><small>Switch sport</small></span></Link>
+      <Link href="/" className="friendly-brand"><Image src="/assets/brand/velostatiq-logo-small.webp" alt="VeloStatiq" width={72} height={48}/><span><strong>VeloStatiq</strong><small>Switch sport</small></span></Link>
       <nav>{navigation.map((item) => { const Icon = item.icon; return <button key={item.id} className={view === item.id ? "active" : ""} onClick={() => navigate(item.id)}><Icon size={19}/><span>{item.label}</span>{item.id === "matches" && fixtures.length > 0 && <b>{fixtures.length}</b>}</button>; })}</nav>
       <div className="friendly-source"><i/><div><strong>Live data connected</strong><span>{fixtureSource}</span></div></div>
     </aside>
