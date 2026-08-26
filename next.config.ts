@@ -14,7 +14,6 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/*": ["./DataBase/index.json", "./DataBase/sources/**/*"],
     "/api/f1-intelligence": [
-      "./DataBase/PredictionSystem/f1_predictor.py",
       "./DataBase/FormulaOne/driver_race_summary.csv",
       "./DataBase/FormulaOne/compound_performance.csv",
       "./DataBase/FormulaOne/drivers.csv",
@@ -23,7 +22,6 @@ const nextConfig: NextConfig = {
       "./DataBase/FormulaOne/stint_analysis.csv",
     ],
     "/api/f1-predict": [
-      "./DataBase/PredictionSystem/f1_predictor.py",
       "./DataBase/FormulaOne/driver_race_summary.csv",
       "./DataBase/FormulaOne/compound_performance.csv",
       "./DataBase/FormulaOne/drivers.csv",

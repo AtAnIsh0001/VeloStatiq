@@ -1,7 +1,7 @@
 import "server-only";
 import { promises as fs } from "node:fs";
 import path from "node:path";
-import { runF1PythonPrediction } from "./f1PythonPrediction";
+import { predictF1Race } from "./f1PredictionEngine";
 import { getNextF1Race } from "./f1DriverHistory";
 
 type Row = Record<string, string>;
@@ -26,7 +26,7 @@ export async function getF1Intelligence(driverCode="VER"){
   const [source,nextRaceRaw]=await Promise.all([data(),getNextF1Race()]); const nextRace=nextRaceRaw?{...nextRaceRaw,source:"Jolpica F1"}:null; const grouped=new Map<string,Row[]>(); for(const row of source.summary){const values=grouped.get(row.Driver)||[];values.push(row);grouped.set(row.Driver,values);} const identities=new Map(source.drivers.filter((row)=>row.code).map((row)=>[row.code,row]));
   const drivers:Driver[]=[...grouped].map(([code,values])=>{const identity=identities.get(code);const positions=values.map((row)=>number(row.best_position)).filter(Boolean);const laps=values.map((row)=>number(row.best_lap_sec)).filter(Boolean);return{code,name:identity?`${identity.forename} ${identity.surname}`:code,number:identity?.number==="\\N"?"—":identity?.number||"—",nationality:identity?.nationality||"Unknown",team:mode(values.map((row)=>row.Team)),races:values.length,fastestLap:laps.length?Math.min(...laps):0,consistency:mean(values.map((row)=>number(row.pace_consistency)).filter(Boolean)),bestFinish:positions.length?Math.min(...positions):0,bestLaps:values.reduce((sum,row)=>sum+number(row.personal_best_laps),0)};}).filter((driver)=>driver.races>=8).sort((a,b)=>b.races-a.races||a.fastestLap-b.fastestLap);
   const selected=drivers.find((driver)=>driver.code===driverCode)||drivers[0]; const races=[...new Set(source.summary.map((row)=>row.RaceName))].sort(); const selectedRace=matchArchiveRace(races,nextRaceRaw);
-  const prediction=await runF1PythonPrediction({driver:selected.code,race:selectedRace});
+  const prediction=await predictF1Race({driver:selected.code,race:selectedRace});
   const compounds=["SOFT","MEDIUM","HARD"].map((compound)=>{const values=source.compounds.filter((row)=>row.Compound===compound);const fastest=values.map((row)=>number(row.fastest_lap_sec)).filter(Boolean);return{compound,averageLap:mean(values.map((row)=>number(row.avg_lap_time_sec)).filter(Boolean)),fastestLap:fastest.length?Math.min(...fastest):0,averageLife:mean(values.map((row)=>number(row.avg_tyre_life_laps)).filter(Boolean))};});
-  return{generatedAt:new Date().toISOString(),source:"Python prediction engine · VeloStatiq DataBase",nextRace,drivers,races,selectedDriver:selected,selectedRace,prediction,compounds};
+  return{generatedAt:new Date().toISOString(),source:"VeloStatiq prediction engine · VeloStatiq DataBase",nextRace,drivers,races,selectedDriver:selected,selectedRace,prediction,compounds};
 }

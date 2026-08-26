@@ -946,7 +946,7 @@ function PredictionLab({
         <span className={busy ? "computing" : ""}>
           <i />
           <b>{busy ? "Updating…" : "Prediction ready"}</b>
-          <small>Made by Python</small>
+          <small>Made by VeloStatiq engine</small>
         </span>
       </section>
       <div className="model-selector friendly">
@@ -976,7 +976,7 @@ function PredictionLab({
           <strong>How to read this page</strong>
           <span>
             “Last time here” is the selected driver&apos;s recorded race at the
-            upcoming circuit. “Prediction” is Python&apos;s estimate for the
+            upcoming circuit. “Prediction” is the model&apos;s estimate for the
             next event on that same track.
           </span>
         </p>
@@ -1193,7 +1193,7 @@ function DataLab({ race, model }: { race: RaceData; model: Intelligence }) {
           <Activity />
           <span>
             <small>FORECAST ENGINE</small>
-            <strong>Python 3 · standard library</strong>
+            <strong>TypeScript · Node.js runtime</strong>
             <p>
               Historical weighted model · generated{" "}
               {formatFresh(model.generatedAt)}
@@ -1237,7 +1237,7 @@ function DataLab({ race, model }: { race: RaceData; model: Intelligence }) {
           <strong>Truthfulness boundary</strong>
           <span>
             Jolpica supplies recorded championship data. The local archive
-            supplies historical training evidence. Python produces estimates.
+            supplies historical training evidence. The model produces estimates.
             The 3D track is an illustrative reconstruction with recorded lap
             durations controlling replay speed.
           </span>
@@ -1613,7 +1613,7 @@ function ModelEvidence({ prediction }: { prediction: Prediction }) {
         </i>
       </div>
       <p>
-        <Activity /> Python combines these past results to make the guess.
+        <Activity /> The model combines these past results to make the guess.
       </p>
     </div>
   );
